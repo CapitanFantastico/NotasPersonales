@@ -1,0 +1,42 @@
+- 
+	- [ ] Horno Jimmy
+		- [ ] Elementos
+			- [ ] Termómetro
+			- [ ] Pala
+			- [ ] Madera
+			- [ ] Bandejas
+			- [ ] Parrillas
+		- [ ] Papas horneadas
+		- [ ] Nachos
+		- [ ] Costillas
+		- [ ] Pizza
+		- [ ] Empanadas argentinas
+		- [ ] Volcán de chocolate
+		- [ ] Panes
+		- [ ] Bondiola
+		- [ ] Merengues
+		- [ ] Frutas y verduras
+			- [ ] Tomates
+			- [ ] Piña
+			- [ ] Naranja
+			- [ ] Banano
+			- [ ] Limón
+		- [ ] Hiervas deshidratadas
+			- [ ] Cilantro
+			- [ ] Perejil
+			- [ ] Cebolla cabezona
+			- [ ] Pimentón
+			- [ ] Ajo
+			- [ ] Ají
+		- [ ] Cáscaras deshidratadas
+			- [ ] Naranja
+			- [ ] Limón
+
+Hacer cojín y vender el plato, para seguir preparando para todos.
+
+- Arroz
+- Arvejas
+- Triguisar
+- Carne de cerdo
+- Tocineta
+- Garra

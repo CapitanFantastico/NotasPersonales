@@ -1,0 +1,51 @@
+
+- [ ] Presupuesto
+	- Malla para respiradores
+	- [ ] Cortinas 15m x 3m
+	- [ ] Tejas 4 x 3m
+	- [ ] Cemento
+	- [ ] Trasteo $
+	- [ ] Trabajador $
+
+- [ ] Actividades
+	- [x] Cotizar material, d0
+	- [x] Comprar material, d6
+	- [ ] Finca
+		- [ ] Adecuar terreno
+			- [ ] Marcar 6x4
+			- [ ] Nivelar
+			- [ ] Aplanar
+			- [ ] Perforar
+		- [ ] Lijar y pintar vigas
+	- [ ] Buga
+		- [ ] Alistar columnas (total 6: 2 de 2.3, 2 de 2.7, 2 de 3.0)
+			- [ ] 3 platinas faltantes 25x25 1/8 (total 6)
+				- [ ] Cortar
+				- [ ] Limpiar
+				- [ ] Perforar
+				- [ ] Soldar a las columnas
+				- [ ] Adecuar la altura de las columnas a como quedará el techo
+				- [ ] Soldar las U a las columnas 
+				- [ ] Lijar y pintar
+		- [ ] Castillos
+			- [ ] Comprar varilla roscada inoxidable 7/16, 3/8 (total 6)
+			- [ ] Armar castillos
+			- [ ] Comprar cemento
+		- [ ] Desisntalar columnas Alfredo - Juancho
+		- [ ] Transportar material
+	- [ ] Finca
+		- [ ] Instalar castillos y bases
+		- [ ] Armar bodega sin techo
+			- [ ] Instalar cuadrante superior 3x3
+	- [ ] Buga
+		- [ ] Columnas Alfredo
+			- [ ] Adecuar altura
+			- [ ] Soldar las U a las columnas
+			- [ ] Lijar y pintar
+		- [ ] Transportar material
+	- [ ] Finca
+		- [ ] Instalar columnas faltantes
+		- [ ] Instalar estructura del techo
+		- [ ] Instalar techo
+		- [ ] Pegar piso, d7
+

@@ -1,0 +1,3 @@
+- Espejos
+- Pulidora
+- Horno

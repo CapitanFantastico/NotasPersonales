@@ -1,0 +1,19 @@
+
+- [ ] Confirmar con los estudiantes fecha y hora
+- [ ] Preparar tema
+- [ ] Disponer de una conexión a Internet y un plan de emergencia
+	- [ ] Backup Adriana
+	- [ ] Zoom
+- [ ] Alistar ropa cómoda
+- [ ] Alistar espacio
+	- [ ] Sillas
+	- [ ] Fondo
+	- [ ] Iluminación
+	- [ ] Portátil
+	- [ ] Tablet
+	- [ ] Clima
+	- [ ] Apuntado
+- [ ] Alistar agua
+- [ ] Alistar café
+- [ ] Alistar refrigerios
+- [ ] Faltando 20 minutos crear la conferencia

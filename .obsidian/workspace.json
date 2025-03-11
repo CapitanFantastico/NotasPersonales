@@ -1,0 +1,349 @@
+{
+  "main": {
+    "id": "0398c7ca2b1878e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e331466dfb432519",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b02ffb392955708b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO DO LIST.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TO DO LIST"
+            }
+          },
+          {
+            "id": "b4289f5fb85350a4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
+            "id": "f90c91af70561cf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fechas importantes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Fechas importantes"
+            }
+          },
+          {
+            "id": "be2c5cf97aaa6e4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "María Salome Osorio.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "María Salome Osorio"
+            }
+          },
+          {
+            "id": "daea4e6be12f1990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Script viaje en moto.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Script viaje en moto"
+            }
+          },
+          {
+            "id": "eb91739de16a860a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gastos mensuales.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Gastos mensuales"
+            }
+          },
+          {
+            "id": "55065bfa64b5e8d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Descargas pendientes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Descargas pendientes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "842a32c831a95b4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2841e95bbf72c5ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f64d16ef385cc35c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "def027da7eec4faa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f888c8e93d7d813d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4e328c4ce57e97aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c6975a2dc3deefa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "018a82cbd3a8728a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Script viaje.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Script viaje"
+            }
+          },
+          {
+            "id": "1c11094ece0c94ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Script viaje.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Script viaje"
+            }
+          },
+          {
+            "id": "993a9f52781f45ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7a6a9fb0e50dcfc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Script viaje.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Script viaje"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b02ffb392955708b",
+  "lastOpenFiles": [
+    "Moto Suzuki.md",
+    "SOAT 8901087725901.md",
+    "TO DO LIST.md",
+    "Inicio.md",
+    "Fechas importantes.md",
+    "María Salome Osorio.md",
+    "Ana Isabel Osorio.md",
+    "Gastos mensuales.md",
+    "Descargas pendientes.md",
+    "Script viaje en moto.md",
+    "Script viaje a Zarzal.md",
+    "Script finca.md",
+    "Proyecto Bodega.md",
+    "Visa USA.md",
+    "Script trabajo.md",
+    "Fitness.md",
+    "Maria Salome Osorio.md",
+    "Script viaje.md",
+    "Script viaje en carro.md",
+    "Script Cali.md",
+    "Script Clase virtual.md",
+    "Esenciales.md",
+    "Fechas importantes (Copia en conflicto de DESKTOP-GFAB4P7 2023-03-13).md",
+    "María Del Mar Osorio.md",
+    "Karen Julieth Osorio.md",
+    "Untitled 1.md",
+    "Pasted image 20241230172155.png",
+    "DerechoPeticionFalabella.jpg",
+    "MDMPasaporte.png",
+    "MDMRCN.png",
+    "Pasted image 20240615131152.png",
+    "Pasted image 20240615131036.png",
+    "Pasted image 20240615130122.png",
+    "Pasted image 20240615120124.png",
+    "Pasted image 20240615114413.png",
+    "Pasted image 20240615113005.png",
+    "El libro de los estiramientos. Consigue un cuerpo totalmente flexible.pdf",
+    "Templates"
+  ]
+}

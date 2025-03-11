@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "502f34f64cad8849",
+    "type": "split",
+    "children": [
+      {
+        "id": "42a9269acecfec7b",
+        "type": "leaf",
+        "dimension": 49.54058192955589,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TO DO LIST.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "547767fc8ff430e8",
+        "type": "leaf",
+        "dimension": 50.45941807044411,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fechas importantes.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba35e0bb68d7951e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f4a5bbe648d1858",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fd57047334c56eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6fb8844abf452d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "energ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01b5a90baa71042d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d401ef9334df1fd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d5dd79c6113a53b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eef8b5e808beb66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TO DO LIST.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d5197ad87f6d9955",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "42a9269acecfec7b",
+  "lastOpenFiles": [
+    "Fechas importantes.md",
+    "Cumpleaños GAO.md",
+    "TO DO LIST.md",
+    "Karen Osorio.md",
+    "Moto Yamaha.md",
+    "Asuntos Cocina.md",
+    "Asuntos Buseta.md",
+    "Asuntos Pagos.md",
+    "Asuntos Tuluá.md",
+    "Asuntos Compras.md"
+  ]
+}

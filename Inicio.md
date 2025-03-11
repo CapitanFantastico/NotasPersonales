@@ -1,0 +1,286 @@
+
+## Pendientes
+
+- [ ] Consultar correo Univalle
+- [ ] Consultar correo personal
+- [ ] Almuerzo
+- [ ] 7am Despachar niñas
+- [ ] 5pm Comida niñas
+	- [ ] Sopa
+	- [ ] Pasta
+	- [ ] Pescado
+	- [ ] Verduras al vapor
+
+---
+- [ ] Franklin
+	- [x] Pago $100
+	- [ ] Chatarrería
+		- [x] Tubos $180
+		- [ ] Guaya
+	- [ ] Revisión moto
+		- [ ] Reparar guardacadena
+		- [ ] Mover protector de caída
+		- [ ] Mejorar luces delanteras
+		- [ ] Probar luces traseras
+		- [ ] Instalar direccional
+		- [ ] Comprar llanta delantera
+		- [ ] Revisar frenos
+		- [ ] Cambio de filtro de aceite
+
+- [ ] Cobros
+	- [ ] Sandra - no contestó
+	- [ ] Henry 
+	- [ ] Locadia - no estaba
+	- [ ] Diana - el 15
+	- [ ] Alejandra - jueves
+
+- [ ] Casa
+	- [ ] Preparar clases
+		- [ ] GitHub projects
+		- [ ] Preparar exámen opcional BD
+		- [ ] Calificar parciales
+		- [ ] Calificar quices
+		- [ ] Calificar talleres
+		- [ ] Compartir notas
+		- [ ] Configuración servidor web y aplicación con docker
+			- [ ] Necesito más internet y más espacio
+		- [ ] Álgebra relacional
+		- [ ] GitHub actions
+		- [x] Subir notas de clase
+
+- [ ] Remoto
+	- [ ] Contraseña extracto Coomeva
+	- [ ] Fechas de pagos
+
+
+- [ ] PANACA
+	- [ ] Café
+	- [ ] Agua
+	- [ ] Cobijas picnic
+	- [ ] Vasijas almuerzo
+	- [ ] Teteros
+	- [ ] Audios clase
+	- [ ] Cachucha para todos
+	- [ ] Gafas oscuras para todos
+	- [ ] Coches
+	- [ ] Repelente
+	- [ ] Pañales
+	- [ ] Ropa
+	- [ ] Zapatos
+	- [ ] Chaqueta
+	- [ ] Zarzal miércoles
+		- [ ] Almuerzo
+		- [ ] Pruebas NGINX
+- [ ] Finca
+	- [ ] Instalación energía
+		- [ ] Ubicación
+		- [ ] Hablar con Don Anibal
+		- [ ] Guaya 8m
+		- [ ] Guantes
+		- [x] Comprar tubos
+		- [ ] Soldar tubos
+		- [ ] Perforar tubos
+		- [ ] Pintar tubos
+		- [ ] Cemento - de la huella
+		- [ ] Balastro - de la huella
+		- [ ] Arena - de la huella
+		- [ ] Caja contador
+		- [ ] Instalar
+			- [ ] Hueco
+			- [ ] Castillo?
+	- [ ] Huella
+	- [ ] Nivelar casa
+	- [ ] Llevar piedras
+	- [ ] Llevar baldosas
+	- [ ] Sembrar matas
+	- [ ] Trasteo Franklin
+	- [ ] Tablas
+	- [ ] Puntillas 2lb 1.5pulgadas
+	- [ ] 4 brocas
+	- [ ] agua
+	- [ ] almuerzo
+	- [ ] taladros y pilas
+	- [ ] sierra de mano
+	- [ ] grabaciones estudiar
+	- [ ] Traje apicultura y ahumador Franklin
+	- [ ] Chequear abejas
+	- [ ] Botas
+	- [ ] Whicher
+	- [ ] Correa
+- [ ] Pagar multa buseta
+- [ ] Finca
+- [ ] Cobros
+- [ ] Volver a pedir cita de educación nutricional Isabel
+- [ ] Volver a pedir odontología Isabel
+- [ ] Pedir cita María Salomé 
+	- [ ] Orden 419193017 S.O.S 1.115.095.282 Cirugía de tórax - Agendas en reestructuración
+	- [ ] Supersalud 01800 513700
+	- [ ] Cambio IPS a Hospital Universitario del Valle
+- [ ] Vitaminas Isabel
+- [ ] Almuerzo
+- [ ] Abejas panadería - trampa con feromonas
+- [ ] Pasamanos niñas
+- [ ] Limpiar moto
+- [ ] Lavar botas
+- [ ] Organizar cuarto
+- [ ] Radiografía odontología Yessica
+- [ ] Plataforma Univalle Campus virtual
+- [ ] Vuelta rara
+- [ ] Hacer queso
+- [ ] Waffles
+- [ ] Desocupar garaje
+- [ ] Audios
+- [ ] Gimnasio
+- [ ] Averiguar medicina prepagada COOMEVA
+- [ ] Publicaciones de actividades COOMEVA
+- [ ] Buscar internet
+- [ ] Taller
+	- [ ] Internet
+	- [ ] Tabla colmena
+	- [ ] Llevar puerta, mesas
+	- [x] Comprar tiquete MDM 23-junio - 24-junio
+- [ ] Cobros
+- [ ] Buscar sartenes de hierro
+- [ ] Curso pedagogía SENA
+- [ ] Mercado proteína 7x3x200g=4200g
+	- [ ] Bondiola 4000g
+	- [ ] Pepino 125g
+	- [ ] Pollo 200g
+	- [ ] Queso
+	- [ ] Bananos
+	- [ ] Frutas
+	- [ ] Verduras
+	- [ ] Café
+	- [ ] Cilantro
+	- [ ] Ajo
+- [ ] Pintar vigas metálicas
+- [ ] Pintar nevera - lijar
+- [ ] Gingseng
+- [ ] Chequear abejas
+- [ ] Univalle
+	- Desarrollo de software
+		- Preparación exámenes
+		- Revisión talleres y entregas
+		- Asesorías
+		- Práctica Git
+		- Práctica Trello
+		- Preparación clases siguientes
+			- Pruebas unitarias
+			- Calidad en el desarrollo de software
+	- Bases de datos
+		- Preparación exámenes
+		- Preparación clases siguientes
+			- SQL
+			- PostgreSQL
+- [ ] Otros
+	- [ ] Buscar cédula KJO
+	- [ ] Piojos, champú y peine
+	- [ ] Llamar a Rosero y a Lina socia
+	- [ ] Buscar papeles moto negra
+	- [ ] Pulir y pintar nevera
+		- [ ] Comprar laca
+- [ ] Finca
+	- [ ] Llevar
+		- [ ] Asador
+		- [ ] Cajas
+		- [ ] Lavadero
+		- [ ] Lavamanos
+		- [ ] Sanitario
+		- [ ] Ladrillos
+	- [ ] Dividir colmena
+	- [ ] Guadañar
+	- [ ] Cosechar
+	- [ ] Casa
+		- [ ] Baño y pozo séptico
+	- [ ] Alistar viaje a la finca
+		- [ ] Almuerzo
+		- [ ] MIC
+		- [ ] Lunes?
+- [ ] Negociación Gisselle
+- [ ] Cobros
+	- [ ] Locadia
+	- [ ] Diana postres
+	- [ ] Pacho Samy
+	- [ ] Gilma
+	- [ ] Elsa
+	- [ ] Cobranzas Jhon
+- [ ] Viaje MDM
+	- [ ] Renovar tarjeta Falabella
+	- [ ] Compra de tiquete
+	- [ ] Actividades
+	- [ ] Casa en el árbol
+	- [ ] Escalada montaña
+- [ ] Revenge
+	- [ ] Itinerario
+		- [ ] Sab
+			- [ ] Moto
+			- [ ] Carro
+			- [ ] Poncho negro
+			- [ ] Zapatos
+			- [ ] Pantaloneta
+			- [ ] Pantalones
+			- [ ] Camiseta
+			- [ ] Buso negro sueter
+			- [ ] Bolsas negras
+			- [ ] Maletines
+			- [ ] Llaves
+			- [ ] Linterna
+			- [ ] Cachucha
+			- [ ] Gafas
+			- [ ] Bufanda
+			- [ ] Tapabocas
+			- [ ] Guantes
+			- [ ] Arma
+			- [ ] Cargo elementos en el carro
+			- [ ] Me visto
+			- [ ] Dejo teléfono en SR
+			- [ ] Entrego niñas a MIC
+			- [ ] Voy donde Frank
+			- [ ] Paso por Santi
+			- [ ] 8PM k7xcl5, Santi confirma que no haya nadie 
+			- [ ] Llevo a Santi
+			- [ ] 8:30 Parqueo en la panadería y compro algo, simulo tomármelo en el carro
+			- [ ] Espero a Frank
+			- [ ] Recorro Cl7x5 > Cl7x6 > Casa
+			- [ ] Guantes y linterna
+			- [ ] Conteo 20min
+			- [ ] Abro patio
+			- [ ] Pongo escalera
+			- [ ] Cierro patio sin llave
+			- [ ] Empaco maleta Frank (equipo pesado), GAO (resto)
+			- [ ] Visto sueter, gafas, gorra y tapabocas
+			- [ ] Guardo linterna
+			- [ ] Salgo cargado y cierro con llave
+			- [ ] Dejo la bolsa de Frank
+			- [ ] Guardo guantes
+			- [ ] Salgo por la 7 hasta el carro
+			- [ ] Descargo donde Frank
+			- [ ] 9:00 Retorno a la casa
+			- [ ] Razurada y corte de cabello
+			- [ ] Cambio de ropa
+- [ ] Tareas Olga
+	- [ ] Abrir carne 1000g, adobar, porcionar y congelar
+	- [ ] Moler carne restante, adobar, porcionar y congelar
+	- [ ] Retirar hueso y piel de la pechuga, adobar, porcionar y congelar
+	- [ ] Picar verduras - marcar bolsas
+		- [ ] Picar zanahoria, porcionar y congelar
+		- [ ] Picar piña, porcionar y congelar
+		- [ ] Sacar pulpa de maracuyá, porcionar y congelar
+		- [ ] Sacar pulpa de tomate de árbol, porcionar y congelar
+		- [ ] Picar tomate, porcionar y congelar (dejar 3 tomates frescos)
+		- [ ] Pelar bananos, porcionar y congelar
+		- [ ] Pelar maduros, porcionar y congelar
+		- [ ] Pelar verdes, porcionar y congelar
+		- [ ] Lavar, desinfectar, secar y porcionar frutas niñas (fresas, uvas, arándanos, piña) 
+		- [ ] Picar cebolla cabezona, porcionar y congelar
+		- [ ] Picar pimentón y congelar
+		- [ ] Picar cebolla larga y congelar
+		- [ ] Desinfectar cilantro y almacenar
+		- [ ] Picar ajo y congelar
+		- [ ] Hacer pasta de ajo
+		- [ ] Picar maíz y congelar
+		- [ ] Picar zapallo y congelar
+		- [ ] Remojar granos y congelar
+		- [ ] Moler queso, porcionar y congelar
+		- [ ] Picar apio y porcionar
+- [ ] Derecho de petición Claro

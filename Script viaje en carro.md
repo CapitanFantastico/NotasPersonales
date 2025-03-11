@@ -1,0 +1,21 @@
+
+- [ ] Alistar llaves del vehículo 
+- [ ] Alistar llaves de repuesto
+- [ ] Alistar documentos del vehículo
+	- [ ] Tarjeta de propiedad
+	- [ ] Revisión técnico mecánica (revisar)
+	- [ ] SOAT (revisar)
+- [ ] Alistar licencia del conductor (revisar)
+- [ ] Tanquear vehículo el día anterior
+- [ ] Validar vigencia de la recarga del extintor
+- [ ] Validar cambio de líquidos
+	- [ ] Aceite
+	- [ ] Frenos
+	- [ ] Limpiabrisas
+- [ ] Verificar correcto funcionamiento del vehículo
+	- [ ] Luces
+		- [ ] Frontales
+		- [ ] Traseras
+		- [ ] Direccionales
+	- [ ] Llantas
+	- [ ] Frenos

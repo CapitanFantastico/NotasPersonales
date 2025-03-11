@@ -1,0 +1,32 @@
+- [ ] x 
+	- [ ] Víveres finca
+		- [x] Pan
+		- [x] Galletas
+		- [x] Spaguetti
+		- [x] Café
+		- [x] Avena
+		- [x] Leche en polvo
+		- [x] Azúcar
+		- [x] Sal
+		- [x] Chocolate
+		- [x] Canela
+		- [x] Bananos
+		- [x] Ajos
+		- [x] Mantequilla
+		- [x] Aceite
+		- [x] Harina
+		- [x] Levadura
+		- [x] Pimienta
+		- [x] Almendras y pasas
+		- [x] Té
+		- [x] Limón
+		- [x] Arepa lista
+	- [ ] Finca trasteo
+		- [x] Papel periódico para cristalería 
+		- [x] Film plástico
+		- [x] Cinta 
+		- [x] Cajas 
+		- [x] Marcador 
+		- [ ] Bolsas basura
+		- [ ] Ayudantes (~~Jenny~~, Franklin, Alfredo)
+		- [ ] Camión

@@ -1,0 +1,88 @@
+- Justo en la mira
+- Bajocero
+- Su último deseo
+- La muerte le sienta bien
+- El coleccionista de huesos
+- El señor de la guerra
+- Conair
+- El plan perfecto
+- Hotel Ruanda
+- Beast of no nation
+- El irlandés
+- Oxígeno
+- Triple frontera
+- Enmienda XIII
+- The Laundromat, dinero sucio
+- Traidor
+- Ciudad de Dios
+- Noticias del gran mundo
+- El ciudadano Kein
+- 2012
+- El juicio de los 7 de Chicago
+- El Vicepresidente, más allá del poder
+- La gran apuesta (The Big Short)
+- Rango
+- Celda 223
+- Hotel Ruanda
+- Vacaciones de verano
+- El lobo de Wall street
+- El color de los sueños
+- Capitán fantástico
+- Velvet Buzzsaw
+- El caso Thomas Crown
+- La tarde de los lápices
+- Django
+- Interstellar
+- Tiki
+- Amistad
+- Amelie
+- La máscara
+- Hable con ella
+- La isla de las rosas
+- The W.A.S.P.
+- El peor de todos los males
+- El médico
+- Munich en vísperas de una guerra
+- Atrápame si puedes
+- La lista de Schindler
+- Un angel enamorado
+- Parásitos
+- Hombre en llamas
+- Bastardos sin gloria
+- Sueños de fuga
+- Caracortada
+- El padrino I, II, III
+- Gladiador
+- Troya
+- El irlandés
+- El club de la pelea 
+- Cara contra cara
+- No mires para arriba
+- Tres meses, tres días, tres horas
+- 8 horas
+	- Historia de un combatiente que está en el limbo de la muerte, pero es usado para investigar un crimen
+- En el corazón del mar
+	- Película sobre la historia real que inspiró el libro Moby Dick
+- Harry Potter
+- Animales fantásticos
+- Inquebrantable
+	- Historia de un soldado americano detenido en un campo de concentración durante la segunda guerra mundial
+- Crimen perfecto
+	- Un millonario asesina a su esposa infiel y busca burlar la ley, pero es atrapado
+- Al filo del mañana
+- Madame Curie
+- Brujas
+- Spiderman, un nuevo universo
+- [ ] Rango
+- [ ] DJango sin cadenas
+- [ ] Más dura será la caída
+- [ ] Rápida y mortal
+- [ ] El club de la pelea
+- [ ] Troya
+- [ ] Gladiador
+- [ ] Gánster americano
+- [ ] El irlandés
+- [ ] Forrest Gump
+- [ ] Inquebrantable
+- [ ] Hombre en llamas
+- [ ] Eterno resplandor de una mente sin recuerdos

@@ -1,0 +1,10 @@
+- Hábitos de estudio
+	- Estudiar periodos cortos de tiempo varias veces al día
+	- Hábito x 21 días, todos los días a la misma hora en el mismo lugar
+	- Trazar objetivos pequeños para cada sesión, visualización
+	- Recompensa por cumplir el objetivo (Si cumple el objetivo se le devuelve el propio dinero o el teléfono)
+	- Aprende para enseñar y no para memorizar
+	- Practicar sirve para asimilar el conocimiento
+	- Alejar distracciones (teléfono)
+- Otros
+	- Recién sale de estudiar es más activa

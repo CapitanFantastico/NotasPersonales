@@ -1,0 +1,17 @@
+
+- [ ] Almohadilla para borrar tablero
+- [ ] Marcadores borrables
+- [ ] Tinta
+- [ ] Lápices
+- [ ] Lapiceros
+- [ ] Gafas
+- [x] Hojas para exámen
+- [x] Cable HDMI
+- [ ] Teclado Bluetooth
+- [x] Mouse Bluetooth
+- [x] Carnet
+- [ ] Computador portátil
+- [ ] Memoria USB
+- [ ] Baterías AA 
+- [x] Baterías AAA
+- [x] Impresiones

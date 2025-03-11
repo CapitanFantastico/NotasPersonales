@@ -1,0 +1,89 @@
+
+- [ ] Propósito
+	- [ ] Transporte de material
+		- [ ] Ayudante
+		- [ ] Espacio para almacenar
+	- [ ] Poda de árboles
+		- [x] Podadora
+		- [x] Batería cargada
+		- [ ] Buso
+		- [ ] Gafas
+		- [ ] Monja
+	- [ ] Cosechar naranjas
+		- [ ] Costales
+		- [ ] Bufanda
+		- [ ] Monja
+		- [ ] Gafas
+		- [ ] Cachucha
+		- [ ] Buso
+	- [ ] Fumigar mata maleza
+		- [x] Bomba y cargador
+		- [x] Producto a aplicar
+		- [ ] Batería cargada
+		- [ ] Traje de plástico
+		- [ ] Tapabocas
+		- [ ] Gafas
+	- [ ] Fumigar con oxicloruro de cobre
+		- [x] Bomba y cargador
+		- [x] Producto a aplicar
+		- [x] Batería cargada
+		- [ ] Tapabocas
+		- [ ] Gafas
+	- [ ] Bodega
+		- [ ] Material
+		- [ ] Herramientas
+			- [ ] Manguera de nivel
+	- [ ] Poste de luz
+		- [ ] Perros
+		- [ ] Cuñas
+	- [ ] Abejas
+		- [ ] Trajes
+		- [ ] Equipo
+	- [ ] Huerta
+		- [ ] Semillas
+
+- [ ] Varios
+	- [ ] Audios
+	- [ ] Repelente de mosquitos
+	- [ ] Protector solar
+	- [ ] Candela
+	- [ ] Linterna
+	- [ ] Teléfono y cargador
+	- [ ] Cable cargador moto
+	- [ ] Computador
+	- [ ] Toldillo
+	- [ ] Colchoneta
+	- [ ] Costales
+	- [ ] Toalla
+	- [ ] Jabón
+	- [ ] Papel
+	- [ ] Cuerdas
+	- [ ] Neumáticos
+	- [ ] Semillas
+
+- [ ] Ropa de trabajo
+	- [ ] Pantalones
+	- [ ] Sombrero 
+	- [ ] Monja
+	- [ ] Bufanda
+	- [ ] Ninja
+	- [ ] Guantes
+	- [ ] Buso manga larga
+	- [ ] Botas de caucho
+
+- [ ] Ropa de viaje en moto
+	- [ ] Impermeable
+	- [ ] Botas de silicona
+
+- [ ] Alimentos
+	- [ ] Pan
+	- [ ] Maní
+	- [ ] Arroz
+	- [ ] Pasta
+	- [ ] Atún
+	- [ ] Adobo
+	- [ ] Huevos
+	- [ ] Cebolla
+	- [ ] Tomate
+	- [ ] Salsa de tomate
+	- [ ] Mayonesa

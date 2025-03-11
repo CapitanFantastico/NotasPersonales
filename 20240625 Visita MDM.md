@@ -1,0 +1,493 @@
+## Itinerario
+- [x] 2024-06-24 Lun
+	- 22:00 Viaje a Bogotá $70
+- [x] 2024-06-25 Mar
+	- 19:00 Llegada vuelo AV219 
+	- 21:00 Viaje a Buga $140
+- [x] 2024-06-26 Mie
+	- Buga, descanso
+- [x] 2024-06-27 Jue
+	- [x] Postres
+- [x] 2024-06-28 Vie
+	- [x] French toast
+	- [x] Pizza
+		- [ ] Salsa napolitana
+		- [ ] Queso
+		- [ ] Tomate
+		- [ ] Pimentón
+		- [ ] Cebolla
+	- [x] Raspados / Cholados
+- [x]  ==**2024-06-29 Sab**==
+	- [x] Cali, IKEA
+	- [x] Arroz con cerdo y verduras
+	- [x] Pijamada Majo - Pasan por MDM
+- [x] ==**2024-06-30 Dom**==
+- [x] 2024-07-01 Lun Festivo
+	- [ ] Piscina
+	- [ ] Galletas
+	- [ ] Rollos de canela
+	- [ ] Películas
+	- [ ] Juegos
+	- [ ] Almuerzo
+		- [ ] Sopa de pollo
+		- [ ] Arroz con verduras
+		- [ ] Pechuga asada
+- [x] 2024-07-02 Mar
+	- [x] 11:00 Odontología Yésica
+	- [x] 17:30 Inicio Voleyball
+	- [x] Caldo de pollo
+	- [x] Pasta 
+- [x] 2024-07-03 Mie
+	- [x] 07:30 Llevar a las niñas
+	- [x] 09:00 Cita control y desarrollo Isabel
+	- [x] 11:00 - 12:00 Baile
+	- [x] 15:30 Pasar por las niñas
+	- [x] 17:00 Comida niñas
+	- [x] 17:30 - 19:00 Voleyball
+	- [ ] Almuerzo
+		- [ ] Quinua
+		- [ ] Milanesa de berenjena
+		- [ ] Lentejas
+		- [ ] Arroz blanco con verduras
+		- [ ] Brócoli en salsa china
+		- [ ] Cebollas caramelizadas
+		- [ ] Ensalada lechuga, garbanzo, pollo
+		- [ ] Ensalada césar y pechuga de pollo a la plancha, crutons
+- [x] 2024-07-04 Jue
+	- [x] 07:30 Llevar a las niñas
+	- [x] 11:00 - 12:00 Baile
+	- [x] 15:30 Pasar por las niñas
+	- [x] 17:00 Comida niñas
+	- [x] 17:30 - 19:00 Voleyball
+- [x] 2024-07-05 Vie
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 11:00 - 12:00 Baile
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 17:00 Comida niñas
+	- [ ] 17:30 - 19:00 Voleyball
+	- [ ] ? - Valoración odontológica Salomé
+	- [ ] Martha va para Zarzal
+	- [ ] Almuerzo
+		- [ ] Lentejas
+		- [ ] Arroz blanco
+		- [ ] Cebollas caramelizadas
+		- [ ] Ensalada lechuga, garbanzo, pollo
+		- [ ] Brócoli en salsa china
+		- [ ] Ensalada césar y pechuga de pollo a la plancha, crutons
+- [x] ==**2024-07-06 Sab**==
+	- [ ] Almuerzo
+		- [ ] Sesame chicken
+- [x] ==**2024-07-07 Dom**==
+	- [ ] Actividades
+		- [ ] Piscina
+	- [ ] Comidas
+		- [ ] Caldo de pollo
+		- [ ] Bacon, toast, caramelized onion 
+- [x] 2024-07-08 Lun
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] Comidas
+		- [ ] Lentejas
+		- [ ] Dumplings
+		- [ ] Ceviche
+		- [ ] Papa y salsa sabrosa
+		- [ ] Ensalada césar
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 17:00 Comida niñas
+	- [ ] 17:30 - 19:00 Voleyball
+	- [ ] Actividades
+		- [ ] Leer H.P.
+		- [ ] Películas
+		- [ ] Juegos con las niñas
+		- [ ] Rio piedras
+		- [ ] Janeiro
+		- [ ] Acampar finca
+		- [ ] Los chorros
+		- [ ] Balneario - bailar
+- [x] 2024-07-09 Mar
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] Comidas
+		- [ ] Arroz de leche
+		- [ ] Postre de milo
+		- [ ] Ensalada César
+	- [ ] 10:00 Autorizaciones médicas
+	- [ ] 11:00 Odontología Yésica
+	- [ ] 11:30 Facturar
+	- [ ] 13:00 Cita pediatría Dra Martha Arias MDM
+	- [ ] 14:00 Isabela
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 17:00 Comida niñas
+	- [ ] 17:30 - 19:00 Voleyball
+- [x] 2024-07-10 Mie
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 09:00 - 11:00 Voleibol
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] Comidas
+		- [ ] Chop Suey
+	- [ ] 17:00 Comida niñas
+	- [ ] 17:00 - 18:00 Baile
+- [x]  2024-07-11 Jue
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 09:00 - 10:40 Voleibol
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] Comidas
+		- [ ] Ensalada césar
+		- [ ] Nachos con guacamole
+	- [ ] 17:00 Comida niñas
+	- [ ] 17:00 - 18:00 Baile
+- [x] 2024-07-12 Vie
+	- [ ] 06:00 Pedir cita de control MDM  9-Ago máx
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] Comidas
+	- [ ] 17:00 Comida niñas
+	- [ ] 17:30 - 19:00 Voleyball
+- [x] ==2024-07-13 Sab==
+	- [ ] 10:00 - 11:30 Baile
+- [x] ==2024-07-14 Dom==
+- [x] 2024-07-15 Lun
+	- [ ] 06:00 Pedir cita de control MDM  9-Ago máx
+	- [x] 07:30 Llevar a las niñas
+	- [ ] 12:00 Odontología
+	- [x] 15:30 Pasar por las niñas
+	- [ ] Comidas
+	- [ ] 17:00 Comida niñas
+	- [ ] 17:30 - 19:00 Voleyball
+- [x] 2024-07-16 Mar
+- [x] 2024-07-17 Mie
+- [x] 2024-07-18 Jue
+	- [ ] Comidas
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 10:30 Baile
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 17:00 Comida niñas
+- [x] 2024-07-19 Vie
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 10:30 - 12:00 Baile
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 17:00 Comida niñas
+	- [ ] 17:30 - 19:00 Voleyball
+	- [ ] Finca
+	- [ ] MDM Angélica
+	- [ ] Pasar por los exámenes de MDM
+	- [ ] Comidas
+	- [ ] Alistamiento día de la familia
+- [x] ==2024-07-20 Sab==
+	- [ ] 07:00 Día de la familia
+	- [ ] 10:00 - 11:30 Baile
+- [x] ==2024-07-21 Dom==
+- [x] 2024-07-22 Lun - ==Consulta optometría==
+	- [x] 07:30 Llevar a las niñas
+	- [x] 10:00 Optica Mercurio, Consulta, Cra 12 6-26
+	- [x] 12:00 Odontología
+	- [x] 15:30 Pasar por las niñas
+	- [ ] 17:00 Comida niñas
+	- [ ] 17:30 Voleyball
+- [x] 2024-07-23 Mar
+	- [x] 07:30 Llevar a las niñas
+	- [ ] Adelantar cita cardiología
+	- [ ] Comidas
+		- [ ] Pollo
+		- [ ] Lentejas
+		- [ ] Arroz
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 17:00 Comida niñas
+	- [ ] 17:30 Voleyball
+	- [ ] Planear Valle del Cocora, Salento
+- [x] 2024-07-24 Mie
+	- [x] 07:30 Llevar a las niñas
+	- [ ] 09:00 Voleyball
+	- [ ] Comidas
+		- [ ] Pollo
+		- [ ] Lentejas
+		- [ ] Arroz
+	- [ ] 15:00 Baile
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 17:00 Comida niñas
+	- [ ] Planear Valle del Cocora, Salento
+	- [ ] Cancelar citas Hospital
+- [x] 2024-07-25 Jue
+	- [ ] 10:30 - 12:00 Baile
+- [x] 2024-07-26 Vie
+- [x] ==2024-07-27 Sab==
+	- [ ] Uñas
+	- [ ] Chorros
+- [x] ==2024-07-28 Dom==
+	- [ ] Cascadas del milagroso
+- [x] 2024-07-29 Lun - Odontología
+	- [ ] Encanto, Pitingos, Lago calima, casa en el árbol, brinca brinca, camping, escalada, balneario
+	- [ ] Cancelar citas hospital
+	- [ ] Programar citas niñas
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 12:00 Odontología
+	- [ ] Comidas
+		- [ ] Chuleta de cerdo
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 17:00 Comida niñas
+	- [ ] 17:30 Volleyball
+	- [ ] Cancelar citas Hospital
+- [x] 2024-07-30 Mar
+	- [ ] Encanto, Pitingos, Lago calima, casa en el árbol, brinca brinca, camping, escalada, balneario
+	- [ ] Cancelar citas hospital
+	- [ ] Programar citas niñas
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] Comidas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 17:00 Comida niñas
+	- [ ] 17:30 Volleyball
+- [x] 2024-07-31 Mie - Baile
+	- [ ] Encanto, Pitingos, Lago calima, casa en el árbol, brinca brinca, camping, escalada, balneario
+	- [ ] Cancelar citas hospital
+	- [ ] Programar citas niñas
+	- [ ] Útiles escolares
+	- [ ] Ropa
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 09:00 Volleyball 10:45
+	- [ ] Comidas
+	- [ ] 12:00 Pasar por Isabela
+	- [ ] 12:30 Pasar por las niñas
+	- [ ] 13:00 Salón de belleza
+	- [ ] 15:00 Fotoestudio
+	- [ ] 15:00 Baile 17:00
+	- [ ] 17:00 Comida niñas
+- [x] 2024-08-01 Jue - Baile
+	- [ ] 18:00 Baile 19:30
+	- [ ] Elote
+- [x] 2024-08-02 Vie
+	- [ ] Pitingos, Lago calima, casa en el árbol, camping, escalada, balneario
+	- [ ] Programar citas niñas
+	- [ ] Ropa
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 13:00 Pasadía hotel
+	- [ ] Comidas
+	- [ ] 15:00 Pasar por las niñas
+	- [ ] 15:00 Volleyball 17:00
+	- [ ] 17:00 Comida niñas
+- [x] ==2024-08-03 Sab== - Brinca brinca
+- [x] ==2024-08-04 Dom== - Encanto
+- [x] 2024-08-05 Lun - Odontología
+	- [ ] Pitingos, Lago calima, casa en el árbol, camping, escalada, balneario
+	- [ ] Programar citas niñas
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] Comidas
+	- [ ] 15:00 Pasar por las niñas
+	- [ ] 15:00 Volleyball 17:00
+	- [ ] 17:00 Comida niñas
+- [x] 2024-08-06 Mar 
+- [x] 2024-08-07 Mie - 
+- [x] 2024-08-08 Jue 
+	- [ ] Pitingos, Lago calima, camping, escalada, balneario
+	- [x] Programar citas niñas
+	- [x] 07:30 Llevar a las niñas
+	- [x] Comidas
+	- [x] 09:00 Volleyball 10:40
+	- [x] 15:00 Pasar por las niñas
+	- [x] 17:00 Comida niñas
+	- [x] 18:00 Clase de baile 19:30
+	- [ ] Cobros
+	- [ ] Cambio de aceite
+	- [x] Imprimir TIMDM
+	- [x] Imprimir permiso salida IEE
+	- [x] Vitaminas Isabel
+- [ ] 2024-08-09 Vie ==Ecocardiograma y cita cardiólogo
+	- [ ] 06:00 Salida para Cali
+	- [ ] 09:00 [[Ecocardiograma y cita cardiólogo pediátrico]] 
+	- [ ] Home Center
+	- [ ] Teclado computador
+- [ ] ==2024-08-10 Sab== - ==Cita pediatra==
+	- [ ] 8:40 Cita pediatría Dra Arias
+- [ ] ==2024-08-11 Dom== ==Finca Adriana==
+- [ ] 2024-08-12 Lun
+
+- Controles médicos
+	- [x] Cita pediatría 9-jul
+	- [ ] Exámenes médicos
+		- [x] Hemograma tipo III
+		- [x] Glucosa
+		- [x] Hormona
+		- [x] Creatinina
+		- [x] Nitrógeno
+		- [x] Uroanálisis
+		- [x] Consulta optometría (Pendiente gafas)
+		- [ ] Ecocardiograma (Ago 9 09:00)
+		- [ ] Consulta cardiología (Ago 9 09:00)
+	- [ ] Cita de control pediatría (Ago 10 10:40)
+
+- Alistamiento
+	- Limpiar moto
+	- Arreglar casco
+	- Organizar cuarto y casa
+	- Organizar finca y carpa
+	- Buscar actividades por hacer 
+
+
+Información de vuelos
+- Mar 25Jun2024 19:35 AV219 Orlando - Bogotá 
+- Lun 12Ago2024 12:02 CM0308 Cali - Panamá 
+- Lun 12Ago2024 18:03 CM0434 Panamá - Orlando
+
+
+
+- Permisos de salida del país
+- Citas médicas
+	- Pediatra
+- Invitados
+	- Manuela
+	- Luciana
+	- Isabela
+	- Santiago
+	- Gisselle
+	- Hijas de Ana Milena
+- Actividades
+	- Piscina
+	- Cocinar
+		- Pizza
+		- Crepes
+		- Waffles
+		- Pasteles
+		- Repollas
+		- Galletas
+	- Deporte
+		- Saque voleiball
+		- Piques
+		- Saltar
+	- Autodefensa
+	- Escalada montaña?
+	- Río
+	- Camping
+	- Finca
+	- Viaje
+
+
+Durante
+- Matemáticas
+- Ciencias y matemática
+	- El buzo de descartes
+	- Método japonés de multiplicación
+	- Método Po Shen Loh
+	- Memorización
+	- Cuadrados perfectos
+- Cocina
+- Cultivar
+- Filosofía
+	- Educar en la derrota
+	- Ateismo
+- Música
+- Entrenamiento de voleyball
+- Baile
+- Visita Josefina
+- Citas médicas de control
+- Gym
+- Alimentación proteica
+- Campamento
+- Piscina
+- Los chorros
+- Balneario
+- Río
+- Fincas
+	- Adriana
+	- Silvia
+	- Naranjos
+	- Ana Milena
+- Casa en el árbol
+- Camping
+- Masmelos y chocolate
+- Fogata
+- Bacon
+- Películas
+	- Intestelar
+	- Robot
+	- 2012
+	- Superman
+
+- Comprar
+	- Queso italiano
+	- Crema de leche
+	- Albahaca
+
+- Proteínas
+	- Soya
+	- Lentejas
+	- Quinoa
+	- Garbanzos
+	- Frijol negro
+	- Arvejas
+	- Arroz integral
+	- Yogurt griego
+	- Almendras
+	- Espinacas
+	- Brócoli
+	- Hummus
+
+- Comidas
+	- [x] Churros
+	- [ ] Buñuelos
+	- [ ] Pandebonos
+	- [ ] Empanadas
+	- [x] Mufin de choclo
+	- [x] Arepa de choclo
+	- [x] Macitas
+	- [ ] Salmón
+	- [x] Tornillitos
+		- [ ] Aceite de oliva y ajo
+	- [ ] Spaguettis
+		- [x] Pomodoro
+		- [ ] Al freddo
+			- [ ] Queso italiano
+			- [ ] Crema de leche
+			- [ ] Albahaca
+	- [x] Arepa waffle
+	- [x] Pechuga a la plancha
+	- [x] Coliflor al vapor
+	- [x] Brocoli salsa china
+	- [x] Vainitas japonesas
+	- [ ] Sésame chicken
+	- [x] Clara de huevo
+	- [x] Jugo de naranja
+	- [x] Cebolla caramelizada
+	- [x] Lechuga con limón
+	- [x] Cholado
+	- [x] Choclo cocido con queso?
+	- [x] Arroces
+		- [ ] Con verduras
+		- [ ] Con pollo
+	- Pasta
+		- Lasagna
+		- Mac&Cheesse
+		- Spaguetti
+			- Plain
+			- Al freddo
+			- Marinara
+			- Carbonara
+			- Aglio e olio
+	- Otros
+		- Ensalada César 
+		- Pizza
+		- Tortas
+		- Cinamon rolls
+		- Wafles
+			- Clásico
+			- Pandebono
+			- Papa
+			- Torta
+		- Crepes
+		- Pancakes
+		- French toast
+		- Pandebono
+		- Buñuelo
+		- Arepa de choclo
+		- Quesadilla
+		- Masitas de choclo
+		- Masitas de banano y queso
+	- Proteína
+		- Atún
+		- Pechuga de pollo
+		- Bacon
+		- Pescado al vapor
+	- Verduras y ensaladas
+		- Verduras al vapor
+		- Lechuga con sal y limón
+	- Aderezos
+		- Natas
+		- Mantequilla de ajo
+		- Vinagreta
+		- Queso

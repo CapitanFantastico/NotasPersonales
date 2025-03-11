@@ -1,0 +1,12 @@
+# CUESTIONAMIENTOS
+- Propósito?
+- Qué?
+- Cuándo?
+- Dónde?
+- Cómo ?
+- Quién?
+- Por qué?
+- Es cierto?
+- Es útil?
+- Es bueno?
+- Es necesario?

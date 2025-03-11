@@ -1,0 +1,4 @@
+- Movimientos
+- Saldo inicial
+- Fecha, Depósito/Retiro, Saldo
+- 2022-04-10 $0 SaldoInicial

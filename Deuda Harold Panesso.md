@@ -1,0 +1,16 @@
+- Abogado Harold Panesso $10'
+	- [x]  $2' Pago inicial - 16-noviembre/2021 OK
+	- [x]  $1' Pago en el banco del parque - diciembre/2021 OK
+	- [x]  $1' Pago en Coomeva - enero/2022 OK
+	- [x] $1' Pago en electro Japonesa olímpica - 19-mar-2022
+	- [x] $1' 9-may/2022 en el parque Cabal
+	- [x] $1' 7-jun/2022
+		- [x] $500 1-jul/2022 Pago en efectivo en la casa de Harold
+		- [x] $500 23-ago/2022 Pago en efectivo en la casa de Harold
+	- [ ] $1' 7-jul/2022
+		- [x] $500 6-oct/2022 USA MIC Transfer
+		- [x] $500 13-nov/2022 nov/2022 USA MIC
+	- [ ] $1' 7-ago/2022
+		- [x] $500 18-dic/2022 USA MIC
+		- [x] $500 
+	- [x] $1' 7-sep/2022 Saldado 27 de febrero 2023

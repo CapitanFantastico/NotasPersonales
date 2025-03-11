@@ -1,0 +1,1447 @@
+
+ Tags: #planeacion, #todolist, #[[Rituales]]
+
+# PRIORIDADES
+
+- ## Ingresos económicos
+- ## Bienestar personal
+- ## Otros
+ 
+---
+
+- [ ] Lunes 10, 17 
+	- [ ] Entreno
+	- [ ] 08:30 Llevar a las niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 12:00 Almuerzo
+	- [ ] 20:00 Alistamiento viaje a Zarzal
+		- [ ] Revisar moto
+		- [ ] Alistar maletín
+		- [ ] Preparar tema
+		- [ ] Comprar pan, pasas
+- [ ] ---
+
+- [ ] Martes 11, 18 ==Zarzal 06:00 - 22:30== (11-marzo, inducción biblioteca 9-11)
+	- [ ] 06:00 Salida a Zarzal
+	- [ ] 08:00 - 11:00 ==Clase I1FPZ50== Bolivar
+	- [ ] 14:00 - 17:00 ==Clase GPSZ50== Balsas sala 3
+	- [ ] 18:00 - 21:00 ==Clase GPSZ51== Balsas sala 2
+	- [ ] Entreno
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [x] Faena donde Ana Milena     
+		- [ ] Pizza
+		- [ ] Alitas Ana Milena
+		- [ ] Desposte res
+		- [ ] Barril
+		- [ ] Apanado
+	- [ ] 20:00 Sacar basura
+
+- [ ] Miércoles 12, 19 ==Yumbo 16:30 - 22:30== (12-marzo, cumpleaños), (16-abril cita [[Visa USA]]) 
+	- [ ] Entreno
+	- [ ] Piscina
+	- [ ] Llevar a las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [x] Mercado, miércoles de plaza
+	- [ ] 16:30 Salida a Yumbo
+	- [ ] 18:30 ==Clase DS2== 
+
+- [ ] Jueves 13, 20 ==Yumbo 05:00 - 14:00==
+	- [ ] 08:00 ==Clase Bases de Datos==
+	- [ ] Entreno
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] Almuerzo
+	- [ ] Pasar por las niñas
+	- [ ] 20:00 Sacar basura
+
+- [ ] Viernes 14, 21 ==Zarzal 16:00 - 22:00==
+	- [ ] Entreno
+	- [ ] Piscina
+	- [ ] Llevar a las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 12:00 Almuerzo
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 14:00 Alistamiento Zarzal
+		- [ ] Café
+		- [ ] Agua
+		- [ ] Snack
+			- [ ] Maní
+			- [ ] Pasas
+			- [ ] Chocolate
+			- [ ] Pan
+			- [ ] Fruta
+	- [ ] 18:00 ==Introducción a la programación==
+
+- [ ] Sábado 15, 22
+	- [ ] Entreno
+	- [ ] Llevar a las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 14:00 Piscina Comfenalco clases de natación gomelitas
+	- [ ] 17:30 Cobro Gilma 
+	- [ ] 20:00 Sacar basura
+
+- [ ] Domingo 09, 16
+	- [ ] Entreno
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] Piscina - Rio
+	- [ ] Finca
+	- [ ] ---
+		- [ ] 2-abril SOAT [[Moto Suzuki]] 
+		- [ ] Retiro de dinero
+		- [ ] Extensión 220V
+		- [ ] Internet fijo
+		- [ ] Chocolatinas
+		- [ ] Polen
+		- [ ] Hacer castillos
+		- [ ] Univalle
+			- [ ] Informes de cursos Yumbo
+			- [ ] Deshacer cambio de horario con Secretaría
+			- [ ] Listado actualizado de estudiantes
+			- [ ] Pendientes con las secretarías de Yumbo y Zarzal
+			- [ ] Notas a tomar evaluaciones
+			- [ ] Clase DS2 - Proyectos (requerimientos) - pruebas
+			- [ ] Clase BD 
+			- [ ] Clase GPS
+			- [ ] Tomar notas calificaciones en cada curso
+			- [ ] Compartir material con estudiantes
+				- [ ] BD
+				- [ ] FP
+				- [ ] DS2
+				- [ ] GP
+			- [ ] Lecciones aprendidas
+			- [ ] DS2
+			- [ ] Traducción BD
+			- [ ] Traducción Programación
+			- [ ] Videos Programación
+			- [ ] Videos GPS
+			- [ ] Preparar clases
+			- [ ] FP "FPZ50 202501", "INFORMATICA"
+				- [x] Enviar programa, porcentajes de notas y evaluaciones, link video, 
+				- [ ] lectura
+				- [ ] solicitar códigos y nombres en el grupo - procesar
+				- [ ] Configuración de grupos
+				- [ ] Asignación de proyectos
+				- [x] Sala de cómputo Esteban
+				- [x] Preparar tema
+			- [ ] GPS "GPSZ50 202501 Proyectos", "GPSZ51 202501 Proyectos"
+				- [ ] Preparar siguiente clase - Proyectos en la ingeniería de software
+				- [ ] Creación de empresa / Startup
+				- [ ] Cómo cobrar
+				- [ ] Innovación?
+				- [ ] Speech
+				- [ ] Grupos y proyectos
+				- [ ] Contenido del curso
+				- [ ] Enviar programa, porcentajes de notas y evaluaciones
+				- [ ] lectura
+			- [ ] DS2 "DS2Y53 202501"
+				- [ ] Preparar siguiente clase - Principios de desarrollo de software
+				- [ ] Entregar material de clase anterior
+				- [ ] video, solicitar códigos
+				- [ ] Grupos y proyectos
+			- [ ] BD "BDY50 202501"
+				- [ ] Preparar siguiente clase - Diseño de bases de datos (MER), Taller
+				- [ ] Enviar programa, porcentajes de notas y evaluaciones, lectura, solicitar códigos
+				- [ ] Grupos y proyectos
+		- [ ] Recoger planillas cooperativa
+		- [ ] Retiro Coomeva
+		- [ ] Comprar soldador
+		- [ ] Complejo B
+		- [ ] Abono MIC
+		- [ ] Cobros
+			- [ ] Elizabeth Wilches
+		- [ ] Respaldar notas y documentos
+		- [ ] Visa [[Visa USA]] 
+		- [ ] Cuentas préstamos
+		- [ ] Cuentas buseta
+		- [x] Impermeable, galería, capa, tela
+		- [ ] Credenciales por desarrollo de software
+		- [ ] Asunto SOS - Beneficiarios
+		- [ ] Tarjeta profesional
+		- [ ] Bodega finca
+			- [ ] Platinas, recortarlas, perforarlas y soldarlas
+		- [ ] Ordenar cuarto
+
+---
+- [ ] 5AM Estudiar inglés
+	- [ ] [Leer libro MDM](https://es.scribd.com/document/143249366/The-Whatnot-by-Stefan-Bachmann)
+	- [ ] [Curso de inglés](https://www.youtube.com/watch?v=VS4tPXvdPDM&list=UUeTVoczn9NOZA9blls3YgUg&index=1)
+	- [ ] https://www.youtube.com/watch?v=lviVCr1dK1o
+- [ ] 6AM Entrenamiento
+- [ ] 6AM Baño, tónico para el cabello y la piel, cuidado dental
+- [ ] 7AM Mensaje a MDM 
+- [ ] 7AM Poner almuerzo 
+- [ ] 7AM Jardinería
+- [ ] 7:30 Arreglar casa
+- [ ] 10AM Llamadas
+- [ ] 10AM Cobros
+- [ ] 4PM Tareas MDM 
+- [ ] 5PM Cita MDM
+- [ ] 9PM Lectura libro cocina
+- [ ] 9PM Planeación
+---
+- Siempre
+	- [ ] [[Proyecto casa móvil]] 
+	- [ ] [[Venta lote Llanos]] 
+	- [ ] [[Asuntos Casa Maya]] 
+	- [ ] [[Asuntos Finca]] 
+	- [ ] [[Asuntos Buseta]] 
+	- [ ] [[Asuntos MIC]] 
+	- [ ] [[Proyectos carpintería]] 
+
+- Prioridad
+	- Ingresos ocasionales contingentes
+		- Containers 
+		- Gabinetes
+		- Preparación de alimentos
+		- **Renovación visa** : Trabajo USA
+		- Venta acciones MIC
+		- Vender moto azul
+		- D.P. Cootrancise
+	- Abogada: Documentos caso tierras Alfredo
+		- Recuperación deudas
+			- Gilma
+			- Sonia
+			- Mónica
+			- María Nelly
+			- Leonor
+			- Nancy
+			- Fernando Rodriguez
+			- Aura Nancy
+			- Samy
+			- Armando
+			- Diana
+	- Cancelar deudas
+		- Lote los naranjos
+	- Garantizar ingresos $2 millones ó US$400 cada mes
+		- Habituales
+			- Buseta
+			- Préstamos
+		- Ideas de negocio
+			- Construir efficient, trailer, casa móvil, carro casa y vender
+			- Negocios: alimentos, muebles, estufas rocket, Buenaventura
+		- Búsqueda de empleo
+			- Trabajo convocatorias públicas
+
+---
+- [ ] Recientes
+	- [ ] Renovación visa USA
+	- [ ] Pasantía con el gordo de los asados
+	- [ ] Trailer en los naranjos
+	- [ ] Abogada: Cerrar caso Fernando, documentos caso tierras Alfredo
+	- [ ] Traer dólares
+	- [ ] Cazadora a Don Hernán
+
+	- [ ] Zapatas, arepas levantar carro
+	- [ ] Presupuesto
+---
+
+- Varios
+	- [ ] [[Asuntos Taller]]
+	- [ ] [[Asuntos Deudas]]
+	- [ ] [[Asuntos MDM]]
+	- [ ] [[Asuntos Cobros]]
+	- [ ] [[Asuntos Compras]]
+	- [ ] [[Asuntos Tuluá]]
+	- [ ] [[Asuntos Pagos]]
+	- [ ] [[Asuntos Buseta]] 
+	- [ ] [[Fechas importantes]] 
+	- [ ] [[Asuntos Cocina]]
+	- [ ] [[Rituales]] 
+	- [ ] [[Estado Financiero]]  Cobros, préstamos, gastos $2' por mes
+	- [ ] [[Asuntos Casa Maya]] Organizar, gotera lavaplatos, pintar, empacar, angeos, puerta closet, grifo, cazar gato
+	- [ ] [[Asuntos MDM]] Viaje, Pintar y empacar escoba
+	- [ ] [[Asuntos Negocios]] Costeo pan integral
+	- [ ] [[Asuntos Finca]] 
+	- [ ] [[Proyectos]] Llamar a Sara, tierra llanos
+	- [ ] [[Asuntos Franklin]] Pintura escoba, barras moto, cultivo, pescados, casa móvil
+	- [ ] [[Asuntos Salud]] Oftalmología, odontología, ungüento romero pelo
+	- [ ] [[Asuntos MIC]] Venta acciones
+	- [ ] [[Registro de eventos]] 
+	- [ ] [[Asuntos Cali]] Moldes, ácido málico
+	- [ ] [[Asuntos Carro]] Lavar
+	- [ ] [[Reflexiones]] Debilidades clientes
+	- [ ] [[Esenciales]] Sx
+	- [ ] [[Planeación]] Economía
+	- [ ] [[Proyectos]] Tierra llanos
+	- [ ] [[Asuntos Información Digital]] Respaldo información
+	- [ ] [[Recursos Disponibles]]
+	- [ ] [[Varios Información]]
+	- [ ] [[Asuntos Entretenimiento]]
+	- [ ] [[Notas Humor]]
+
+
+## Notas nuevas
+# Gestión de pendientes para Hoy
+
+#### Prioridad 
+- [ ] Comenzar desde cero
+	- [ ] Balance
+	- [ ] Futuro
+	- [ ] Presente
+
+
+---
+
+- [ ] Trabajo Canadá
+- [ ] Proceso Agualinda
+- [ ] Soporte en triangulo para sentarse en la cama inclinación 20% 1/5
+- [ ] Soporte plegable maletas
+- [ ] Cazadora al suegro de Alejandro
+- [ ] Estufa rocket
+- [ ] Preguntar por aminoácidos esenciales 
+- [ ] Guía para la sierra de mano
+- [ ] Hacer banco portátil
+- [ ] Tabla para ruteadora
+- [ ] Madera para juegos didácticos
+- [ ] Clases de tango 
+- [ ] Cálculo de invertido de deudas canceladas
+- [ ] Asuntos cooperativa Jimmy
+- [ ] Zafiro
+
+- [ ] [[Cata de cerveza]]
+- [ ] Cómo escribir ensayos?
+- [ ] Cómo escribir proyectos de investigación?
+- [ ] Página Sci-Hub permite desbloquear los artículos de investigación, google scholar, Dialnet, academia.edu.  Review de libros
+
+- [ ] ---
+	- [ ] Asado 13p
+		- [ ] Orden 
+			- [ ] Cerveza
+			- [ ] Picar naranjas y piña
+			- [ ] Picar queso fundido con chorizo y totopos
+			- [ ] 1:00 PM Servir pulled pork, pan, salsa bbq, fríjoles, ensalada
+			- [ ] Seguir picando
+			- [ ] Picar asado lomo caracha, chorizo servidos en hoja de plátano
+		- [ ] Pruebas
+		- [ ] Compras
+			- [x] Bondiola 4000g
+			- [ ] Grasa de cerdo 200g
+			- [x] Queso mozarela 1000g 
+			- [x] Mantequilla 500g
+			- [x] Repollo
+			- [x] Zanahoria
+			- [x] Paprika
+			- [x] Ron
+			- [x] Humo líquido
+			- [x] Cervezas 3 sixpack
+			- [ ] Carbón 
+			- [ ] Aserrín
+			- [ ] Madera
+			- [ ] Cerveza
+			- [ ] Recetas 
+		- [ ] Chorizo
+			- [ ] Adobos
+			- [ ] Carne de cerdo 100g pp
+			- [ ] Grasa 20g pp
+			- [ ] Verdura
+			- [ ] Queso 100g pp
+		- [ ] Pulled pork
+			- [ ] Bondiola 200g pp
+			- [ ] Whiskey
+			- [ ] Vinagre de manzana
+		- [ ] Salsa BBQ
+			- [ ] Salsa Yorkshire / salsa de pescado y salsa inglesa
+			- [ ] Salsa de tomate
+			- [ ] Mostaza
+			- [ ] Jugo de naranja
+			- [ ] Whiskey
+			- [ ] Azúcar morena
+			- [ ] Mantequilla
+			- [ ] Vinagre de manzana
+			- [ ] Pique
+			- [ ] Sal
+			- [ ] Pimienta
+			- [ ] Rub
+		- [ ] Chilli
+			- [ ] Frijoles
+			- [ ] Carne molida cerdo 100g pp
+		- [ ] Totopos
+			- [ ] Harina amarilla de maíz
+		- [ ] Pan brioche
+			- [ ] Prefermento
+			- [ ] Harina
+		- [ ] Ensalada de repollo
+			- [ ] Repollo
+			- [ ] Zanahoria
+			- [ ] Mayoneza
+		- [ ] Guacamole
+			- [ ] Cebolla cabezona
+			- [ ] Cilantro
+			- [ ] Limón
+			- [ ] Sal
+			- [ ] Ajo
+			- [ ] Tomate
+	- [ ] Finca Ataraxia Viernes 15
+		- [ ] Tareas
+			- [x] Limpiar zona bodega
+			- [x] Aplanar
+			- [x] Aceite quemado
+			- [x] Cambiar puntales
+			- [ ] Trazar plano bodega
+				- [ ] Caleta
+				- [ ] Agua
+				- [ ] Cañería
+			- [x] Traer naranjas
+			- [ ] Comprar orillos
+			- [ ] Llevar tejas
+			- [ ] Armar bodega
+			- [ ] Llevar trasteo
+		- [ ] Llevar
+			- [ ] Brocas, herramientas, metro
+			- [ ] Lavadero
+			- [ ] Ladrillos
+			- [ ] Llantas
+			- [ ] Tejas
+			- [ ] Triturado
+			- [ ] Cabo asadón
+	- [ ] Finca
+		- [ ] Llevar leña y cisco, llantas, vigas
+		- [ ] Cortar tablas
+		- [ ] Conseguir piedra triturada
+		- [ ] Nivelar tierra
+		- [ ] Aceite quemado
+		- [ ] Piedra
+		- [ ] Traer naranjas
+	- [ ] Ramada inicial
+		- [ ] Temporales 
+			- [ ] Hamaca
+			- [ ] Estufa
+			- [ ] Toldillo
+			- [ ] Tarro de agua
+			- [ ] Plástico
+		- [ ] Materiales 
+			- [ ] Tubos metálicos
+			- [ ] Vigas
+			- [ ] Orillos
+			- [ ] Tablas
+			- [ ] Tornillos
+			- [ ] Varilla roscada
+			- [ ] Amarras
+			- [ ] Tejas
+			- [ ] Lezna
+			- [ ] Cisco
+			- [ ] Leña
+		- [ ] Herramientas
+			- [ ] Pisón 
+			- [ ] Taladro
+			- [ ] Alicate
+			- [ ] Pala
+			- [ ] Palín
+		- [ ] Previos 
+			- [ ] Agua
+			- [ ] Desagüe 
+			- [ ] Pozo séptico
+			- [ ] Compostera
+		- [ ] Piso 
+			- [ ] Nivelar
+			- [ ] Aplanar
+			- [ ] Aceite quemado
+			- [ ] Piedra triturada
+		- [ ] Bases
+			- [ ] Cemento
+			- [ ] Piedra
+			- [ ] Madera
+		- [ ] Piso
+			- [ ] Cisco
+			- [ ] Piedra triturada
+			- [ ] Tablado
+			- [ ] Estiba
+		- [ ] Estructura
+			- [ ] Metálica
+			- [ ] Tornillería
+		- [ ] Paredes 
+			- [ ] Superboard
+			- [ ] Ventana
+			- [ ] Orillos
+		- [ ] Techo
+			- [ ] Tejas de zinc Franklin
+			- [ ] Perfiles
+		- [ ] Baño
+			- [ ] Desagüe
+		- [ ] Ducha
+			- [ ] Desagüe
+			- [ ] Impermeabilizar paredes
+			- [ ] Cortina
+		- [ ] Cocina
+			- [ ] Repisas
+			- [ ] Alacena
+			- [ ] Agua
+			- [ ] Lavaplatos
+			- [ ] Desagüe
+		- [ ] Bodega
+		- [ ] Mesa
+		- [ ] Puerta
+		- [ ] Llevar tejas de zinc (Franklin, Canecas), cables eléctricos
+		- [ ] Comprar amarras
+		- [ ] Herramientas
+	- [ ] Viaje camioneta 
+		- [ ] Triturado
+		- [ ] Llevar maderas
+		- [ ] Traer vigas y tejas de donde Franklin
+		- [ ] Llevar malla electrosoldada
+		- [ ] Llevar llantas
+		- [ ] Piso baño y tubos
+	- [ ] Finca sancocho 
+		- [ ] víveres
+			- [ ] Caja
+			- [ ] Gallina / Pollo
+			- [ ] Plátanos
+			- [ ] Papas
+			- [ ] Yuca
+			- [ ] Mazorca
+			- [ ] Cimarrón y cilantro
+			- [ ] Ajo
+			- [ ] Cebolla
+			- [ ] Tomate
+			- [ ] Arroz
+			- [ ] Panela
+			- [ ] Menaje
+		- [ ] Leña
+		- [ ] Aserrín	- [ ] Cobros 
+	- [ ] Pago Coomeva
+	- [ ] Pago PILA oct, nov, dic
+	- [ ] Actualizar tabla de préstamos, cobros
+	- [ ] Pulidora?
+	- [ ] Plata conductor $1'+ $2'3 + $3' + $2' Mecánico + 2'6
+	- [ ] Mercado básico 
+		- [ ] Agua
+		- [ ] Café
+		- [ ] Sal
+		- [ ] Aceite
+		- [ ] Avena
+		- [ ] Arroz
+		- [ ] Fríjoles
+		- [ ] Lentejas
+		- [ ] Azúcar
+		- [ ] Chocolate
+		- [ ] Harina de trigo y maicena
+		- [ ] Harina de maíz y choclo
+		- [ ] Pasta
+		- [ ] Papa
+		- [ ] Huevo
+		- [ ] Pimienta
+		- [ ] OTL
+		- [ ] Curry
+		- [ ] Zapallo
+		- [ ] Limón
+		- [ ] Banano
+		- [ ] Salsa de soya
+		- [ ] Queso deshidratado
+		- [ ] Atún
+		- [ ] Polvo de hornear
+		- [ ] Levadura
+		- [ ] Cebolla blanca
+		- [ ] Tomate
+		- [ ] Ajo
+		- [ ] Vinagre
+		- [ ] Especias
+			- [ ] Sal
+			- [ ] Pimienta
+			- [ ] Ajo y cebolla
+			- [ ] OTL
+			- [ ] BBQ rub: paprika
+			- [ ] Garam masala: clavos, canela, nuez moscada y cardamomo
+			- [ ] Oriental: Curry y jengibre
+			- [ ] Cítricos, romero y pimentón
+			- [ ] Culantro y pimienta gorda
+			- [ ] Comino
+			- [ ] Chile
+			- [ ] Apio
+			- [ ] Albahaca
+			- [ ] Ajonjolí
+			- [ ] Pimienta de Jamaica
+			- [ ] Mejorana
+		- [ ] Salsas y líquidos
+			- [ ] De soya
+			- [ ] Inglesa
+			- [ ] De pesacado
+			- [ ] Humo
+			- [ ] Vino blanco
+			- [ ] Vinagre de manzana
+		- [ ] Jardín
+			- [ ] Cebollín
+			- [ ] Romero
+			- [ ] Cilantro
+			- [ ] Perejil
+			- [ ] Espinaca
+			- [ ] Yerbabuena
+			- [ ] Albahaca
+		- [ ] Preparaciones
+			- [ ] Café
+			- [ ] Chocolate
+			- [ ] Arepa de maíz 
+			- [ ] Arepa de choclo
+			- [ ] Tortillas de maíz
+			- [ ] Tortas de harina de trigo
+			- [ ] Pan pita
+			- [ ] Torta de arroz
+			- [ ] Huevo frito, cocinado, poché, revuelto, omelette 
+			- [ ] Avena con canela
+			- [ ] Arroz
+			- [ ] Pasta
+			- [ ] Papa cocida, puré, frita, torta, horneadas con paprika
+			- [ ] Fríjoles o lentejas
+			- [ ] Sopa
+			- [ ] Dumplings
+			- [ ] Arroz con verduras
+			- [ ] Ensalada de verduras
+			- [ ] Ensalada de repollo
+	- [ ] Compras
+		- [x] Viguetas 3 de 2'x5'x4m Chanú $60 Mangle $52 OK $180
+		- [ ] Cuartón 3 de 4x9 5m Mangle $52
+		- [ ] Listones 3 de 4x4 7m Mangle $45
+		- [ ] Tablas 23m2 de 2cm x 20cm segundo piso
+		- [ ] Tablas 22m2 de 2cm x 12cm primer piso traslapada pino $22
+		- [ ] Tejas 8 de 5m $160
+		- [ ] Triturado 5m2
+		- [ ] Tornillos
+	- [ ] Pasamanos niñas - Cáncamos y cuerda
+	- [ ] Cabo pala y palín
+	- [ ] Tubo blackout
+	- [ ] Llamar a Valle de Lili
+	- [ ] Preguntar a Janeth por naranjas
+	- [ ] Cuerda cargo net, escalera alturas
+	- [ ] Almuerzo
+	- [ ] Nariz de café
+	- [ ] Averiguar tubo 3 pulgadas
+	- [ ] Barra herrería
+	- [ ] Pago Coomeva
+	- [ ] Reclamar planillas
+	- [ ] Ricardo - invitarlo al apiario
+	- [ ] Plastificar cédula
+	- [ ] Finca Ataraxia domingo
+		- [x] Manguera negra
+		- [x] Caneca azul
+		- [ ] Acoples
+		- [ ] Guaduas Oliver $50
+		- [x] Información madera Ana Milena
+		- [ ] Botellas Ana Milena
+		- [ ] Instalación agua acueducto
+		- [ ] Fumigar con ceniza y úrea
+		- [ ] Zoquear árboles
+		- [ ] Podar arboles
+		- [ ] Cosechar
+		- [ ] Guadañar
+		- [ ] Canecas Franklin
+		- [ ] Cables energía / canecas Florida
+		- [ ] Tejas zinc Franklin
+	- [ ] Tubos Jhon
+	- [ ] Baúl caleta lote
+	- [ ] Arreglar maquinilla, aceitar
+	- [ ] Energía lote
+		- [ ] Ubicación
+		- [ ] Base
+		- [ ] Poste
+		- [ ] Caja contador
+		- [ ] Tubos 1 pulgada $10.800
+		- [ ] Cables y tierra Franklin
+		- [ ] Celsia
+	- [ ] Cobros
+		- [ ] Locadia
+		- [ ] Gilma
+		- [ ] Nancy
+		- [ ] Armando
+		- [ ] Claudias Tuluá
+		- [ ] Diana postres
+	- [ ] Hoja de vida, estudio USA
+	- [ ] Medir propiedad original
+	- [ ] Solicitar agua lote 
+	- [ ] Baño y alcantarillado
+		- [ ] Cavar letrina
+		- [ ] Hacer ramada y paredes de tela verde
+		- [ ] Conseguir sanitario, cuñete
+		- [ ] Comprar manguera negra
+	- [ ] Solicitar instalación de energía
+		- [ ] Armar ramada
+		- [ ] Instalar poste y cableado
+	- [ ] Inventario construcción
+		- [ ] Franklin
+			- [ ] Análisis de tierras
+			- [ ] Eucaliptos
+			- [ ] Plátanos
+		- [ ] Casa
+			- [ ] Ahumador de carnes
+			- [ ] Herramientas
+			- [ ] Cuñetes
+			- [ ] Plásticos negros
+		- [ ] Jimmy
+			- [ ] Casa
+			- [ ] Bancas
+		- [ ] Faltantes
+			- [ ] Plástico
+			- [ ] Amarras
+			- [ ] Tejas 6x6, cotizar
+			- [ ] Tablas teca, cotizar
+			- [ ] Guaduas, encargar
+			- [ ] Polisombra
+			- [ ] Cuñetes
+			- [ ] Plástico pancartas
+			- [ ] Varilla roscada
+			- [ ] Varilla corrugada
+			- [ ] Cemento
+			- [ ] Tela verde
+			- [ ] Olladora
+			- [ ] Palín
+			- [ ] Pala
+			- [ ] Pita
+			- [ ] Machete
+			- [ ] Serrucho
+			- [ ] Aceite quemado
+			- [ ] Brochas
+			- [ ] Trapos
+			- [ ] Esponja de alambre, estropajo, grata
+			- [ ] Guantes
+			- [ ] Escalera
+			- [ ] Platinas
+			- [ ] Costal de arena
+			- [ ] Arena
+			- [ ] Piedras
+			- [ ] Roca muerta
+			- [ ] Alambre negro
+			- [ ] Formaletas
+		- [ ] La Florida
+			- [ ] Muestreo tierra
+			- [ ] Muestreo de naranjas para la venta
+			- [ ] Maleta con almohadas
+			- [ ] Eucaliptos
+			- [ ] Colinos
+			- [ ] Manguera y tubos de agua
+			- [ ] Boquilla fumigadora
+		- [ ] Alitas Ana Milena
+			- [ ] Búfalo
+			- [ ] Lemon pepper
+			- [ ] BBQ
+			- [ ] Mango y habanero
+			- [ ] Mantequilla y ajo
+			- [ ] Miel mostaza
+			- [ ] Miel y limón
+	- [ ] Naranjas
+		- [ ] Estudio de suelos
+		- [ ] Guadañar
+		- [ ] Platear
+		- [ ] Fumigar hongo con sal y úrea
+		- [ ] Urea
+		- [ ] Descopar
+		- [ ] Aplicar producción
+		- [ ] Cosecha
+		- [ ] Venta
+			- [ ] Buenaventura
+			- [ ] Pacho
+			- [ ] Restrepo
+			- [ ] Darién
+		- [ ] Remedios
+		- [ ] Cáscaras deshidratadas
+		- [ ] Sal de pimienta y limón
+		- [ ] Aceites
+		- [ ] Licores y shots dulces
+		- [ ] Dulce de naranja
+		- [ ] Salsa de naranja
+		- [ ] Mermelada de naranja
+		- [ ] Ralladura de naranja
+	- [ ] Cabaña
+		- [ ] Construir bases
+		- [ ] Comprar tejas azules, cemento y varilla
+		- [ ] Transporte
+		- [ ] Armado
+		- [ ] Pasillos
+		- [ ] Diseño (tipo casa móvil) 4x4 dos pisos
+		- [ ] https://www.youtube.com/watch?v=5Fap-onY65w&list=PL2oWJN587vJq5tHjlv-j30AnDrr2Oa485&index=18&ab_channel=CursoLaboral
+		- [ ] Presupuesto
+			- [x] Bancada $2.7
+			- [ ] Trasteo $300
+			- [ ] Tejas
+			- [ ] Vigas
+			- [ ] Placa huella
+			- [ ] Bodega
+			- [ ] Plancha
+			- [ ] Transporte de materiales
+			- [ ] Construcción
+	- [ ] Placa huella
+	- [ ] Construir plataforma
+	- [ ] Planchas de cemento
+		- [ ] Llevar tarros y platinas
+		- [ ] Varilla
+		- [ ] Rocamuerta
+	- [ ] Orden de actividades finca ATARAXIA
+		- [ ] Instalación de agua, hablar con Anibal también
+		- [ ] Instalación de energía, poner poste
+		- [ ] Encargar 10 guaduas
+		- [ ] Alistamiento materiales
+			- [x] ACPM 
+			- [ ] Lorsvan para inmunizar 
+			- [x] Bomba de espalda
+			- [x] Taladro y broca
+			- [ ] Llantas para placa huella
+			- [ ] Bloques de cemento
+			- [ ] Comprar cemento
+			- [ ] Comprar varillas
+			- [ ] Comprar arena
+			- [ ] Comprar balastro
+			- [ ] Comprar manguera nivel
+			- [ ] Pita
+			- [ ] Serrucho
+			- [ ] Aceite quemado
+			- [ ] Brochas
+			- [ ] Trapos
+			- [ ] Esponja de alambre, estropajo, grata
+			- [ ] Formaletas
+			- [ ] Guantes
+			- [ ] Segueta y varillas roscadas
+			- [ ] Comprar tela verde y manguera negra
+			- [ ] Comprar amarras y llevar punzón y alicate, martillo, taladro, brocas, llaves
+			- [ ] Combustible y aceite para guadañar, EPPs
+			- [ ] Llevar carpas y provisiones
+		- [ ] Construir cambuche ramada y caleta
+			- [ ] Llevar polisombra y plásticos
+			- [ ] Llevar cuerdas
+			- [ ] Olladora
+			- [ ] Pisón
+			- [ ] Palín
+			- [ ] Pala
+			- [ ] Cuñetes
+		- [ ] Inmunizar guaduas
+		- [ ] Traer de la Florida en el carro
+			- [ ] Hojas de zinc
+			- [ ] Canecas pozo séptico
+		- [ ] Mantenimiento de naranjos
+			- [ ] Guadañar
+			- [ ] Platear
+			- [ ] Aplicar ceniza y urea
+			- [ ] Cosechar
+			- [ ] Podar
+			- [ ] Aplicar fertilizante
+		- [ ] Instalar baño provisional
+			- [ ] Encierro en polisombra y guaduas
+			- [ ] Letrina
+			- [ ] Sentadero en guadua
+		- [ ] Armar casa
+			- [ ] Fundir bases
+			- [ ] Armar estructura
+			- [ ] Poner techo
+			- [ ] Poner piso
+		- [ ] Fortalecimiento de linderos
+			- [ ] Comprar alambre de púa y guaduas
+			- [ ] Mojones en piedra
+			- [ ] Cercar con guadua y alambre de púas
+			- [ ] Cerca viva
+				- [ ] Mata ratón
+				- [ ] Moringa
+				- [ ] Pino
+				- [ ] Mora
+				- [ ] Swinglia
+		- [ ] Construir bodega provisional
+		- [ ] Traer todo de Monterrey y dejar lo de valor en Buga
+		- [ ] Alistar trasteo a la finca
+		- [ ] Construcción placa huella y fortalecimiento de entrada
+		- [ ] Construcción de bodega
+		- [ ] Sembrar
+			- [ ] guadua, 
+			- [ ] eucaliptos, 
+			- [ ] plátano, 
+			- [ ] maíz, 
+			- [ ] fríjoles, 
+			- [ ] papa, 
+			- [ ] yuca, 
+			- [ ] arracacha, 
+			- [ ] cilantro, 
+			- [ ] perejil, 
+			- [ ] cimarrón, 
+			- [ ] cebolla,
+			- [ ] tomate
+			- [ ] pimentón, 
+			- [ ] zanahoria, 
+			- [ ] remolacha, 
+			- [ ] maracuyá, 
+			- [ ] mora, 
+			- [ ] mango, 
+			- [ ] lulo, 
+			- [ ] guayaba, 
+			- [ ] café
+		- [ ] Casa árbol
+			- [ ] Varilla roscada
+			- [ ] Broca espada
+			- [ ] Taladro
+			- [ ] Sierra
+			- [ ] Llave inglesa
+			- [ ] Plástico
+			- [ ] Separación árboles 4.15
+			- [ ] Perímetro árboles 120
+			- [ ] Varilla roscada 3/4 x4
+			- [ ] Tablas
+			- [ ] Estibas
+			- [ ] Sierra
+			- [ ] Taladro
+			- [ ] Neumáticos
+			- [ ] Cuerdas
+			- [ ] Escalera
+	- [ ] Otros
+		- [ ] Chrenka - asador colgante, tubos
+		- [ ] Horno pizza ladrillo
+		- [ ] Ahumador en caliente
+		- [ ] Tubo closet
+		- [ ] Azadón
+		- [ ] Rastrillo
+		- [ ] Arreglos eléctricos
+		- [ ] Platinas hamaca
+		- [ ] Aceite de linaza
+		- [ ] Ordenar cuarto y closet
+		- [ ] Apiario
+		- [ ] Trasteo
+		- [ ] Traer guayabo y hojas de plátano para ahumar
+		- [ ] Arreglar broche
+		- [ ] Mango wok
+		- [ ] Espátula con platina
+		- [ ] Cal, sal, ceniza babosas y cucarrones, fumigar con legía
+		- [ ] Trampa gato
+	 - [ ] Trabajo Canadá phoenix gmi.com, Juan Planeta
+		- [ ] Preparar hoja de vida
+	- [ ] Estudio exterior
+		- [ ] Página Carlos
+	- [ ] Ingresar a ver el estado de la cita de la visa
+	- [ ] Importar contraseñas en el nuevo pc
+	- [ ] Cotizar valor buseta, vender
+	- [ ] Averiguar subsidio vivienda Comfandi
+	- [ ] Plata gasolina Adri, turnos chatgpt
+	- [ ] Empacar miel
+	- [ ] Apiario
+		- [ ] Alimentación
+		- [ ] Bases de guadua
+		- [ ] Tejas de zinc
+		- [ ] Control de plagas
+		- [ ] Organización de marcos
+		- [ ] Cosechar polen
+		- [ ] Cosechar propóleo
+		- [ ] Cazador de enjambres árbol
+		- [ ] Probar escape porter con manguera
+		- [ ] Probar cuña de humo para desalojar colmena
+		- [x] Trampa PEC
+		- [ ] Excluidor reina piquera
+		- [ ] Construir alzas, piqueras y techos
+		- [ ] Tapa arriba con excluidor de reina
+		- [ ] Pantalla portanúcleo de seguimiento
+		- [ ] Jeringa grasa apiario pistola
+	- [ ] Actualizar registro pagos y organizar cuentas cobros
+	- [ ] Organizar fotos y documentos, respaldo teléfono	
+	- [ ] Configurar teléfono, descargar música, nuevo pc
+	- [ ] Planeación
+		- [ ] Contenedores
+		- [ ] Local, lote los naranjos
+		- [ ] Dinero
+		- [ ] Personal
+		- [ ] Comercialización
+		- [ ] Viaje USA
+			- [ ] Carlos's
+			- [ ] Tinder
+			- [ ] SENA, programación
+	 - [ ] Conexión a 220 en Santa Rita
+		- [ ] Instalación aire acondicionado
+		- [ ] Paneles solares
+		- [ ] Pago MIC
+		- [ ] Cuentas y cobros
+	- [ ] Ahumador carnes
+		- [ ] Ampliar hueco tapa ahumador
+		- [ ] Soporte parrillas 21cm
+		- [ ] Ganchos
+		- [x] Ventilador - Adaptador 12v - 13cm
+		- [ ] Mangueras
+	- [ ] Extractor de aceites esenciales
+		- [ ] Parrillas
+		- [ ] Manguera
+		- [ ] Serpentín
+		- [ ] Decantador
+		- [ ] Niñas
+		- [ ] Sube y baja
+		- [ ] Trencito cajitas
+		- [ ] Laberinto
+		- [ ] Instrumentos musicales
+		- [ ] Tipee
+		- [ ] Deslizador
+		- [ ] Escalera y escalada
+		- [ ] Carrito
+		- [ ] Caballo
+		- [ ] Juegos madera
+		- [ ] Cosas pesadas
+		- [ ] Gimnasio escalada red
+		- [ ] Control médico
+			- [ ] Pecho Salomé
+			- [ ] Estabilidad Salomé
+			- [ ] Alimentación Salomé
+			- [ ] Cabeza Salomé
+			- [ ] Comparación de las Chop Suey
+		   - [ ] Desayuno
+				- [ ] Avena/Pan integral
+				- [ ] Tazón de frutas
+				- [ ] Yogurt/Queso
+				- [ ] Huevo
+			- [ ] Almuerzo
+				- [ ] Cereal: arroz/quinua
+				- [ ] Pollo/Cerdo/Res
+				- [ ] Ensalada/Fruta
+			- [ ] Cena
+				- [ ] 
+	- [ ] Compras
+		- [ ] Comprar pilas AAA
+		- [ ] Cuerda polipropileno
+		- [ ] Guardacabos
+		- [ ] Tornillos variados - Cali
+		- [ ] Broca espada 7/8
+		- [ ] Palo escoba finca
+		- [ ] Cabo palín finca
+		- [ ] Masa tamales
+		- [ ] Costilla carnuda
+		- [ ] Jamón
+		- [ ] Tomas y cables finca
+	- [ ] Invertir dólares Camilo US$1.100
+		- [ ] Correa reloj
+	- [ ] Cali
+		- [ ] Maleta de viaje
+			- [ ] Documentos personales
+			- [ ] Documentos vehículo
+			- [ ] Extinguidor carro, RTM, SOAT
+			- [ ] Dinero
+			- [ ] Agua
+			- [ ] Vinagre
+			- [ ] Café
+			- [ ] Hielera
+			- [ ] Cervezas - bebidas
+			- [ ] Sanduches
+			- [ ] Pasabocas
+			- [ ] Pañales
+			- [ ] Ropa de cambio
+			- [ ] Tendidos
+			- [ ] Almohadas
+		- [ ] Mirim
+		- [ ] Semillas de apio
+		- [ ] Misho
+		- [ ] Rice vinegar
+		- [ ] Garam masala
+		- [ ] Salsa de ostras
+		- [ ] Chipotle
+		- [ ] Salsa sirarcha
+		- [ ] Salsa koreana (Gochuyán)
+		- [ ] Culantro
+		- [ ] Cayena
+		- [ ] Cardamomo
+		- [ ] Salsa picante luisiana
+		- [ ] Chilli garlic sauce
+		- [ ] Hoising
+		- [ ] Cardamomo
+		- [ ] Uchuvas
+		- [ ] Sachéts
+		- [ ] Broca torre
+		- [ ] Tornillos y herrajes
+		- [ ] Leche niñas
+		- [ ] Equipo de alturas
+			- [ ] Cuerda
+			- [x] Arnés
+			- [ ] Freno autobloqueante
+			- [ ] Cordino 7mm
+			- [ ] Cintas cosidas
+			- [ ] Cuerda 9mm
+			- [ ] Cuerda de polipropileno
+		- [ ] Insumos apiario
+		- [ ] Elementos cocina
+		- [ ] Pimentero
+		- [ ] Correa reloj, centro comercial Fortuna, Casio Cali
+		- [ ] Termómetro laser
+	- [ ] Curso pedagogía SENA
+	- [ ] Casa
+		- [ ] Colgar percheros
+		- [ ] Cortina de aire
+		- [ ] Banca Jimmy
+		- [ ] Cazar gato
+	- [ ] Garaje
+		- [ ] Polainas
+		- [ ] Gatos
+		- [ ] Zancudos
+			- [ ] Ventana de aire
+	- [ ] Jarabe tos
+		- [ ] Miel saborizada
+		- [ ] Propóleo
+	- [ ] Examen médico, licencia conducción 13-sep
+	- [ ] Visas
+	- [ ] Montaje extracción aceites esenciales
+	- [ ] Rejillas olla presión aceites esenciales
+	- [ ] Procesamiento de miel
+		- [ ] Frascos y envases
+		- [ ] Aceites esenciales e hidrolatos
+		- [ ] Empaque y etiquetas
+		- [ ] Sellos abejita
+		- [ ] Regalos miel
+		- [ ] Confites de miel y especias
+		- [ ] Con especias
+			- [ ] Clavos
+			- [ ] Canela
+			- [ ] Jengibre
+			- [ ] Tomillo
+			- [ ] Romero
+			- [ ] Limón
+			- [ ] Ajo
+			- [ ] Sal
+			- [ ] Pimienta
+			- [ ] Manzanilla
+			- [ ] Menta
+			- [ ] Lavanda
+		- [ ] Para la belleza
+			- [ ] Exfoliante
+			- [ ] Miel y aceites esenciales	
+	- [ ] Fitness
+	- [ ] Certificado de tradición lote Llanos
+	- [ ] Hueco ahumador - broca torre
+	- [ ] Barra dominadas - instalar
+	- [ ] Pendiente proceso abogado de Tuluá
+	- [ ] Granear café - Fertilizar
+	- [ ] Trampa gatos
+		- [ ] Cuerda
+		- [ ] Bolas navidad
+		- [ ] Caja
+		- [ ] Anzuelos
+		- [ ] Comida
+		- [ ] Tubo
+	- [ ] Cuentas Jhon
+		- [ ] +$200 préstamo 29-may
+		- [ ] -$100 arriendo 4-jun 
+		- [ ] -$100 arriendo 4-jul
+		- [ ] -$100 arriendo 4-ago
+		- [ ] +$20 energía finca 9-jun
+		- [ ] +$20 agua 8-jun
+		- [ ] +$20 agua 1-jul
+		- [ ] +$150 préstamo guadañero 20-ago
+		- [ ] -$100 arriendo 4-sep
+		- [ ] Trabajo guadua
+	- [ ] Material espacios confinados
+	- [ ] Decisión sobre la cotización a pensión ***
+		- [ ] Ahorrar mensualmente $200
+		- [ ] Invertirlos
+	- [ ] MIC
+		- [ ] Impuesto carro
+		- [ ] Revisión TM
+		- [ ] Revisión GDO
+		- [ ] Huecos sala
+		- [ ] Perchero baño
+		- [ ] Cuentas a 7/Jul
+			- [ ] $850+$565 + Daviplata
+	- [ ] Polisombra pared cuarto GAO 3x4
+	- [ ] ---
+	- [ ] Llamar a MDM
+	- [ ] Planeación
+		- [ ] Y si no buscamos lo deseado, sino que dejamos que llegue a través de la dedicación y ocupación?
+		- [ ] Prioridad: Tener salud, dinero y tiempo para gastarlo con la pareja, la familia y los amigos
+			- [ ] Libertad
+			- [ ] Sx y compañía
+			- [ ] Hijas
+			- [ ] Amigos
+			- [ ] Salud
+			- [ ] Dinero
+			- [ ] Tiempo
+			- [ ] Amor y tiempo de mis seres queridos
+			- [ ] El trabajo y la ocupación como terapia
+		- [ ] Evaluar venta de todo y viajar
+			- [ ] USA
+			- [ ] Canadá
+		- [ ] Metas/Objetivos/Deseos
+			- [x] Saldar TC
+			- [ ] Mantener conectado
+			- [ ] Playa
+			- [ ] Automotivación
+				- [ ] Sx
+				- [ ] Deporte
+					- [ ] Natación
+					- [ ] Gimnasio
+					- [ ] Bicicleta
+					- [ ] Rapel y escalada
+			- [ ] No dejarme presionar por nada
+				- [ ] Casa
+				- [ ] Cooperativa
+				- [ ] Finca
+				- [ ] USA
+				- [ ] Dinero
+			- [ ] Lote llanos
+			- [ ] Calendario actividades semanales
+			- [ ] Visa Canadá
+			- [ ] Visa USA
+			- [ ] Viaje USA agosto CT
+			- [ ] Compras de casa
+				- [ ] Lote naranjos
+			- [ ] Practicar soldadura
+			- [ ] Cervecería
+			- [ ] Cooperativa
+				- [ ] Vender?
+	- [ ] Cobros - Placas motos Nancy
+		- [ ] Gilma /  sep/2018 $4
+		- [ ] Wilmer / \$350 12-Ago-2022
+		- [ ] Elsa
+		- [ ] María Alejandra
+		- [ ] Leocadia / Cuentas
+		- [ ] Alejandros
+		- [ ] Claudias
+		- [ ] Pacho Samy
+		- [ ] Otros
+	- [ ] Visas USA
+		- [ ] Adelantar cita
+		- [ ] Soportes actualizados
+	- [ ] Tapón válvula gas - sellar
+	- [ ] Espejo - silicona líquida
+	- [ ] Anclaje árbol, cuerda arborismo
+	- [ ] Compras
+		- [ ] Betún miel
+	- [ ] Apiario - malla - marcos
+		- [ ] Guaduas base apiario, tablas, cuñetes
+		- [ ] Rescate
+			- [ ] Trajes
+			- [ ] Ruana negra con salida única
+			- [ ] Toldillo grande
+			- [ ] Neumáticos x4
+			- [ ] Ahumador y material
+			- [ ] Manguera
+			- [ ] Tarro
+			- [ ] Toldillos
+			- [ ] Aspersor de agua
+			- [ ] Cepillo y pala
+			- [ ] Plástico piso
+			- [ ] Embudo malla para atrapar abejas
+			- [ ] Equipo para trabajo en alturas
+			- [ ] Excluidor de reina
+			- [x] Escalera
+			- [x] Banco plegable
+			- [x] Tapa arriba con excluidor de reina
+			- [ ] Alistar cajón
+		- [ ] Bases apiario - Varilla de media - Tarros
+		- [ ] Hacer cajas colmenas - madera - piquera excluidora
+		- [ ] Maleta apicultura y herramienta
+		- [ ] Ahumador
+		- [ ] Manguera
+		- [ ] Cable y herramientas eléctricas
+		- [ ] Botella plástica alimentadores
+		- [ ] Ponerles alimento
+		- [ ] Lijar caja abejas - Aceite de linaza, mineral
+		- [ ] Limpiar cajón, tapa
+		- [ ] Limpiar y ajustar marcos
+		- [ ] Comprar galleta de cera
+		- [ ] Instalar cera - cables
+		- [ ] Hacer marcos
+		- [ ] Cazadora
+	- [ ] Solicitar paz y salvo juzgado
+	- [ ] Extracción de aceite en olla a presión
+	- [ ] Impuestos moto Yamaha R15
+		- [ ] Venderla
+	- [ ] Trabajarle a la cervecería
+	- [ ] Actualizar H.V. Sena, convocatoria
+	- [ ] Organizar información teléfono
+		- [ ] Organizar Nequi
+		- [ ] Protección archivos celular y PC
+		- [ ] Descargar video niñas y configurar celular
+	- [ ] Algebra MDM
+	- [ ] Conseguir conductor / Vender buseta
+	- [ ] Llamar a doña Nelly
+	- [ ] Llamar a Leo
+	- [ ] Cursos SENA
+		- [ ] Espacios confinados
+		- [ ] Carpintería
+		- [ ] Guadua
+		- [ ] Barismo
+		- [ ] Apicultura
+		- [ ] Pedagogía
+		- [ ] Diplomados
+		- [ ] Técnico chocolatería virtual
+	- [ ] Cursos 
+	- [ ] A 22 de abril/2023, Camilo me tiene us$1100
+		- [ ] Encargarle correa del reloj
+	- [ ] Tuluá
+		- [ ] Claudia
+		- [ ] Adriana
+		- [ ] Otra
+		- [ ] Armando
+	- [ ] Cocina
+		- [ ] Mostaza
+		- [ ] Moler ajo, cebolla y pimentón en polvo
+		- [ ] Dulce zapallo
+		- [ ] Hacer pan integral
+		- [ ] Jamón
+		- [ ] Torta zanahoria
+		- [ ] Torta zapallo
+		- [ ] Torta de maduro
+		- [ ] Torta de banano
+		- [ ] Torta chocolate
+		- [ ] Galletas dulces
+		- [ ] Galletas saladas
+		- [ ] Torta lentejas
+		- [ ] Semillas ensaladas
+		- [ ] Pan integral
+		- [ ] Tocineta - Salsa de chiles
+		 - [ ] Salsas chile 
+		- [ ] Panes de masa madre
+		 - [ ] Hacer pan
+		 - [ ] Hacer pizza
+		 - [ ] Práctica con el argentino
+		 - [ ] Alimentos finca - nevera
+		- [ ] Salami
+		- [ ] Chorizo
+		- [ ] Hacer ahumador carnes
+		- [ ] Preparar tocineta entera con sal de apio
+		- [ ] Lista de compras supermercado
+			- [ ] Esenciales:
+				- [ ] Agua
+				- [ ] Aceite
+				- [ ] Arroz
+				- [ ] Azúcar
+				- [ ] Sal
+				- [ ] Plátano
+				- [ ] Papa
+				- [ ] Proteína (huevo, pollo, cerdo, res, pescado)
+				- [ ] Cebolla
+				- [ ] Tomate
+				- [ ] Limón
+				- [ ] Ajo
+				- [ ] Cilantro
+				- [ ] Pimentón
+				- [ ] Azúcar
+				- [ ] Panela
+				- [ ] Té
+				- [ ] Apio
+				- [ ] Zanahoria
+				- [ ] Pimienta
+				- [ ] Avena
+				- [ ] Banano
+				- [ ] Chocolate
+				- [ ] Café
+				- [ ] Fríjoles
+				- [ ] Lentejas
+				- [ ] Pasta
+				- [ ] Canela
+				- [ ] Clavo
+				- [ ] Picante
+				- [ ] Leche en polvo
+			- [ ] Adicionales:
+				- [ ] Yuca
+				- [ ] Maíz
+				- [ ] Curry
+				- [ ] Comino
+				- [ ] Zuccini
+				- [ ] Zapallo
+				- [ ] Harina de trigo
+				- [ ] Harina de maíz
+				- [ ] Leche
+				- [ ] Mantequilla
+				- [ ] Queso
+				- [ ] Maicena
+				- [ ] Zanahoria
+				- [ ] Levadura
+			- [ ] Otros:
+				- [ ] Salsa de tomate
+				- [ ] Mayonesa
+				- [ ] Salsa de soya
+				- [ ] OTL
+				- [ ] Crema
+				- [ ] Ajonjolí
+	- [x] Pago MIC
+		- [x] $800 / 3-feb
+		- [x] $65 / 3-feb
+		- [x] $345 TC
+		- [x] $390 última cuota préstamo / 3-feb
+		- [x] $600 préstamo Sandra / 3-feb
+		- [x] $500 Yolima 10-Feb
+		- [x] $200 Celular viejo (-120)
+		- [x] Saldo del pago TC (730-450) 28-feb
+		- [x] Lo que compré
+		- [ ] Transferencia a Daviplata $50
+		- [x] $100 Energía 23-marzo
+		- [ ] Papeles Canadá
+		- [ ] Pago TC al 2-abril $942
+		- [ ] Cuota banco crédito
+		- [ ] $500 Ana Milena
+		- [ ] Transferencia Daviplata $357
+	- [ ] Cobro Fernando Rodriguez 
+		- [ ] NKO-307 Twingo gris 
+		- [ ] Finca
+	- [ ] Protocolo invitados especiales
+		- [ ] Organizar casa y carro
+		- [ ] Salidas
+			- [ ] Fincas
+			- [ ] Rio
+			- [ ] Lago
+			- [ ] Tur Buga
+		- [ ] Comidas
+			- [ ] Waffles con helado
+			- [ ] Pasta
+			- [ ] Arroz mixto
+			- [ ] Pizza
+			- [ ] Marranitas
+			- [ ] Piña y tocineta horneadas
+			- [ ] Sanduche
+		- [ ] Cocina
+			- [ ] Tamales
+			- [ ] Torta banano
+			- [ ] Pan integral
+			- [ ] Galletas de sal
+			- [ ] Pan pita
+			- [ ] Hummus, salsas
+			- [ ] Tamales
+			- [ ] Sanduches
+			- [ ] Torta  de banano
+			- [ ] Pulled pork
+			- [ ] Tocineta
+			- [ ] Jamón
+			- [ ] Queso fundido
+			- [ ] Ensalada
+			- [ ] Capuchino
+			- [ ] Cocteles	
+
+
+$$
+Lu Ma Mi Ju Vi Sa Do
+14 15 16 17 18 19 20 Feb
+21 22 23 24 25 26 27
+28 01 02 03 04 05 06 Mar
+07 08 09 10 11 12 13
+14 15 16 17 18 19 20
+21 22 23 24 25 26 27
+28 01 02 03 04 05 06 Abr
+$$
+
+
+[[Presentación]]
+
+> Esto es una cita
+> Esta es la misma cita
+> > Esto es una cita dentro de otra cita
+
+>> Cita
+>> X
+
+
+==RESALTADO==
+[Correo](http://gmail.com)
+
+![[Nota 1#Objetivo 1 Integralidad]] 
+
+
+
+Here is an inline formula: $\frac{\alpha}{n}$ that shows...
+
+Here is a standalone equation: $$x \approx \frac{\alpha}{n}$$
+
+Bloque de formula grafica $$ x=\frac{\sqrt(a+b)}{c}$$
+%%Esto esta oculto%%
+
+|Col A|Col B|
+|---|---|
+|Perro|190237|
+
+http://www.gmail.com (gmail)
+
+Superíndice <sup>1</sup>
+Subíndice <sub>1</sub>
+
+==----==
+
+Projects
+Areas
+Resources
+Archive
+
+
+![Dragón de G.O.T|300](https://cloudfront-us-east-1.images.arcpublishing.com/copesa/7SJVADTPJRDLNPFBEUZNTXPK5U.jpg)
+
+![[El libro de los estiramientos. Consigue un cuerpo totalmente flexible.pdf]]
+

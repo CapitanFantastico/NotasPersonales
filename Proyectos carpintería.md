@@ -1,0 +1,69 @@
+# Proyectos carpintería
+
+[[Clase de ebanistería]] 
+
+- Banco portátil https://youtu.be/rG5V5LszdJQ
+	- 90 (36') x 23 x 8
+	- 16 dog holes a cada 10 cm (4') y a 2' del borde con una punta bit overdrive, 3/4 de pulgada
+	- Hacer una guía con un hueco de 1' donde va un tubo, con espacio suficiente para la viruta que salga, con un agujero de 3/4 de pulgada
+	- Los agujeros en uno de los cantos están ubicados justo en el centro entre los agujeros de la parte superior
+	- En el otro canto se perforan dos agujeros para la prensa y otro para soporte a 16' de la prensa, con una profundidad de 2'.  Los agujeros de la prensa son de 8' (la mitad de la longitud de la varilla roscada)
+	- La mandíbula de la prensa tiene una longitud aproximada de 50 cm x 8 x 4 y los agujeros donde van los tornillos son ovalados para darle cierta libertad a la prensa
+	- Las patas deberían ser más largas para dar estabilidad y llevan agujeros para prensarlas a la superficie de trabajo, pero se deben extender hacia atrás, porque de lo contrario la prensa no queda fuera del banco.  No deben estar tan separadas unas de otras por sí la mesa de apoyo es pequeña
+	- Usar pernos para trancar, de metal
+	- Ver el otro video de mini banco portable extendible https://www.youtube.com/watch?v=JMmvyaBUhO8&ab_channel=PaskMakes
+
+- [ ] Burros (4 patas: 85x5x3, 2 lomos 95x10x3)
+- [ ] Sierra banco
+- [ ] Angeos
+- [ ] Estanterías casa S.R. (3) 
+- [ ] Tablado para tendidos sobre los closets 195x3x3(7) 50(2)
+- [ ] Estanterías finca
+- [ ] Puerta closet
+- [ ] Mueble cocina
+- [ ] Marco espejo cuarto 105x75, maderos marco de 8 cm ancho x 3 cm espesor
+- [ ] Marco espejo MIC quebrado 40x73
+- [ ] Marco espejo baño 34x60
+- [ ] Fotos MDM 27x18
+- [ ] Pinturas MDM 25x20
+- [ ] Espejos finca?
+- [ ] Vaporera de bambú
+- [ ] Mesa de desayuno a la cama
+- [ ] [[Juegos didácticos en madera]] 
+
+- [ ] Clase de ebanistería
+	- [ ] Hacer marco para fotos
+	- [ ] Tornillos
+	- [ ] Puntillas
+	- [ ] Lija 100, 150, 220, 400
+	- [ ] Base caoba que disuelva en varsol
+	- [ ] Varsol
+	- [ ] Thinner
+	- [ ] Tinte
+	- [ ] Colbón
+	- [ ] Inmunizante
+	- [ ] Trapos
+	- [ ] Laca catalizada
+	- [ ] Sellador catalizado
+- [x] Comprar mártir
+- [ ] Hacer banco portátil
+	- [x] Comprar tablón de pino
+	- [x] Comprar tornillos prensa
+	- [x] Traer broca larga
+	- [ ] Cortar
+	- [ ] Armar
+- [ ] Hacer guía para la ruteadora
+- [ ] Hacer sierra de banco
+- [ ] Traer madera y puerta closet, tablones y bloques
+	- [ ] Hacer cajas y espigas
+	- [ ] Ensamblar marco
+	- [ ] Mandar a hacer los tableros
+	- [ ] Pintar
+	- [ ] Hacer angeos
+	- [ ] Hacer estantes
+- [ ] Traer madera de la finca
+	- [ ] Hacer marco espejo
+	- [ ] Tabla de picar, uso de formón
+	- [ ] Cama ensamblable
+	- [ ] Camastro
+	- [ ] Vaporera de bambú

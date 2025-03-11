@@ -1,0 +1,17 @@
+# Asuntos Entretenimiento
+- Viajes
+	- [ ] 
+- Entrenamiento
+- [[Películas]]
+	- [ ] 
+	- [ ] 
+	- [ ] 
+	- [ ] 
+- Series
+	- [ ] The big bang theory
+	- [ ] Vikingos
+- Rumba 
+- Cocina
+- Comer
+- Conversar
+- Carpintería

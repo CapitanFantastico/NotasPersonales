@@ -1,0 +1,12 @@
+
+ - [ ] Pebetero garaje
+	- [ ] Perchero garaje
+	- [ ] Polainas
+	- [ ] Banco garaje
+	- [ ] Bodega garaje
+	- [ ] Arena, ladrillos refractarios
+	- [ ] Estructura PVC niñas
+	- [ ] Pasantía con el argentino
+	- [ ] Pistola de sal
+	- [ ] [[Horno Jimmy]] 
+	- [ ] Cazar gato

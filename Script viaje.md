@@ -1,0 +1,57 @@
+
+- [ ] Informar del viaje
+- [ ] Poner alarma
+- [ ] Alistar documentos de identificación
+	- [ ] Cédula
+	- [ ] Pasaporte
+	- [ ] Carnets 
+- [ ] Alistar dinero
+- [ ] Alistar llaves de la casa
+- [ ] Alistar audífonos (batería) y audios
+- [x] Alistar medicinas
+- [x] Alistar gafas de ver
+- [ ] Alistar gafas de sol
+- [x] Alistar protector solar
+- [x] Alistar gorra
+- [x] Alistar pantaloneta y camiseta
+- [x] Alistar pantaloneta de baño
+- [ ] Alistar papel higiénico
+- [ ] Alistar servilletas
+- [ ] Alistar paño
+- [x] Tapete picnic
+- [ ] Desinfectante de manos y de alimentos
+- [x] Rasurarme
+- [ ] Alistar cuaderno de notas y lapiceros
+- [ ] Alistar tapabocas
+- [ ] Alistar crema de dientes y cepillo
+- [ ] Alistar maletín
+	- [ ] Elementos tecnológicos 
+		- [ ] Laptops
+		- [ ] Ratón
+		- [ ] Teclado inalámbrico
+		- [ ] Teléfono móvil
+		- [ ] Cargadores
+		- [ ] Bancos de poder
+		- [ ] Cables HDMI
+		- [ ] Memorias USB
+- [ ] Alistar bebidas y alimentos
+	- [ ] Agua
+	- [ ] Café
+	- [ ] Galletas
+	- [ ] Pan
+	- [ ] Frutas deshidratadas
+	- [ ] Tajadas de maduro
+	- [ ] Snacks
+	- [ ] Almuerzo
+- [ ] Alistar ropa adecuada y de cambio
+	- [ ] Abrigo
+	- [ ] Cubretodo
+	- [ ] Sombrilla
+	- [ ] Zapatos
+	- [ ] Pantalones
+	- [ ] Camisa
+	- [ ] Ropa de cambio
+- [ ] [[Script viaje en moto]] 
+- [ ] [[Script viaje en carro]] 
+- [ ] [[Script viaje largo]] 
+- [ ] [[Script viaje a Zarzal]]

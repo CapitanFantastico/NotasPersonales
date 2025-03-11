@@ -1,0 +1,2 @@
+
+Para radicar un derecho de petición al Banco Falabella en Colombia, puedes hacerlo a través del correo electrónico **[email protected]**【316†source】【317†source】. Asegúrate de incluir todos los datos necesarios, como tu identificación, y detallar claramente la solicitud que realizas. También es importante guardar el comprobante de envío para seguimiento.
