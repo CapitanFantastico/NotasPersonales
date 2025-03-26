@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO LIST.md",
+                "file": "Visa USA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,19 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TO DO LIST"
-            }
-          },
-          {
-            "id": "b4289f5fb85350a4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "Visa USA"
             }
           },
           {
@@ -92,30 +80,6 @@
             }
           },
           {
-            "id": "daea4e6be12f1990",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Script viaje en moto.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Script viaje en moto"
-            }
-          },
-          {
             "id": "eb91739de16a860a",
             "type": "leaf",
             "state": {
@@ -162,8 +126,105 @@
               "icon": "lucide-file",
               "title": "Descargas pendientes"
             }
+          },
+          {
+            "id": "a394505a6dec447b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eucalipto.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Eucalipto"
+            }
+          },
+          {
+            "id": "b829c7410e0985d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Composiciones literarias.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Composiciones literarias"
+            }
+          },
+          {
+            "id": "255e441652787116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO DO LIST.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TO DO LIST"
+            }
+          },
+          {
+            "id": "daea4e6be12f1990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Script trabajo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Script trabajo"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -182,7 +243,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -215,8 +277,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -305,34 +366,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b02ffb392955708b",
+  "active": "255e441652787116",
   "lastOpenFiles": [
-    "Moto Suzuki.md",
-    "SOAT 8901087725901.md",
+    "Script trabajo.md",
+    "Script viaje a Zarzal.md",
+    "Script viaje.md",
+    "Script viaje largo.md",
+    "Script finca.md",
+    "Itinerario Bogotá semana santa 2025.md",
     "TO DO LIST.md",
-    "Inicio.md",
-    "Fechas importantes.md",
+    "Composiciones literarias.md",
+    "Gripa.md",
+    "Script viaje en carro.md",
+    "Script viaje en moto.md",
+    "Visa USA.md",
+    "Antihistamínicos naturales.md",
+    "Eucalipto.md",
+    "Gustavo Adolfo Osorio Gallego.md",
+    "Eduardo Osorio.md",
+    "Buga.md",
+    "Residencia Santa Rita.md",
     "María Salome Osorio.md",
     "Ana Isabel Osorio.md",
+    "RUT GAO.md",
+    "Moto Suzuki.md",
+    "SOAT 8901087725901.md",
+    "Inicio.md",
+    "Fechas importantes.md",
     "Gastos mensuales.md",
-    "Descargas pendientes.md",
-    "Script viaje en moto.md",
-    "Script viaje a Zarzal.md",
-    "Script finca.md",
-    "Proyecto Bodega.md",
-    "Visa USA.md",
-    "Script trabajo.md",
-    "Fitness.md",
-    "Maria Salome Osorio.md",
-    "Script viaje.md",
-    "Script viaje en carro.md",
-    "Script Cali.md",
-    "Script Clase virtual.md",
-    "Esenciales.md",
-    "Fechas importantes (Copia en conflicto de DESKTOP-GFAB4P7 2023-03-13).md",
-    "María Del Mar Osorio.md",
-    "Karen Julieth Osorio.md",
-    "Untitled 1.md",
     "Pasted image 20241230172155.png",
     "DerechoPeticionFalabella.jpg",
     "MDMPasaporte.png",

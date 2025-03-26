@@ -7,6 +7,8 @@
 - [ ] Gafas
 - [x] Hojas para exámen
 - [x] Cable HDMI
+- [ ] Cable audio
+- [ ] Speakers
 - [ ] Teclado Bluetooth
 - [x] Mouse Bluetooth
 - [x] Carnet

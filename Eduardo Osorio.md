@@ -7,8 +7,8 @@ Teléfonos:
 Correo: 
 Padre: 
 Madre: 
-Hijos: Jesús Alberto Osorio, Fernando Osorio, Elizabeth Osorio, Julio César Osorio, Carlos Eduardo Osorio, Francisco José Osorio, Claudia Patricia Osorio, Alfredo Osorio, Mónica Osorio, [[Gustavo Osorio]]
-Estudios: [[Primaria básica]]
+Hijos: [[Jesús Alberto Osorio]], [[Fernando Osorio]], [[Elizabeth Osorio]], [[Julio César Osorio]], [[Carlos Eduardo Osorio]], [[Francisco José Osorio]], [[Claudia Patricia Osorio]], [[Alfredo Osorio]], [[Mónica Osorio]], [[Gustavo Adolfo Osorio Gallego]]
+Estudios: Primaria básica
 Experiencia laboral: 
 Idiomas: Español materno
 

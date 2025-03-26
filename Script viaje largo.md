@@ -1,0 +1,56 @@
+
+- [ ] Plan y reservas
+	- [ ] Sab : Ibagué
+	- [ ] Dom - Mie : Bogotá
+	- [ ] Jue : Ibagué
+- [ ] Presupuesto
+- [ ] Permisos y aprobaciones
+- [ ] [[Script viaje]] 
+- [ ] [[Script viaje en carro]] 
+- [ ] Medio de transporte: 
+- [ ] Pasajeros: 
+- [ ] Itinerario [[Itinerario Bogotá semana santa 2025]] 
+	- [ ] Sab 20250412-06:00 Salida a Ibagué 
+	- [ ] Dom 20250413-
+	- [ ] Lun 20250414
+	- [ ] Mar 20250415
+	- [ ] Mie 20250416
+- [ ] Equipaje
+	- [ ] Ropa
+	- [ ] Sleepings
+	- [ ] Almohadas
+	- [ ] Cafetera
+	- [ ] Termo
+	- [ ] Agua
+	- [ ] Chocolate en polvo
+	- [ ] Café
+	- [ ] Azúcar
+	- [ ] Panes y galletas
+	- [ ] Cereales
+	- [ ] Nevera
+	- [ ] Yogurt
+	- [ ] Queso lonchas
+	- [ ] Jamón
+	- [ ] Pan tajado
+	- [ ] Mermeladas
+	- [ ] Mayonesa
+	- [ ] Hervidor
+	- [ ] Estufa
+	- [ ] Carpa
+	- [ ] Medicina
+		- [ ] Dolex pediátrico
+		- [ ] Ibuprofeno
+		- [ ] Acetaminofén
+		- [ ] Antibiotico
+	- [ ] Alimentos niñas
+		- [ ] Teteros
+		- [ ] Coladas
+		- [ ] Bebidas
+	- [ ] Menaje
+		- [ ] Tabla de picar
+		- [ ] Platos
+		- [ ] Ollas
+- [ ] Otros
+	- [ ] Monopatines
+	- [ ] Coches
+	- [ ] Carritos

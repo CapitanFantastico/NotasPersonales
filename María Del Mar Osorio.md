@@ -10,7 +10,7 @@ Nacionalidad: Colombia
 Residencia:
 Teléfonos:
 Correo
-Padre: [[Gustavo Osorio]]
+Padre: [[Gustavo Adolfo Osorio Gallego]]
 Madre:[[Inés Escudero]]
 Hermanos: [[Karen Julieth Osorio]]
 Hijos: 

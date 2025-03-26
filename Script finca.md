@@ -1,5 +1,15 @@
 
 - [ ] Propósito
+	- [ ] Nivelar piso bodega
+		- [ ] Palos
+		- [ ] Nivel
+	- [ ] Cosechar naranjas
+		- [ ] Costales
+		- [ ] Bufanda
+		- [ ] Monja
+		- [ ] Gafas
+		- [ ] Cachucha
+		- [ ] Buso
 	- [ ] Transporte de material
 		- [ ] Ayudante
 		- [ ] Espacio para almacenar
@@ -9,13 +19,6 @@
 		- [ ] Buso
 		- [ ] Gafas
 		- [ ] Monja
-	- [ ] Cosechar naranjas
-		- [ ] Costales
-		- [ ] Bufanda
-		- [ ] Monja
-		- [ ] Gafas
-		- [ ] Cachucha
-		- [ ] Buso
 	- [ ] Fumigar mata maleza
 		- [x] Bomba y cargador
 		- [x] Producto a aplicar
@@ -43,33 +46,34 @@
 		- [ ] Semillas
 
 - [ ] Varios
-	- [ ] Audios
-	- [ ] Repelente de mosquitos
+	- [x] Audios
+	- [x] Repelente de mosquitos
 	- [ ] Protector solar
-	- [ ] Candela
-	- [ ] Linterna
-	- [ ] Teléfono y cargador
-	- [ ] Cable cargador moto
-	- [ ] Computador
+	- [x] Candela
+	- [x] Linterna
+	- [x] Teléfono y cargador
+	- [x] Cable cargador moto
+	- [x] Computador
 	- [ ] Toldillo
 	- [ ] Colchoneta
-	- [ ] Costales
-	- [ ] Toalla
+	- [x] Costales
+	- [x] Toalla
+	- [ ] Pantaloneta
 	- [ ] Jabón
 	- [ ] Papel
-	- [ ] Cuerdas
-	- [ ] Neumáticos
-	- [ ] Semillas
+	- [x] Cuerdas
+	- [x] Neumáticos
+	- [x] Semillas
 
 - [ ] Ropa de trabajo
-	- [ ] Pantalones
-	- [ ] Sombrero 
-	- [ ] Monja
-	- [ ] Bufanda
-	- [ ] Ninja
-	- [ ] Guantes
-	- [ ] Buso manga larga
-	- [ ] Botas de caucho
+	- [x] Pantalones
+	- [x] Sombrero 
+	- [x] Monja
+	- [x] Bufanda
+	- [x] Ninja
+	- [x] Guantes
+	- [x] Buso manga larga
+	- [x] Botas de caucho
 
 - [ ] Ropa de viaje en moto
 	- [ ] Impermeable

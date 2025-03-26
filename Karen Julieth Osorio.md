@@ -8,7 +8,7 @@ Nacionalidad: Colombia
 Residencia: USA
 Teléfonos:
 Correo
-Padre: [[Gustavo Osorio]]
+Padre: [[Gustavo Adolfo Osorio Gallego]]
 Madre:[[Inés Escudero]]
 Hermanos: [[María Del Mar Osorio]]
 Hijos: [[Thiago Valencia]]

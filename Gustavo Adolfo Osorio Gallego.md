@@ -1,16 +1,15 @@
 Nombre: Gustavo Adolfo Osorio
 #persona
 F.Nacimiento: 12-mar-1971
-ID: C.C 14894118, Pasaporte xxxxxx
+ID: C.C 14894118, Pasaporte AZ631863
 Nacionalidad: Colombia
 Residencia: Colombia
 Teléfonos: Celular 3155545826
 Correo: g0s0ri01@gmail.com
 Padre: [[Eduardo Osorio]]
 Madre: Nelly Gallego
-Hermanos: Jesús Alberto Osorio, Fernando Osorio, Elizabeth Osorio, Julio César Osorio, Carlos Eduardo Osorio, Francisco José Osorio, Claudia Patricia Osorio, Alfredo Osorio, Mónica Osorio
 Hijos: [[Karen Julieth Osorio]], [[María Del Mar Osorio]], [[Ana Isabel Osorio]], [[María Salome Osorio]]
-[[Maria Salome Osorio]] 
+
 
 
 

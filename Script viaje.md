@@ -8,19 +8,19 @@
 - [ ] Alistar dinero
 - [ ] Alistar llaves de la casa
 - [ ] Alistar audífonos (batería) y audios
-- [x] Alistar medicinas
-- [x] Alistar gafas de ver
+- [ ] Alistar medicinas
+- [ ] Alistar gafas de ver
 - [ ] Alistar gafas de sol
-- [x] Alistar protector solar
-- [x] Alistar gorra
-- [x] Alistar pantaloneta y camiseta
-- [x] Alistar pantaloneta de baño
+- [ ] Alistar protector solar
+- [ ] Alistar gorra
+- [ ] Alistar pantaloneta y camiseta
+- [ ] Alistar pantaloneta de baño
 - [ ] Alistar papel higiénico
 - [ ] Alistar servilletas
 - [ ] Alistar paño
-- [x] Tapete picnic
+- [ ] Tapete picnic
 - [ ] Desinfectante de manos y de alimentos
-- [x] Rasurarme
+- [ ] Rasurarme
 - [ ] Alistar cuaderno de notas y lapiceros
 - [ ] Alistar tapabocas
 - [ ] Alistar crema de dientes y cepillo
@@ -53,5 +53,4 @@
 	- [ ] Ropa de cambio
 - [ ] [[Script viaje en moto]] 
 - [ ] [[Script viaje en carro]] 
-- [ ] [[Script viaje largo]] 
-- [ ] [[Script viaje a Zarzal]]
+- [ ] [[Script viaje a Zarzal]] 

@@ -9,7 +9,7 @@
  
 ---
 
-- [ ] Lunes 10, 17 
+- [ ] Lunes 31, 07 
 	- [ ] Entreno
 	- [ ] 08:30 Llevar a las niñas
 	- [ ] 19:00 Pasar por las niñas
@@ -19,10 +19,10 @@
 		- [ ] Revisar moto
 		- [ ] Alistar maletín
 		- [ ] Preparar tema
-		- [ ] Comprar pan, pasas
+		- [ ] Comprar pan
 - [ ] ---
 
-- [ ] Martes 11, 18 ==Zarzal 06:00 - 22:30== (11-marzo, inducción biblioteca 9-11)
+- [ ] Martes 01, 08 ==Zarzal 06:00 - 22:30== 
 	- [ ] 06:00 Salida a Zarzal
 	- [ ] 08:00 - 11:00 ==Clase I1FPZ50== Bolivar
 	- [ ] 14:00 - 17:00 ==Clase GPSZ50== Balsas sala 3
@@ -37,7 +37,7 @@
 		- [ ] Apanado
 	- [ ] 20:00 Sacar basura
 
-- [ ] Miércoles 12, 19 ==Yumbo 16:30 - 22:30== (12-marzo, cumpleaños), (16-abril cita [[Visa USA]]) 
+- [ ] Miércoles 02, 09 ==Yumbo 16:30 - 22:30== (16-abril cita [[Visa USA]]), (2-abr SOAT moto)
 	- [ ] Entreno
 	- [ ] Piscina
 	- [ ] Llevar a las niñas
@@ -45,60 +45,46 @@
 	- [x] Mercado, miércoles de plaza
 	- [ ] 16:30 Salida a Yumbo
 	- [ ] 18:30 ==Clase DS2== 
-
-- [ ] Jueves 13, 20 ==Yumbo 05:00 - 14:00==
-	- [ ] 08:00 ==Clase Bases de Datos==
-	- [ ] Entreno
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] Almuerzo
-	- [ ] Pasar por las niñas
-	- [ ] 20:00 Sacar basura
-
-- [ ] Viernes 14, 21 ==Zarzal 16:00 - 22:00==
-	- [ ] Entreno
-	- [ ] Piscina
-	- [ ] Llevar a las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] 12:00 Almuerzo
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 14:00 Alistamiento Zarzal
-		- [ ] Café
-		- [ ] Agua
-		- [ ] Snack
-			- [ ] Maní
-			- [ ] Pasas
-			- [ ] Chocolate
-			- [ ] Pan
-			- [ ] Fruta
-	- [ ] 18:00 ==Introducción a la programación==
-
-- [ ] Sábado 15, 22
-	- [ ] Entreno
-	- [ ] Llevar a las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] 14:00 Piscina Comfenalco clases de natación gomelitas
-	- [ ] 17:30 Cobro Gilma 
-	- [ ] 20:00 Sacar basura
-
-- [ ] Domingo 09, 16
-	- [ ] Entreno
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] Piscina - Rio
-	- [ ] Finca
 	- [ ] ---
+		- [ ] Cali - ICESI
+		- [ ] Aumento Juan Carlos
+		- [ ] Alistamiento RTM moto negra
+		- [ ] Cortar platina
+		- [ ] Lavar y ajustar moto
+		- [ ] Internet
+		- [ ] Carpa
+		- [ ] Estufa
+		- [ ] Asamblea
+		- [ ] Convocatoria SENA
+		- [ ] GPS buseta
+		- [ ] Pasar a la Cooperativa por la carta de la embajada
+		- [ ] Hospedaje y plan Bogotá [[Script viaje largo]] 
+		- [ ] Hacer castillos
+		- [ ] Respaldar notas y documentos
+		- [ ] Ordenar cuarto
 		- [ ] 2-abril SOAT [[Moto Suzuki]] 
-		- [ ] Retiro de dinero
 		- [ ] Extensión 220V
 		- [ ] Internet fijo
-		- [ ] Chocolatinas
-		- [ ] Polen
-		- [ ] Hacer castillos
+		- [ ] Loncheras
+			- [ ] Chocolatinas
+			- [ ] Polen
+		- [ ] Recoger planillas cooperativa
+		- [ ] Complejo B
+		- [ ] Cobros
+			- [ ] Elizabeth Wilches
+		- [ ] Visa [[Visa USA]] 
+		- [ ] Cuentas préstamos
+		- [ ] Cuentas buseta
+		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
+		- [ ] Asunto SOS - Beneficiarios
+		- [ ] Tarjeta profesional
+		- [ ] Bodega finca
+			- [ ] Platinas, recortarlas, perforarlas y soldarlas
 		- [ ] Univalle
-			- [ ] Informes de cursos Yumbo
+			- [x] Informes de cursos Yumbo
 			- [ ] Deshacer cambio de horario con Secretaría
-			- [ ] Listado actualizado de estudiantes
-			- [ ] Pendientes con las secretarías de Yumbo y Zarzal
-			- [ ] Notas a tomar evaluaciones
+			- [x] Listado actualizado de estudiantes
+			- [ ] Pendientes con las secretarías de Yumbo y Zarzal - Cronograma
 			- [ ] Clase DS2 - Proyectos (requerimientos) - pruebas
 			- [ ] Clase BD 
 			- [ ] Clase GPS
@@ -110,7 +96,7 @@
 				- [ ] GP
 			- [ ] Lecciones aprendidas
 			- [ ] DS2
-			- [ ] Traducción BD
+			- [x] Traducción BD
 			- [ ] Traducción Programación
 			- [ ] Videos Programación
 			- [ ] Videos GPS
@@ -142,24 +128,49 @@
 				- [ ] Preparar siguiente clase - Diseño de bases de datos (MER), Taller
 				- [ ] Enviar programa, porcentajes de notas y evaluaciones, lectura, solicitar códigos
 				- [ ] Grupos y proyectos
-		- [ ] Recoger planillas cooperativa
-		- [ ] Retiro Coomeva
-		- [ ] Comprar soldador
-		- [ ] Complejo B
-		- [ ] Abono MIC
-		- [ ] Cobros
-			- [ ] Elizabeth Wilches
-		- [ ] Respaldar notas y documentos
-		- [ ] Visa [[Visa USA]] 
-		- [ ] Cuentas préstamos
-		- [ ] Cuentas buseta
-		- [x] Impermeable, galería, capa, tela
-		- [ ] Credenciales por desarrollo de software
-		- [ ] Asunto SOS - Beneficiarios
-		- [ ] Tarjeta profesional
-		- [ ] Bodega finca
-			- [ ] Platinas, recortarlas, perforarlas y soldarlas
-		- [ ] Ordenar cuarto
+
+- [ ] Jueves 27, 03 ==Yumbo 05:00 - 14:00==, 3-abr Tecno moto, 27-mar Cali ICESI
+	- [ ] 08:00 ==Clase Bases de Datos==
+	- [ ] Entreno
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] Almuerzo
+	- [ ] Pasar por las niñas
+	- [ ] 20:00 Sacar basura
+	- [ ] ---
+		- [ ] ICESI Cali copia diploma
+
+- [ ] Viernes 28, 4  ==Zarzal 16:00 - 22:00== (28-mar 6:00PM Asamblea)
+	- [ ] Entreno
+	- [ ] Piscina
+	- [ ] Llevar a las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 12:00 Almuerzo
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 14:00 Alistamiento Zarzal
+		- [ ] Café
+		- [ ] Agua
+		- [ ] Snack
+			- [ ] Maní
+			- [ ] Pasas
+			- [ ] Chocolate
+			- [ ] Pan
+			- [ ] Fruta
+	- [ ] 18:00 ==Introducción a la programación==
+
+- [ ] Sábado 29, 5
+	- [ ] Entreno
+	- [ ] Llevar a las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 14:00 Piscina Comfenalco clases de natación gomelitas
+	- [ ] 17:30 Cobro Gilma 
+	- [ ] 20:00 Sacar basura
+
+- [ ] Domingo 30, 6
+	- [ ] Entreno
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] Piscina - Rio
+	- [ ] Finca
+
 
 ---
 - [ ] 5AM Estudiar inglés

@@ -1,6 +1,51 @@
 
+https://ais.usvisa-info.com/es-co/niv/account
+**Cuenta de usuario:** GUSTAVO ADOLFO OSORIO 
+g0s0ri01@gmail.com 
+**Número de identificación de cuenta IVR:** 93200883
+`5*8C`
+**Cita Consular:** Miércoles 16 abril, 2025, 08:30 Bogota Hora Local at Bogota —  [Cómo llegar](https://ais.usvisa-info.com/es-co/niv/schedule/44836630/addresses/consulate)
+- [ ] Revisar documentos originales de la solicitud
+	- [ ] Fecha deseada de viaje a USA: Jun 15/2025 - Ago 15/2025 Vacaciones de la universidad
+	- [ ] Motivo: visitar a mis hijas
+	- [ ] Razón por la que me quedé la última vez: no había podido ver a mi hija por diferencias con mi ex esposa
+	- [ ] Fuentes de ingresos: 
+		- [ ] Universidad del Valle
+		- [ ] Cooperativa ciudad señora
+		- [ ] Lote - apicultura - naranjas
+	- [ ] Dirección Camilo: 
+	- [ ] Qué hice la vez que fui por última vez: prepararme para ingresar a trabaja a la universidad y al SENA
+	- [ ] Fecha: 23-sep-2022, 3 meses.
+	- [ ] Cuánto dinero llevé y gasté?
+	- [ ] Driver license
+	- [ ] Visa number: H2869316
+	- [ ] Visa revoke?
+	- [ ] Visa refuse?
+	- [ ] Dirección y teléfono de contacto en USA, correo
+	- [ ] Status MDM, KJO
+	- [ ] Trabajos
+		- [ ] Univalle 2024-01, 2024-02, 2025-01
+		- [ ] Apicultor 15-jun 2018 - 15-sep 2022
+		- [ ] DANE 15-jun 2015 - 15-jun 2017
+- [ ] Instrucciones impresas
+- [ ] Tapabocas
+- [ ] Fotos?
+- [ ] Teléfono?
+- [ ] Carpeta
+- [ ] Pasaporte
+- [ ] Dinero envío
+- [ ] RCN niñas
+- [ ] Documentos MDM
+- [ ] Documentos KJO
+- [ ] Vínculo laboral Univalle
+- [ ] Carta Cooperativa
+- [ ] Certificado Coomeva
+- [ ] SENA MIC
+- [ ] Univalle MIC
+- [ ] Los documentos requeridos por la Sección Consular al momento de la entrevista original o en el correo electrónico recibido
+
 Programar viaje para el lunes 15-abril
-- Pedir permiso en la universidad, la cita es el martes y coincide con la clase de DS
+- [x] Pedir permiso en la universidad, la cita es el martes y coincide con la clase de DS
 - Cita
 	- 16 abril, 2025, 08:30
 	- Calle 24 Bis No. 48-50 Bogota, D.C.
