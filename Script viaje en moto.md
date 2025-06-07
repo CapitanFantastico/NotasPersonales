@@ -19,13 +19,13 @@
 	- [x] Bolsas plásticas para cubrir el maletín 
 	- [x] Botas
 - [ ] Tanquear vehículo el día anterior
-- [x] Validar cambio de aceite
+- [ ] ==Validar cambio de aceite==
 - [ ] Verificar correcto funcionamiento de la moto
-	- [ ] Encendido
-	- [ ] Luces
+	- [x] Encendido
+	- [x] Luces
 		- [x] Frontales
-		- [ ] Traseras
-		- [ ] Direccionales
+		- [x] Traseras
+		- [x] Direccionales
 	- [x] Llantas
 	- [ ] Frenos
 	- [ ] Cadena

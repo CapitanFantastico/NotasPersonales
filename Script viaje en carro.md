@@ -1,4 +1,6 @@
 
+- [ ] SOAT
+- [ ] RTM
 - [ ] Alistar llaves del vehículo 
 - [ ] Alistar llaves de repuesto
 - [ ] Alistar documentos del vehículo

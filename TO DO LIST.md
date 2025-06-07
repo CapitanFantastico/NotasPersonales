@@ -9,9 +9,10 @@
  
 ---
 
-- [ ] Lunes 31, 07 
+- [ ] Lunes 02, 09
 	- [ ] Entreno
-	- [ ] 08:30 Llevar a las niñas
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
 	- [ ] 19:00 Pasar por las niñas
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 12:00 Almuerzo
@@ -20,13 +21,93 @@
 		- [ ] Alistar maletín
 		- [ ] Preparar tema
 		- [ ] Comprar pan
-- [ ] ---
+	- [ ] ---
+		- [ ] Ahora
+			- [ ] Clases
+				- [ ] IFP - Excel
+				- [ ] GPS50 - Review
+				- [ ] GPS51 - Lectura y Quiz
+			- [ ] Ropa
+			- [ ] Razurada
+			- [ ] Almuerzo mañana
+				- [ ] Ensalada atún
+				- [ ] Arroz
+			- [ ] Huevos
+			- [ ] Cereal
+			- [ ] Pan y torta
+		- [ ] Comprar cuchillas de afeitar
+		- [ ] Pendientes Univalle
+		- [ ] Cuota MDM mayo
+		- [ ] Visita KJO
+		- [ ] Contador bidireccional Celsia
+		- [ ] Descargar playlist canal argentino de libros
+		- [ ] Toldo impermeable
+		- [ ] Impermeabilizar traje
+		- [ ] Mercado campesino
+			- [ ] Aceite naranja
+			- [ ] Naranja deshidratada
+			- [ ] Tortas Adriana
+		- [ ] App agrónomo
+		- [ ] Planear y presupuestar techo finca
+		- [ ] Cobro Diana, Elizabeth Wilches
+		- [ ] Asunto SOS - Beneficiarios
+			- [ ] Radicar solicitud para pasar a las niñas a mi nombre
+		- [ ] Buga
+			- [ ] Franklin
+				- [ ] Aceite y fuga
+				- [ ] Freno
+				- [ ] Cadena
+				- [ ] Naranjas
+				- [ ] Cocina finca
+			- [ ] Perforar platina
+		- [ ] Cobros y cuentas
+		- [ ] Finca
+			- [ ] Poda
+			- [ ] Cosecha de naranjas
+			- [ ] Fumigar
+			- [ ] Bodega nueva
+				- [ ] Perforar platina
+				- [ ] Hacer castillos
+				- [ ] Nivelar tierra
+				- [ ] Lijar tubos y pintar (lijadora, varsol)
+			- [ ] Sierra de mano para las bases (25x25x15) - Anibal
+			- [ ] Acolilladora?
+			- [ ] Energía finca
+				- [ ] Pendiente visita con el eléctrico a las Delicias
+		- [ ] Programa el viaje en la camioneta (sábado/domingo)
+			- [ ] Concretar carro
+			- [ ] Concretar a Fabiola
+			- [ ] Concretar a Juancho
+			- [ ] Carga
+				- [ ] Nevera
+				- [ ] Lavadora
+				- [ ] 8 tejas de 3 metros
+				- [ ] 40 flejes de 3 metros
+				- [ ] Tubos de 1x1
+				- [ ] 1 baúl 
+				- [ ] Viga para bancas de madera
+				- [ ] Cobijas?
+				- [ ] Mesón acero Gissela
+		- [ ] COPINA?
+		- [ ] ==Convocatoria SENA==
+			- [ ] Revisar videos
+			- [ ] Ver ofertas
+		- [ ] Respaldar notas y documentos
+		- [ ] Ordenar cuarto
+		- [ ] Extensión 220V
+		- [ ] Loncheras
+			- [ ] Chocolatinas
+			- [ ] Polen
+		- [ ] Complejo B
+		- [ ] Cuentas préstamos
+		- [ ] Cuentas buseta
+		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
 
-- [ ] Martes 01, 08 ==Zarzal 06:00 - 22:30== 
+- [ ] Martes 27, 03, 10 ==Zarzal 06:00 - 22:30== 
 	- [ ] 06:00 Salida a Zarzal
-	- [ ] 08:00 - 11:00 ==Clase I1FPZ50== Bolivar
-	- [ ] 14:00 - 17:00 ==Clase GPSZ50== Balsas sala 3
-	- [ ] 18:00 - 21:00 ==Clase GPSZ51== Balsas sala 2
+	- [ ] 08:00 - 11:00 ==Clase I1FPZ50== Bolivar 
+	- [ ] 14:00 - 17:00 ==Clase GPSZ50== Balsas sala 3 
+	- [ ] 18:00 - 21:00 ==Clase GPSZ51== Balsas sala 2 
 	- [ ] Entreno
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [x] Faena donde Ana Milena     
@@ -37,112 +118,28 @@
 		- [ ] Apanado
 	- [ ] 20:00 Sacar basura
 
-- [ ] Miércoles 02, 09 ==Yumbo 16:30 - 22:30== (16-abril cita [[Visa USA]]), (2-abr SOAT moto)
+- [ ] Miércoles 28, 04, 11 ==Yumbo/PAT 16:30 - 22:30== 
 	- [ ] Entreno
 	- [ ] Piscina
-	- [ ] Llevar a las niñas
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [x] Mercado, miércoles de plaza
 	- [ ] 16:30 Salida a Yumbo
 	- [ ] 18:30 ==Clase DS2== 
-	- [ ] ---
-		- [ ] Cali - ICESI
-		- [ ] Aumento Juan Carlos
-		- [ ] Alistamiento RTM moto negra
-		- [ ] Cortar platina
-		- [ ] Lavar y ajustar moto
-		- [ ] Internet
-		- [ ] Carpa
-		- [ ] Estufa
-		- [ ] Asamblea
-		- [ ] Convocatoria SENA
-		- [ ] GPS buseta
-		- [ ] Pasar a la Cooperativa por la carta de la embajada
-		- [ ] Hospedaje y plan Bogotá [[Script viaje largo]] 
-		- [ ] Hacer castillos
-		- [ ] Respaldar notas y documentos
-		- [ ] Ordenar cuarto
-		- [ ] 2-abril SOAT [[Moto Suzuki]] 
-		- [ ] Extensión 220V
-		- [ ] Internet fijo
-		- [ ] Loncheras
-			- [ ] Chocolatinas
-			- [ ] Polen
-		- [ ] Recoger planillas cooperativa
-		- [ ] Complejo B
-		- [ ] Cobros
-			- [ ] Elizabeth Wilches
-		- [ ] Visa [[Visa USA]] 
-		- [ ] Cuentas préstamos
-		- [ ] Cuentas buseta
-		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
-		- [ ] Asunto SOS - Beneficiarios
-		- [ ] Tarjeta profesional
-		- [ ] Bodega finca
-			- [ ] Platinas, recortarlas, perforarlas y soldarlas
-		- [ ] Univalle
-			- [x] Informes de cursos Yumbo
-			- [ ] Deshacer cambio de horario con Secretaría
-			- [x] Listado actualizado de estudiantes
-			- [ ] Pendientes con las secretarías de Yumbo y Zarzal - Cronograma
-			- [ ] Clase DS2 - Proyectos (requerimientos) - pruebas
-			- [ ] Clase BD 
-			- [ ] Clase GPS
-			- [ ] Tomar notas calificaciones en cada curso
-			- [ ] Compartir material con estudiantes
-				- [ ] BD
-				- [ ] FP
-				- [ ] DS2
-				- [ ] GP
-			- [ ] Lecciones aprendidas
-			- [ ] DS2
-			- [x] Traducción BD
-			- [ ] Traducción Programación
-			- [ ] Videos Programación
-			- [ ] Videos GPS
-			- [ ] Preparar clases
-			- [ ] FP "FPZ50 202501", "INFORMATICA"
-				- [x] Enviar programa, porcentajes de notas y evaluaciones, link video, 
-				- [ ] lectura
-				- [ ] solicitar códigos y nombres en el grupo - procesar
-				- [ ] Configuración de grupos
-				- [ ] Asignación de proyectos
-				- [x] Sala de cómputo Esteban
-				- [x] Preparar tema
-			- [ ] GPS "GPSZ50 202501 Proyectos", "GPSZ51 202501 Proyectos"
-				- [ ] Preparar siguiente clase - Proyectos en la ingeniería de software
-				- [ ] Creación de empresa / Startup
-				- [ ] Cómo cobrar
-				- [ ] Innovación?
-				- [ ] Speech
-				- [ ] Grupos y proyectos
-				- [ ] Contenido del curso
-				- [ ] Enviar programa, porcentajes de notas y evaluaciones
-				- [ ] lectura
-			- [ ] DS2 "DS2Y53 202501"
-				- [ ] Preparar siguiente clase - Principios de desarrollo de software
-				- [ ] Entregar material de clase anterior
-				- [ ] video, solicitar códigos
-				- [ ] Grupos y proyectos
-			- [ ] BD "BDY50 202501"
-				- [ ] Preparar siguiente clase - Diseño de bases de datos (MER), Taller
-				- [ ] Enviar programa, porcentajes de notas y evaluaciones, lectura, solicitar códigos
-				- [ ] Grupos y proyectos
 
-- [ ] Jueves 27, 03 ==Yumbo 05:00 - 14:00==, 3-abr Tecno moto, 27-mar Cali ICESI
-	- [ ] 08:00 ==Clase Bases de Datos==
+- [ ] Jueves 29, 05, 12 ==Yumbo 05:00 - 14:00== 
+	- [ ] 08:00 ==Clase Bases de Datos== 
 	- [ ] Entreno
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] Almuerzo
-	- [ ] Pasar por las niñas
+	- [ ] 15:30 Pasar por las niñas
 	- [ ] 20:00 Sacar basura
-	- [ ] ---
-		- [ ] ICESI Cali copia diploma
 
-- [ ] Viernes 28, 4  ==Zarzal 16:00 - 22:00== (28-mar 6:00PM Asamblea)
+- [ ] Viernes 30, 06, 13  ==Zarzal 16:00 - 22:00== 
 	- [ ] Entreno
 	- [ ] Piscina
-	- [ ] Llevar a las niñas
+	- [ ] 07:30 Llevar a las niñas
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 12:00 Almuerzo
 	- [ ] 15:30 Pasar por las niñas
@@ -155,17 +152,17 @@
 			- [ ] Chocolate
 			- [ ] Pan
 			- [ ] Fruta
-	- [ ] 18:00 ==Introducción a la programación==
+	- [ ] 18:00 ==Clase Introducción a la programación==
 
-- [ ] Sábado 29, 5
+- [ ] Sábado 31, 07, 14
 	- [ ] Entreno
-	- [ ] Llevar a las niñas
+	- [ ] 07:30 Llevar a las niñas
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 14:00 Piscina Comfenalco clases de natación gomelitas
 	- [ ] 17:30 Cobro Gilma 
 	- [ ] 20:00 Sacar basura
 
-- [ ] Domingo 30, 6
+- [ ] Domingo 01, 08, 15 - Finca, cosecha, trasteo
 	- [ ] Entreno
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] Piscina - Rio

@@ -7,8 +7,8 @@
 - [ ] Permisos y aprobaciones
 - [ ] [[Script viaje]] 
 - [ ] [[Script viaje en carro]] 
-- [ ] Medio de transporte: 
-- [ ] Pasajeros: 
+- [ ] Medio de transporte: Carro
+- [ ] Pasajeros: NlosNyY
 - [ ] Itinerario [[Itinerario Bogotá semana santa 2025]] 
 	- [ ] Sab 20250412-06:00 Salida a Ibagué 
 	- [ ] Dom 20250413-
@@ -20,6 +20,7 @@
 	- [ ] Sleepings
 	- [ ] Almohadas
 	- [ ] Cafetera
+	- [ ] Carpa
 	- [ ] Termo
 	- [ ] Agua
 	- [ ] Chocolate en polvo
@@ -37,6 +38,7 @@
 	- [ ] Hervidor
 	- [ ] Estufa
 	- [ ] Carpa
+	- [ ] Lona para sentarse en el piso (parque Jaime Duque)
 	- [ ] Medicina
 		- [ ] Dolex pediátrico
 		- [ ] Ibuprofeno

@@ -1,48 +1,50 @@
 
-https://ais.usvisa-info.com/es-co/niv/account
+https://ais.usvisa-info.com/es-co/niv/account 
 **Cuenta de usuario:** GUSTAVO ADOLFO OSORIO 
 g0s0ri01@gmail.com 
 **Número de identificación de cuenta IVR:** 93200883
 `5*8C`
-**Cita Consular:** Miércoles 16 abril, 2025, 08:30 Bogota Hora Local at Bogota —  [Cómo llegar](https://ais.usvisa-info.com/es-co/niv/schedule/44836630/addresses/consulate)
+
+**Cita Consular:** ==Miércoles 16 abril, 2025==, 08:30 Bogota Hora Local at Bogota —  [Cómo llegar](https://ais.usvisa-info.com/es-co/niv/schedule/44836630/addresses/consulate)
 - [ ] Revisar documentos originales de la solicitud
-	- [ ] Fecha deseada de viaje a USA: Jun 15/2025 - Ago 15/2025 Vacaciones de la universidad
-	- [ ] Motivo: visitar a mis hijas
-	- [ ] Razón por la que me quedé la última vez: no había podido ver a mi hija por diferencias con mi ex esposa
+	- [x] Fecha deseada de viaje a USA: Jun 15/2025 - Ago 15/2025 ==Vacaciones de la universidad==
+	- [x] Motivo: visitar a mis hijas
+	- [x] Razón por la que me quedé la última vez: ==no había podido ver a mi hija por diferencias con mi ex esposa== 
 	- [ ] Fuentes de ingresos: 
-		- [ ] Universidad del Valle
-		- [ ] Cooperativa ciudad señora
-		- [ ] Lote - apicultura - naranjas
-	- [ ] Dirección Camilo: 
-	- [ ] Qué hice la vez que fui por última vez: prepararme para ingresar a trabaja a la universidad y al SENA
+		- [x] Universidad del Valle 19h x 4semanas x $49303 $3.000.000
+		- [x] Cooperativa ciudad señora $3.000.000/mes
+		- [x] Apicultura - naranjas 10 bultos / semana x 4 semanas x $50.000 aprox $3.000.000/mes
+		- [x] Certificado bancario
+	- [ ] Qué hice la vez que fui por última vez: ==prepararme para ingresar a trabaja a la universidad y al SENA== 
 	- [ ] Fecha: 23-sep-2022, 3 meses.
-	- [ ] Cuánto dinero llevé y gasté?
-	- [ ] Driver license
+	- [ ] Cuánto dinero llevé y gasté? TC y US$1.000.000
+	- [ ] Driver license:
 	- [ ] Visa number: H2869316
 	- [ ] Visa revoke?
 	- [ ] Visa refuse?
-	- [ ] Dirección y teléfono de contacto en USA, correo
-	- [ ] Status MDM, KJO
+	- [ ] Dirección y teléfono de contacto en USA, correo: Camilo: ==246 Foxtail Dr, Greenacres FL 33415== juansancle26@gmail.com +1 (561) 856-8856
+	- [ ] Status MDM (residencia aprobada) , KJO (residencia en proceso)
 	- [ ] Trabajos
 		- [ ] Univalle 2024-01, 2024-02, 2025-01
 		- [ ] Apicultor 15-jun 2018 - 15-sep 2022
 		- [ ] DANE 15-jun 2015 - 15-jun 2017
 - [ ] Instrucciones impresas
-- [ ] Tapabocas
+- [x] Tapabocas
 - [ ] Fotos?
 - [ ] Teléfono?
 - [ ] Carpeta
-- [ ] Pasaporte
-- [ ] Dinero envío
-- [ ] RCN niñas
+- [x] Pasaporte vigente
+- [ ] Dinero envío: Calle 5ASur 16-19 b/Santa Rita, Buga (Valle)
+- [x] RCN niñas
 - [ ] Documentos MDM
 - [ ] Documentos KJO
-- [ ] Vínculo laboral Univalle
-- [ ] Carta Cooperativa
+- [x] Vínculo laboral Univalle
+- [x] Carta Cooperativa
 - [ ] Certificado Coomeva
 - [ ] SENA MIC
 - [ ] Univalle MIC
 - [ ] Los documentos requeridos por la Sección Consular al momento de la entrevista original o en el correo electrónico recibido
+- [x] Documentos lote
 
 Programar viaje para el lunes 15-abril
 - [x] Pedir permiso en la universidad, la cita es el martes y coincide con la clase de DS
@@ -115,14 +117,14 @@ Por favor, ==reúna los documentos para cada uno de los solicitantes== abajo ind
 
 # Instrucciones para la solicitud de visa
 
-|   |   |
-|---|---|
-|**Nombre del solicitante**|**GUSTAVO ADOLFO OSORIO**|
-|**Tipo de Visa**|B1/B2 Negocios y turismo (visitante temporal)|
-|**Número DS-160**|AA00BGEW29|
-|**Número de pasaporte**|AZ631863|
-|**Número DS-160**|![](https://ais.usvisa-info.com/es-co/barcode/AA00BGEW29?visa_type=niv)  <br>AA00BGEW29|
-|**Número de pasaporte**|![](https://ais.usvisa-info.com/es-co/barcode/AZ631863?visa_type=niv)  <br>AZ631863|
+|                            |                                                                                         |
+| -------------------------- | --------------------------------------------------------------------------------------- |
+| **Nombre del solicitante** | **GUSTAVO ADOLFO OSORIO**                                                               |
+| **Tipo de Visa**           | B1/B2 Negocios y turismo (visitante temporal)                                           |
+| **Número DS-160**          | AA00BGEW29                                                                              |
+| **Número de pasaporte**    | AZ631863                                                                                |
+| **Número DS-160**          | ![](https://ais.usvisa-info.com/es-co/barcode/AA00BGEW29?visa_type=niv)  <br>AA00BGEW29 |
+| **Número de pasaporte**    | ![](https://ais.usvisa-info.com/es-co/barcode/AZ631863?visa_type=niv)  <br>AZ631863     |
 
 ==Usted debe acudir a una entrevista en persona en el consulado. Por favor, reúna los documentos que se indican a continuación y llévelos con usted a su entrevista junto con una copia de estas instrucciones.==
 
@@ -179,3 +181,46 @@ Para adelantar o reprogramar la cita, aquí le contamos cómo puede hacerlo:
 - Allí se mostrará un calendario donde podrá ver si se han habilitado citas que sean más próximas a su cita inicial.
 
 Ya no está disponible!
+
+
+---
+---
+
+When a U.S. consular officer evaluates a Colombian citizen’s visa application at the embassy in Bogotá, the information displayed on their screen is part of a secure system designed to assess eligibility. While the exact details of the interface are confidential, the data typically includes:
+
+### 1. **DS-160 Application Details**  
+   - Full name, date of birth, nationality, and passport information.  
+   - Travel history, including previous visas or entries to the U.S. or other countries.  
+   - Employment, education, and financial status (as self-reported).  
+   - Purpose of the trip (tourism, business, study, etc.) and planned itinerary.  
+
+### 2. **Biometric Data**  
+   - Fingerprints and facial recognition data (cross-referenced with U.S. databases like the **Consular Consolidated Database (CCD)** and security systems).  
+
+### 3. **Security and Background Checks**  
+   - Results from systems like **CLASS** (Consular Lookout and Support System), which flags potential security risks, criminal records, or ==prior visa denials==.  
+   - Checks against watchlists (e.g., terrorism, drug trafficking) via **TECS** (a DHS security database).  
+
+### 4. **Prior Visa History**  
+   - Any previous U.S. visa applications, approvals, refusals, or ==overstays==.  
+   - Notes from prior interviews (e.g., inconsistencies, concerns raised by past officers).  
+
+### 5. **Supporting Documentation**  
+   - Scanned or uploaded documents submitted by the applicant (e.g., bank statements, employment letters, invitation letters).  
+   - ==Automated alerts for discrepancies between documents and application answers==.  
+
+### 6. **Fraud Detection Indicators**  
+   - System-generated alerts for potential fraud (e.g., fake documents, ==suspicious patterns in travel history==, or ties to high-risk industries).  
+
+### 7. **Local and International Databases**  
+   - Information shared by Colombian authorities (e.g., criminal records, immigration violations) under bilateral agreements.  
+
+### 8. **Case Notes**  
+   - Internal comments from consular staff, including observations from the interview or additional verification steps taken.  
+
+### Important Notes:  
+- The system prioritizes **national security** and **immigration compliance**, focusing on ==ties to Colombia== (e.g., family, employment, assets) to assess the ==risk of overstaying==.  
+- ==Officers are trained to identify inconsistencies or red flags quickly==.  
+- The U.S. government does not disclose the full technical scope of these systems to prevent exploitation.  
+
+If you’re applying for a visa, ensure all information is truthful and consistent with your documentation. ==Misrepresentation can lead to permanent ineligibility==.

@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b02ffb392955708b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Visa USA.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Visa USA"
-            }
-          },
-          {
             "id": "f90c91af70561cf4",
             "type": "leaf",
             "state": {
@@ -56,127 +32,7 @@
             }
           },
           {
-            "id": "be2c5cf97aaa6e4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "María Salome Osorio.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "María Salome Osorio"
-            }
-          },
-          {
-            "id": "eb91739de16a860a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gastos mensuales.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Gastos mensuales"
-            }
-          },
-          {
-            "id": "55065bfa64b5e8d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Descargas pendientes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Descargas pendientes"
-            }
-          },
-          {
-            "id": "a394505a6dec447b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eucalipto.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Eucalipto"
-            }
-          },
-          {
             "id": "b829c7410e0985d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Composiciones literarias.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Composiciones literarias"
-            }
-          },
-          {
-            "id": "255e441652787116",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -200,12 +56,12 @@
             }
           },
           {
-            "id": "daea4e6be12f1990",
+            "id": "6260a1da1f768668",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Script trabajo.md",
+                "file": "Relevo generacional.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -220,11 +76,179 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Script trabajo"
+              "title": "Relevo generacional"
+            }
+          },
+          {
+            "id": "bc2979ddb2912fb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NCSA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NCSA"
+            }
+          },
+          {
+            "id": "95ab2eb40dc56f3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solicitud contador bidireccional a Celsia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Solicitud contador bidireccional a Celsia"
+            }
+          },
+          {
+            "id": "904136bf2b2f1af8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyecto techo finca.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Proyecto techo finca"
+            }
+          },
+          {
+            "id": "b98ac73c323f7658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tarea Alberto.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tarea Alberto"
+            }
+          },
+          {
+            "id": "dd7b103c94ccbb80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DIAN.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DIAN"
+            }
+          },
+          {
+            "id": "ae7b94470cf031fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lote las Delicias.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Lote las Delicias"
+            }
+          },
+          {
+            "id": "e7c1f7f47b7d91c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cumpleaños gomelitas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cumpleaños gomelitas"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -281,7 +305,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4e328c4ce57e97aa",
@@ -297,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Script viaje.md",
+                "file": "Relevo generacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +332,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Script viaje"
+              "title": "Backlinks for Relevo generacional"
             }
           },
           {
@@ -316,12 +341,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Script viaje.md",
+                "file": "Relevo generacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Script viaje"
+              "title": "Outgoing links from Relevo generacional"
             }
           },
           {
@@ -331,7 +356,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -343,18 +370,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Script viaje.md"
+                "file": "Relevo generacional.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Script viaje"
+              "title": "Outline of Relevo generacional"
+            }
+          },
+          {
+            "id": "92be0947460114cf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -363,37 +403,40 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "255e441652787116",
+  "active": "018a82cbd3a8728a",
   "lastOpenFiles": [
-    "Script trabajo.md",
-    "Script viaje a Zarzal.md",
-    "Script viaje.md",
-    "Script viaje largo.md",
-    "Script finca.md",
-    "Itinerario Bogotá semana santa 2025.md",
     "TO DO LIST.md",
-    "Composiciones literarias.md",
-    "Gripa.md",
-    "Script viaje en carro.md",
-    "Script viaje en moto.md",
+    "Relevo generacional.md",
+    "Fechas importantes.md",
+    "NCSA.md",
+    "Solicitud contador bidireccional a Celsia.md",
+    "Proyecto techo finca.md",
+    "Tarea Alberto.md",
+    "DIAN.md",
+    "Lote las Delicias.md",
+    "Cumpleaños gomelitas.md",
+    "Imprimir.md",
+    "Diagnóstico emocional.md",
+    "MIC-HT.md",
+    "SX Threesomelike.md",
     "Visa USA.md",
-    "Antihistamínicos naturales.md",
-    "Eucalipto.md",
-    "Gustavo Adolfo Osorio Gallego.md",
-    "Eduardo Osorio.md",
-    "Buga.md",
-    "Residencia Santa Rita.md",
-    "María Salome Osorio.md",
-    "Ana Isabel Osorio.md",
-    "RUT GAO.md",
+    "Itinerario Bogotá semana santa 2025.md",
+    "Script viaje a Zarzal.md",
+    "Script viaje en moto.md",
+    "Script trabajo.md",
+    "Barril peruano.md",
     "Moto Suzuki.md",
     "SOAT 8901087725901.md",
-    "Inicio.md",
-    "Fechas importantes.md",
-    "Gastos mensuales.md",
+    "Composiciones literarias.md",
+    "Análisis de un informe de gestión de la cooperativa.md",
+    "SOATMotoSuzuki2025.png",
+    "SOATMotoSuzuki2024.png",
+    "Script viaje largo.md",
+    "Script viaje en carro.md",
     "Pasted image 20241230172155.png",
     "DerechoPeticionFalabella.jpg",
     "MDMPasaporte.png",
@@ -402,8 +445,6 @@
     "Pasted image 20240615131036.png",
     "Pasted image 20240615130122.png",
     "Pasted image 20240615120124.png",
-    "Pasted image 20240615114413.png",
-    "Pasted image 20240615113005.png",
     "El libro de los estiramientos. Consigue un cuerpo totalmente flexible.pdf",
     "Templates"
   ]

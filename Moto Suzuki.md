@@ -12,7 +12,7 @@ Tipo combustible: GASOLINA
 Modelo 2009
 Referencia: GS 125 MT 125CC
 Color: Negro
-SOAT: [[SOAT 8901087725901]]
+SOAT: [[SOAT 8901087725901]] 
 RTM: 3-abril/2024
 Batería:  2-abril/2024
 Aceite:

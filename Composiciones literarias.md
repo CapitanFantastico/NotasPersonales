@@ -1,6 +1,4 @@
 
-(Due to technical issues, the search service is temporarily unavailable.)
-
 Además de la **prosa** (como novelas, cuentos y ensayos), la literatura incluye otros tipos de escritos que se diferencian por su estructura, lenguaje y propósito. Aquí te explico los principales:
 
 ---

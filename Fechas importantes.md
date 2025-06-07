@@ -32,9 +32,9 @@ Vencidos
 ---
 
 - [ ] 05-Feb Rm-Recoger planilla cooperativa / cuentas buseta
-* [x] 09-Feb/72 Ry-Cumple [[Inés Escudero]] 
+* [ ] 09-Feb/72 Ry-Cumple [[Inés Escudero]] 
 * [ ] 10-Feb Rm-Firma de recargos nocturnos
-* [x] 10-Feb Rm-Pago TC Falabella 8133011311 
+* [ ] 10-Feb Rm-Pago TC Falabella 8133011311 
 * [ ] 15-Feb Rm-Pago Coomeva $200 ($105?)
 - [ ] 15-Feb Rm-Pago celular GAO 10084025741 $30
 - [ ] 16-Feb Copia diploma - Tarjeta profesional
@@ -45,19 +45,16 @@ Vencidos
 ---
 
 - [ ] 01-Mar Rm-Consignación cuota alimentaria $315.000
-* [x] 01-Mar Calibrar válvulas moto
 * [ ] 01-Mar Pago factura celular
 * [x] 05-Mar Rm-Pago PILA  $354.00
-- [ ] 12-Mar/71 Ry-[[Cumpleaños GAO]] 
-- [ ] 15-Mar SOAT moto negra
-- [ ] 16-Mar RTM moto negra
-* [ ] 17-Mar Ry-Asamblea Cooperativa
-* [ ] Impuestos buseta
+- [x] 12-Mar/71 Ry-[[Cumpleaños GAO]] 
+* [x] 17-Mar Ry-Asamblea Cooperativa
+* [ ] Ry-Impuestos buseta
 ---
 * [ ] 30-Abr/76 Ry-Cumple [[Claudia Vaca]] 
-* [ ] 04-Abr-25 Ry-SOAT [[Moto Suzuki]] 
-- [ ] 03-Abr-25 Ry-RTM [[Moto Suzuki]]
 - [ ] 02-Abr-25 Ry-Batería [[Moto Suzuki]] 
+* [x] 02-Abr-26 Ry-SOAT [[Moto Suzuki]] 
+- [x] 04-Abr-26 Ry-RTM [[Moto Suzuki]]
 ---
 * [ ] 18-Jun Ry-Día del padre
 - [ ] 14-Jun Ry-Cumple [[Violeta]] y [[Luna]]
