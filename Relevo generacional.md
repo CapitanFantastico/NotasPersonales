@@ -60,3 +60,58 @@ F --> A
 - **Resultados**: Leves recuperaciones (Suecia: 1.67 hijos/mujer), pero insuficientes para alcanzar el reemplazo.
 
 ⚠️ **Conclusión**: La "desaparición" no es biológica inmediata, sino un proceso de declive funcional donde la sociedad pierde capacidad de mantenerse como entidad viable, económica y culturalmente.
+
+---
+---
+
+La pirámide poblacional de Colombia está experimentando una transformación radical, pasando de una estructura juvenil típica a un perfil envejecido con profundas implicaciones socioeconómicas. Estos son los aspectos clave:
+
+### 🔻 **1. Estructura actual (2025)**  
+- **Población total**: 53.4 millones de habitantes .  
+- **Distribución por edad**:  
+  - **Jóvenes (0-14 años)**: 19.99% (10.7 millones) .  
+  - **Población activa (15-64 años)**: 69.81% (37.3 millones) .  
+  - **Adultos mayores (65+ años)**: 10.20% (5.4 millones) .  
+- **Tasa de crecimiento**: 0.8% anual (en declive desde 2.8% en 1960) .  
+
+### 📊 **2. Evolución histórica (1950 vs. 2025)**  
+| Grupo etario       | 1950 (% población) | 2025 (% población) | Cambio               |  
+|--------------------|---------------------|--------------------|----------------------|  
+| **0-14 años**      | 46.79%             | 19.99%             | ⬇️ Reducción del 57% |  
+| **15-64 años**     | 50.36%             | 69.81%             | ⬆️ Aumento del 39%   |  
+| **>65 años**       | 2.85%              | 10.20%             | ⬆️ Aumento del 258%  |  
+*Fuente: Datos históricos .*  
+
+### ⏳ **3. Tendencias críticas**  
+- **Envejecimiento acelerado**:  
+  - Para **2050**, los adultos mayores representarán el **20.58%** de la población, superando a los jóvenes .  
+  - La población total alcanzará su pico en **2051** (59.3 millones), seguido de un declive .  
+- **Colapso de la base**:  
+  - La natalidad cayó un **13.7%** en 2024 vs. 2023, con solo **445,011 nacimientos** .  
+  - La tasa de fecundidad es de **1.6 hijos por mujer** (por debajo del reemplazo generacional de 2.1) .  
+- **Feminización**:  
+  - Las mujeres son el **50.65%** de la población, debido a mayor mortalidad masculina por violencia (9 de cada 10 homicidios son hombres) .  
+
+### ⚠️ **4. Implicaciones socioeconómicas**  
+- **Crisis pensional**:  
+  - Solo **25%** de los adultos mayores recibe pensión; para 2050, la carga fiscal aumentará del 22% al **35%** del presupuesto nacional .  
+- **Reducción de fuerza laboral**:  
+  - La población activa caerá del 65% actual al **55%** en 2060, reduciendo el crecimiento del PIB en **0.5-1% anual** .  
+- **Consumo interno**:  
+  - Se proyecta una contracción del **3-4%** en demanda de vivienda, comercio y servicios .  
+
+### 📈 **5. Cambio en la forma piramidal**  
+| Periodo      | Forma predominante | Características                                  |  
+|--------------|--------------------|-------------------------------------------------|  
+| **1960**     | 🔺 Triangular      | Base ancha (47% menores de 15 años)             |  
+| **2025**     | ⬥ Diamante        | Base estrecha (20% jóvenes), centro amplio (70%)|  
+| **2035+**    | ⏹️ Invertida      | Cima más ancha que la base (20% adultos mayores)|  
+*Proyecciones basadas en el Dane .*  
+
+### 🛠️ **6. Medidas urgentes propuestas**  
+- **Reforma pensional**: Extender edad de jubilación y promover ahorro privado .  
+- **Incentivos a la natalidad**: Guarderías subsidiadas (meta: **70%** de cobertura en 5 años) .  
+- **Inversión en tecnología**: Automatización para compensar la reducción laboral .  
+
+### 💎 Conclusión  
+Colombia avanza hacia una pirámide invertida, con un **envejecimiento sin precedentes** y una **caída libre en natalidad**. Esto exigirá reformas estructurales en pensiones, salud y mercado laboral para evitar colapsos fiscales y mantener el crecimiento económico. La ventana de acción se cierra rápidamente: antes de **2035**, el país debe redefinir su contrato social .
