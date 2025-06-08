@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relevo generacional.md",
+                "file": "Fechas importantes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Relevo generacional"
+              "title": "Fechas importantes"
             }
           },
           {
@@ -248,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -322,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relevo generacional.md",
+                "file": "DIAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,7 +332,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Relevo generacional"
+              "title": "Backlinks for DIAN"
             }
           },
           {
@@ -341,12 +341,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relevo generacional.md",
+                "file": "DIAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Relevo generacional"
+              "title": "Outgoing links from DIAN"
             }
           },
           {
@@ -370,13 +370,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relevo generacional.md",
+                "file": "DIAN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Relevo generacional"
+              "title": "Outline of DIAN"
             }
           },
           {
@@ -407,18 +407,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "018a82cbd3a8728a",
+  "active": "dd7b103c94ccbb80",
   "lastOpenFiles": [
-    "TO DO LIST.md",
-    "Relevo generacional.md",
     "Fechas importantes.md",
+    "Adriana Castro.md",
+    "Carro Suzuki.md",
+    "Suleima Gonzalez.md",
+    "Cumpleaños gomelitas.md",
+    "TO DO LIST.md",
+    "Lote las Delicias.md",
+    "Relevo generacional.md",
     "NCSA.md",
     "Solicitud contador bidireccional a Celsia.md",
     "Proyecto techo finca.md",
     "Tarea Alberto.md",
     "DIAN.md",
-    "Lote las Delicias.md",
-    "Cumpleaños gomelitas.md",
     "Imprimir.md",
     "Diagnóstico emocional.md",
     "MIC-HT.md",
@@ -432,11 +435,8 @@
     "Moto Suzuki.md",
     "SOAT 8901087725901.md",
     "Composiciones literarias.md",
-    "Análisis de un informe de gestión de la cooperativa.md",
     "SOATMotoSuzuki2025.png",
     "SOATMotoSuzuki2024.png",
-    "Script viaje largo.md",
-    "Script viaje en carro.md",
     "Pasted image 20241230172155.png",
     "DerechoPeticionFalabella.jpg",
     "MDMPasaporte.png",

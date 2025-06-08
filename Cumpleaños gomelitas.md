@@ -1,11 +1,12 @@
 
 - [ ] Lista de invitados
 - [ ] Definir fecha y horario
-	- [ ] 14:00 - 18:00
-- [ ] Definir sitio
-	- [ ] U.R. Yenni
-	- [ ] Sillas
-	- [ ] Mesas
+	- [x] 14:00 - 18:00
+	- [x] Sábado 14-jun
+- [x] Definir sitio
+	- [x] U.R. Yenni
+	- [x] Sillas
+	- [x] Mesas
 - [ ] Definir tema
 	- [ ] Pocoyó
 	- [ ] Foto booth

@@ -14,7 +14,7 @@ Vencidos
 - [ ] 01-Nov Consignación cuota alimentaria $282.800
 - [ ] 01-Dic Consignación cuota alimentaria $282.800
 ---
-
+* [ ] 10-Feb Rm-Pago TC Falabella 8133011311 
 
 ## Sin fecha
 ---
@@ -24,46 +24,34 @@ Vencidos
 
 ## Actuales
 ---
-* [ ] 19-Ene Rm-Recoger planilla cooperativa / cuentas buseta
-* [ ] 28-Ene Rm-Pago energía
 * [ ] Deudas
-	* [ ] Bancoomeva 
+	* [ ] Bancoomeva ?
 	* [ ] [[Martha Isabel Cadena]] 
 ---
 
-- [ ] 05-Feb Rm-Recoger planilla cooperativa / cuentas buseta
-* [ ] 09-Feb/72 Ry-Cumple [[Inés Escudero]] 
-* [ ] 10-Feb Rm-Firma de recargos nocturnos
-* [ ] 10-Feb Rm-Pago TC Falabella 8133011311 
-* [ ] 15-Feb Rm-Pago Coomeva $200 ($105?)
-- [ ] 15-Feb Rm-Pago celular GAO 10084025741 $30
 - [ ] 16-Feb Copia diploma - Tarjeta profesional
-- [ ] 
-* [ ] 19-Feb/70 Ry-Cumple [[Suleima Gonzalez]] 
-- [ ] 28-Feb-24 Ry-SOAT [[Carro Suzuki]] 
-- [ ] 28-Feb-24 Ry-Cumpleaños [[Adriana]]  
----
+* [ ] 05-Mar Rm-Pago PILA  $354.00
 
-- [ ] 01-Mar Rm-Consignación cuota alimentaria $315.000
-* [ ] 01-Mar Pago factura celular
-* [x] 05-Mar Rm-Pago PILA  $354.00
-- [x] 12-Mar/71 Ry-[[Cumpleaños GAO]] 
-* [x] 17-Mar Ry-Asamblea Cooperativa
-* [ ] Ry-Impuestos buseta
+
+
+- [ ] 01-May Rm-Consignación cuota alimentaria $315.000
 ---
-* [ ] 30-Abr/76 Ry-Cumple [[Claudia Vaca]] 
-- [ ] 02-Abr-25 Ry-Batería [[Moto Suzuki]] 
-* [x] 02-Abr-26 Ry-SOAT [[Moto Suzuki]] 
-- [x] 04-Abr-26 Ry-RTM [[Moto Suzuki]]
----
-* [ ] 18-Jun Ry-Día del padre
-- [ ] 14-Jun Ry-Cumple [[Violeta]] y [[Luna]]
+- [ ] Ry-Impuestos buseta
+- [ ] 05-Jun Rm-Recoger planilla cooperativa / cuentas buseta
+* [ ] 10-Jun Rm-Firma de recargos nocturnos
+* [ ] 14-Jun Ry-Cumple [[Violeta]] y [[Luna]]
+* [ ] 15-Jun Ry-Día del padre
 - [ ] 15-Jun Ry-Inicio vacaciones [[María Del Mar Osorio]]
-- [ ] 08-Ago Ry-Declaración de renta
+- [ ] 15-Jun Rm-Pago celular GAO 10084025741 $?
+- [ ] 15-Jun Rm-Pago Coomeva $200 ($105?)
+* [ ] 19-Jun Rm-Recoger planilla cooperativa / cuentas buseta
+* [ ] 28-Jun Rm-Pago energía
+---
+* [ ] 08-Ago Ry-Declaración de renta
 - [ ] 30-Ago Ry-RTM buseta de c/año $300.000
 - [ ] 31-Ago Ry-SOAT buseta de c/año $1.400.000
 ---
-- [ ] 01-Sep Ry-Recargar extinguidor carro
+- [ ] 01-Sep Ry-Recargar extinguidor carro Suzuki
 * [ ] 09-Sep Ry-Cumple [[Thiago Valencia]] 
 ---
 - [ ] 26-Oct/22 Ry-Células madre MDM  de c/año
@@ -74,6 +62,20 @@ Vencidos
 ---
 * [ ] 21-Dic Ry-Cumple [[Marisol Daza]]
 ---
+---
+* [ ] 09-Feb/72 Ry-Cumple [[Inés Escudero]] 
+* [ ] 19-Feb/70 Ry-Cumple [[Suleima Gonzalez]] 
+- [ ] 28-Feb-24 Ry-SOAT [[Carro Suzuki]] 
+- [ ] 28-Feb-24 Ry-Cumpleaños [[Adriana Castro]]  
+---
+- [ ] 12-Mar/71 Ry-[[Cumpleaños GAO]] 
+* [ ] 12-Mar Ry-Asamblea Cooperativa
+---
+* [ ] 30-Abr/76 Ry-Cumple [[Claudia Vaca]] 
+- [ ] 02-Abr-25 Ry-Batería [[Moto Suzuki]] 
+* [ ] 02-Abr-26 Ry-SOAT [[Moto Suzuki]] 
+- [ ] 04-Abr-26 Ry-RTM [[Moto Suzuki]]
+
 
 - Batería buseta
 - Batería moto negra
