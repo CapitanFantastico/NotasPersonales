@@ -34,6 +34,10 @@
 
 
 ---
+Etiquetas para el agua:
+- Con esta botella participa en las rifas de hoy.  No la pierdas!
+
+---
 
 ¡Excelente enfoque! Aquí tienes una **lista detallada de actividades de preparación que deben realizar los padres** para garantizar el éxito del cumpleaños infantil, organizada por etapas:
 
@@ -207,3 +211,4 @@
 > 5:30 PM - Despedida 🎁*
 
 ¿Necesitas ideas para un tema específico, presupuesto ajustado o adaptaciones para niños pequeños? ¡Avísame para ayudarte más! 🎈
+

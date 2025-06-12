@@ -248,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -322,7 +322,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIAN.md",
+                "file": "Cumpleaños gomelitas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,7 +332,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DIAN"
+              "title": "Backlinks for Cumpleaños gomelitas"
             }
           },
           {
@@ -341,12 +341,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DIAN.md",
+                "file": "Cumpleaños gomelitas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DIAN"
+              "title": "Outgoing links from Cumpleaños gomelitas"
             }
           },
           {
@@ -370,13 +370,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DIAN.md",
+                "file": "Cumpleaños gomelitas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DIAN"
+              "title": "Outline of Cumpleaños gomelitas"
             }
           },
           {
@@ -407,8 +407,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd7b103c94ccbb80",
+  "active": "e7c1f7f47b7d91c0",
   "lastOpenFiles": [
+    "DIAN.md",
     "Fechas importantes.md",
     "Adriana Castro.md",
     "Carro Suzuki.md",
@@ -421,7 +422,6 @@
     "Solicitud contador bidireccional a Celsia.md",
     "Proyecto techo finca.md",
     "Tarea Alberto.md",
-    "DIAN.md",
     "Imprimir.md",
     "Diagnóstico emocional.md",
     "MIC-HT.md",
