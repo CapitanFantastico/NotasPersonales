@@ -9,7 +9,7 @@
  
 ---
 
-- [ ] Lunes 02, 09
+- [ ] Lunes 16, 23
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -23,22 +23,17 @@
 		- [ ] Comprar pan
 	- [ ] ---
 		- [ ] Ahora
-			- [ ] Clases
-				- [ ] IFP - Excel
-				- [ ] GPS50 - Review
-				- [ ] GPS51 - Lectura y Quiz
-			- [ ] Ropa
-			- [ ] Razurada
-			- [ ] Almuerzo mañana
-				- [ ] Ensalada atún
-				- [ ] Arroz
-			- [ ] Huevos
-			- [ ] Cereal
-			- [ ] Pan y torta
-		- [ ] Comprar cuchillas de afeitar
-		- [ ] Pendientes Univalle
+			- [ ] Univalle
+				- [ ] IFP
+					- [ ] No pienso asistir
+					- [ ] Calificar parciales y entregar notas definitivas
+					- [ ] Determinar quién presentará opcional
+					- [ ] Negociar notas
+				- [ ] GPS
+					- [ ] Recibir documentación del proyecto
+					- [ ] Sustentación del proyecto
+					- [ ] Rúbrica
 		- [ ] Cuota MDM mayo
-		- [ ] Visita KJO
 		- [ ] Contador bidireccional Celsia
 		- [ ] Descargar playlist canal argentino de libros
 		- [ ] Toldo impermeable
@@ -103,7 +98,7 @@
 		- [ ] Cuentas buseta
 		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
 
-- [ ] Martes 27, 03, 10 ==Zarzal 06:00 - 22:30== 
+- [ ] Martes 17, 24 ==Zarzal 06:00 - 22:30== 
 	- [ ] 06:00 Salida a Zarzal
 	- [ ] 08:00 - 11:00 ==Clase I1FPZ50== Bolivar 
 	- [ ] 14:00 - 17:00 ==Clase GPSZ50== Balsas sala 3 
@@ -118,7 +113,7 @@
 		- [ ] Apanado
 	- [ ] 20:00 Sacar basura
 
-- [ ] Miércoles 28, 04, 11 ==Yumbo/PAT 16:30 - 22:30== 
+- [ ] Miércoles 18, 25 ==Yumbo/PAT 16:30 - 22:30== 
 	- [ ] Entreno
 	- [ ] Piscina
 	- [ ] 07:30 Llevar a las niñas
@@ -128,7 +123,7 @@
 	- [ ] 16:30 Salida a Yumbo
 	- [ ] 18:30 ==Clase DS2== 
 
-- [ ] Jueves 29, 05, 12 ==Yumbo 05:00 - 14:00== 
+- [ ] Jueves 19, 26 ==Yumbo 05:00 - 14:00== 
 	- [ ] 08:00 ==Clase Bases de Datos== 
 	- [ ] Entreno
 	- [x] Vale Cooperativa $500 y cuentas conductor
@@ -136,7 +131,7 @@
 	- [ ] 15:30 Pasar por las niñas
 	- [ ] 20:00 Sacar basura
 
-- [ ] Viernes 30, 06, 13  ==Zarzal 16:00 - 22:00== 
+- [ ] Viernes 20, 27  ==Zarzal 16:00 - 22:00== 
 	- [ ] Entreno
 	- [ ] Piscina
 	- [ ] 07:30 Llevar a las niñas
@@ -154,7 +149,7 @@
 			- [ ] Fruta
 	- [ ] 18:00 ==Clase Introducción a la programación==
 
-- [ ] Sábado 31, 07, 14
+- [ ] Sábado 21, 28
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [x] Vale Cooperativa $500 y cuentas conductor
@@ -162,7 +157,7 @@
 	- [ ] 17:30 Cobro Gilma 
 	- [ ] 20:00 Sacar basura
 
-- [ ] Domingo 01, 08, 15 - Finca, cosecha, trasteo
+- [ ] Domingo 22, 29 - Finca, cosecha, trasteo
 	- [ ] Entreno
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] Piscina - Rio
