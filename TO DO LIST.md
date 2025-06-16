@@ -24,11 +24,7 @@
 	- [ ] ---
 		- [ ] Ahora
 			- [ ] Univalle
-				- [ ] IFP
-					- [ ] No pienso asistir
-					- [ ] Calificar parciales y entregar notas definitivas
-					- [ ] Determinar quién presentará opcional
-					- [ ] Negociar notas
+				- [x] IFP
 				- [ ] GPS
 					- [ ] Recibir documentación del proyecto
 					- [ ] Sustentación del proyecto
