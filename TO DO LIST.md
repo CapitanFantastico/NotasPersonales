@@ -79,11 +79,15 @@
 		- [ ] Plan receso
 			- [ ] Preparar y reorganizar clases
 			- [ ] Estudiar Python avanzado con frameworks desarrollo web
+			- [ ] Desarrollo software
 			- [ ] Estudiar cursos nuevos
 			- [ ] Estudiar IA
 			- [ ] Estudio formal
 			- [ ] Entrenar
-			- [ ] Bodega finca
+			- [ ] Bodega finca, trasteo
+			- [ ] Bodega casa
+			- [ ] Cobros y venta de deudas
+			- [ ] Arreglar moto
 		- [ ] Cuota MDM mayo
 		- [ ] Contador bidireccional Celsia
 		- [ ] Descargar playlist canal argentino de libros
