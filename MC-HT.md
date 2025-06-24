@@ -1,4 +1,17 @@
 
+Búsquedas:
+- hombres
+- cama
+- sexo
+- gus
+- henry
+- emoticons
+- extraño
+- verte
+
+
+
+
 30/09/20, 10:39 a. m. - Los mensajes y las llamadas están cifrados de extremo a extremo. Solo las personas en este chat pueden leerlos, escucharlos o compartirlos. Obtén más información.
 6/09/21, 2:08 p. m. - Martha Isabel Cadena: ‎IMG-20210906-WA0010.jpg (archivo adjunto)
 así de confidencial debe ser la cosa *******

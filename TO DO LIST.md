@@ -13,6 +13,7 @@
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
 	- [ ] 19:00 Pasar por las niñas
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 12:00 Almuerzo
@@ -21,6 +22,7 @@
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
 	- [ ] 19:00 Pasar por las niñas
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [x] Faena donde Ana Milena     
@@ -30,56 +32,26 @@
 		- [ ] Barril
 		- [ ] Apanado
 	- [ ] 20:00 Sacar basura
-
-- [ ] Miércoles 25, 02 
-	- [ ] Entreno
-	- [ ] Piscina
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [x] Mercado, miércoles de plaza
-
-- [ ] Jueves 26, 03 
-	- [ ] Entreno
-	- [ ] Piscina
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] 20:00 Sacar basura
-
-- [ ] Viernes 27, 04  
-	- [ ] Entreno
-	- [ ] Piscina
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] 20:00 Sacar basura
-
-- [ ] Sábado 28, 05
-	- [ ] Entreno
-	- [ ] Piscina
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] 20:00 Sacar basura
-	- [ ] 14:00 Piscina Comfenalco clases de natación gomelitas
-	- [ ] 17:30 Cobro Gilma 
-	- [ ] 20:00 Sacar basura
-
-- [ ] Domingo 22, 29, 06 - Finca, cosecha, trasteo
-	- [ ] Entreno
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] Piscina - Rio
-	- [ ] Finca
 	- [ ] ---
-		- [ ] Plan receso
+		- [ ] Hoy
+			- [ ] Almuerzo
+			- [ ] Organizar cuarto
+			- [ ] Planeación finca
+				- [ ] Cronograma
+			- [ ] Viajes Cali
+				- [ ] Cofina
+		- [ ] Plan vacaciones de la U
+			- [ ] Cronograma diario
+				- [ ] Python 60 min
+				- [ ] Entreno 120 min
+				- [ ] Finanzas 60 min
+				- [ ] Lecturas y videos de la U 60 min
+				- [ ] Especialización 120 min
+				- [ ] Convocatoria SENA 60 min
 			- [ ] Preparar y reorganizar clases
 			- [ ] Estudiar Python avanzado con frameworks desarrollo web
 			- [ ] Desarrollo software
+			- [ ] Cisco para composta
 			- [ ] Estudiar cursos nuevos
 			- [ ] Estudiar IA
 			- [ ] Estudio formal
@@ -152,6 +124,54 @@
 		- [ ] Cuentas préstamos
 		- [ ] Cuentas buseta
 		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
+
+- [ ] Miércoles 25, 02 
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [x] Mercado, miércoles de plaza
+
+- [ ] Jueves 26, 03 
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 20:00 Sacar basura
+
+- [ ] Viernes 27, 04  
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 20:00 Sacar basura
+
+- [ ] Sábado 28, 05
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 20:00 Sacar basura
+	- [ ] 14:00 Piscina Comfenalco clases de natación gomelitas
+	- [ ] 17:30 Cobro Gilma 
+	- [ ] 20:00 Sacar basura
+
+- [ ] Domingo 29, 06 - Finca, cosecha, trasteo
+	- [ ] Entreno
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] Piscina - Rio
+	- [ ] Finca
 
 
 ---

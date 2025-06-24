@@ -80,30 +80,6 @@
             }
           },
           {
-            "id": "bc2979ddb2912fb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NCSA.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NCSA"
-            }
-          },
-          {
             "id": "95ab2eb40dc56f3e",
             "type": "leaf",
             "state": {
@@ -152,54 +128,6 @@
             }
           },
           {
-            "id": "b98ac73c323f7658",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tarea Alberto.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tarea Alberto"
-            }
-          },
-          {
-            "id": "dd7b103c94ccbb80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DIAN.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DIAN"
-            }
-          },
-          {
             "id": "ae7b94470cf031fa",
             "type": "leaf",
             "state": {
@@ -224,12 +152,12 @@
             }
           },
           {
-            "id": "e7c1f7f47b7d91c0",
+            "id": "647d2cf2fb9d9cf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cumpleaños gomelitas.md",
+                "file": "MC-HT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cumpleaños gomelitas"
+              "title": "MC-HT"
             }
           }
         ],
@@ -409,22 +337,22 @@
   },
   "active": "b829c7410e0985d1",
   "lastOpenFiles": [
+    "Lote las Delicias.md",
+    "MC-HT.md",
+    "Proyecto techo finca.md",
+    "Tarea Alberto.md",
+    "TO DO LIST.md",
     "Cumpleaños gomelitas.md",
     "DIAN.md",
     "Fechas importantes.md",
     "Adriana Castro.md",
     "Carro Suzuki.md",
     "Suleima Gonzalez.md",
-    "TO DO LIST.md",
-    "Lote las Delicias.md",
     "Relevo generacional.md",
     "NCSA.md",
     "Solicitud contador bidireccional a Celsia.md",
-    "Proyecto techo finca.md",
-    "Tarea Alberto.md",
     "Imprimir.md",
     "Diagnóstico emocional.md",
-    "MIC-HT.md",
     "SX Threesomelike.md",
     "Visa USA.md",
     "Itinerario Bogotá semana santa 2025.md",
