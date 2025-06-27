@@ -9,7 +9,7 @@
  
 ---
 
-- [ ] Lunes 23, 30
+- [ ] Lunes 30, 07
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -18,7 +18,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 12:00 Almuerzo
 
-- [ ] Martes 24, 01 
+- [ ] Martes 01, 08 
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -32,9 +32,29 @@
 		- [ ] Barril
 		- [ ] Apanado
 	- [ ] 20:00 Sacar basura
+
+- [ ] Miércoles 25, 02 
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [x] Mercado, miércoles de plaza
 	- [ ] ---
 		- [ ] Hoy
+			- [ ] Sx
 			- [ ] Almuerzo
+			- [ ] Finca
+				- [ ] Llevar abejas
+					- [ ] Comprar cajón
+			- [x] Lavar ropa
+			- [ ] Pagos
+				- [ ] Energía
+				- [ ] Internet
+			- [ ] Cobros
+			- [ ] Buseta
 			- [ ] Organizar cuarto
 			- [ ] Planeación finca
 				- [ ] Cronograma
@@ -124,16 +144,6 @@
 		- [ ] Cuentas préstamos
 		- [ ] Cuentas buseta
 		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
-
-- [ ] Miércoles 25, 02 
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [x] Mercado, miércoles de plaza
 
 - [ ] Jueves 26, 03 
 	- [ ] Piscina
