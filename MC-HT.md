@@ -1339,3 +1339,12 @@ Datos adicionales:
 - MIC viajó a Bogotá a capacitación del SENA 
 - 19-Sep-2021 Bogotá-Cundinamarca
 - 25-Sep-2021 Mosquera-Cundinamarca
+
+
+
+### TRUCO extra para usuarios avanzados (solo Android con respaldo local)
+
+Si tienes el respaldo del chat en tu teléfono:
+
+- Puedes leer el archivo `.crypt14` con herramientas forenses (como WhatsApp Viewer), pero esto requiere conocimientos técnicos y no es oficial ni recomendado por privacidad.
+- 

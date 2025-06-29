@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -336,13 +336,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b829c7410e0985d1",
+  "active": "647d2cf2fb9d9cf7",
   "lastOpenFiles": [
+    "TO DO LIST.md",
     "Lote las Delicias.md",
     "MC-HT.md",
     "Proyecto techo finca.md",
     "Tarea Alberto.md",
-    "TO DO LIST.md",
     "Cumpleaños gomelitas.md",
     "DIAN.md",
     "Fechas importantes.md",
