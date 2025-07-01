@@ -9,7 +9,7 @@
  
 ---
 
-- [ ] Lunes 30, 07
+- [ ] Lunes 07, 14
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -32,34 +32,21 @@
 		- [ ] Barril
 		- [ ] Apanado
 	- [ ] 20:00 Sacar basura
-
-- [ ] Miércoles 25, 02 
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [x] Mercado, miércoles de plaza
 	- [ ] ---
 		- [ ] Hoy
 			- [ ] Sx
 			- [ ] Almuerzo
-			- [ ] Finca
-				- [ ] Llevar abejas
-					- [ ] Comprar cajón
-			- [x] Lavar ropa
+			- [ ] Cuotas MDM Mayo, Junio
+			- [ ] Afiliación SOS
 			- [ ] Pagos
-				- [ ] Energía
 				- [ ] Internet
 			- [ ] Cobros
 			- [ ] Buseta
 			- [ ] Organizar cuarto
+			- [ ] Luz cuarto niñas
 			- [ ] Planeación finca
 				- [ ] Cronograma
-			- [ ] Viajes Cali
-				- [ ] Cofina
+				- [ ] Diseño
 		- [ ] Plan vacaciones de la U
 			- [ ] Cronograma diario
 				- [ ] Python 60 min
@@ -80,10 +67,10 @@
 			- [ ] Bodega casa
 			- [ ] Cobros y venta de deudas
 			- [ ] Arreglar moto
-		- [ ] Cuota MDM mayo
 		- [ ] Contador bidireccional Celsia
 		- [ ] Descargar playlist canal argentino de libros
 		- [ ] Toldo impermeable
+		- [ ] Toldo carro, sillas
 		- [ ] Impermeabilizar traje
 		- [ ] Mercado campesino
 			- [ ] Aceite naranja
@@ -101,14 +88,14 @@
 				- [ ] Cadena
 				- [ ] Naranjas
 				- [ ] Cocina finca
-			- [ ] Perforar platina
+			- [x] Perforar platina
 		- [ ] Cobros y cuentas
 		- [ ] Finca
 			- [ ] Poda
 			- [ ] Cosecha de naranjas
 			- [ ] Fumigar
 			- [ ] Bodega nueva
-				- [ ] Perforar platina
+				- [x] Perforar platina
 				- [ ] Hacer castillos
 				- [ ] Nivelar tierra
 				- [ ] Lijar tubos y pintar (lijadora, varsol)
@@ -130,7 +117,7 @@
 				- [ ] Viga para bancas de madera
 				- [ ] Cobijas?
 				- [ ] Mesón acero Gissela
-		- [ ] COPINA?
+		- [ ] COPINA
 		- [ ] ==Convocatoria SENA==
 			- [ ] Revisar videos
 			- [ ] Ver ofertas
@@ -144,6 +131,16 @@
 		- [ ] Cuentas préstamos
 		- [ ] Cuentas buseta
 		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
+
+- [ ] Miércoles 02, 09 
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [x] Mercado, miércoles de plaza
 
 - [ ] Jueves 26, 03 
 	- [ ] Piscina

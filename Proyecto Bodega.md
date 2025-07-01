@@ -31,7 +31,7 @@
 			- [ ] Comprar varilla roscada inoxidable 7/16, 3/8 (total 6)
 			- [ ] Armar castillos
 			- [ ] Comprar cemento
-		- [ ] Desisntalar columnas Alfredo - Juancho
+		- [ ] Desinstalar columnas Alfredo - Juancho
 		- [ ] Transportar material
 	- [ ] Finca
 		- [ ] Instalar castillos y bases

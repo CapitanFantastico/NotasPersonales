@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO LIST.md",
+                "file": "Proyecto techo finca.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TO DO LIST"
+              "title": "Proyecto techo finca"
             }
           },
           {
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -336,11 +336,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "647d2cf2fb9d9cf7",
+  "active": "b829c7410e0985d1",
   "lastOpenFiles": [
+    "Proyecto Bodega.md",
     "TO DO LIST.md",
-    "Lote las Delicias.md",
     "MC-HT.md",
+    "Lote las Delicias.md",
     "Proyecto techo finca.md",
     "Tarea Alberto.md",
     "Cumpleaños gomelitas.md",
@@ -363,7 +364,6 @@
     "Barril peruano.md",
     "Moto Suzuki.md",
     "SOAT 8901087725901.md",
-    "Composiciones literarias.md",
     "SOATMotoSuzuki2025.png",
     "SOATMotoSuzuki2024.png",
     "Pasted image 20241230172155.png",
