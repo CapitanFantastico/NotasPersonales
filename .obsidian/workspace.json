@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyecto techo finca.md",
+                "file": "TO DO LIST.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Proyecto techo finca"
+              "title": "TO DO LIST"
             }
           },
           {
@@ -339,10 +339,10 @@
   "active": "b829c7410e0985d1",
   "lastOpenFiles": [
     "Proyecto Bodega.md",
+    "Proyecto techo finca.md",
     "TO DO LIST.md",
     "MC-HT.md",
     "Lote las Delicias.md",
-    "Proyecto techo finca.md",
     "Tarea Alberto.md",
     "Cumpleaños gomelitas.md",
     "DIAN.md",

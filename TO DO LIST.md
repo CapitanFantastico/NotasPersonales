@@ -45,8 +45,18 @@
 			- [ ] Organizar cuarto
 			- [ ] Luz cuarto niñas
 			- [ ] Planeación finca
-				- [ ] Cronograma
 				- [ ] Diseño
+				- [ ] Cronograma
+					- [ ] Viga
+						- [ ] Conseguir viga
+						- [ ] Cortar viga
+						- [ ] Traer viga
+						- [ ] Adecuar viga
+						- [ ] Llevar viga a la finca
+						- [ ] Instalar viga / columnas (una en cada lado largo, total 2x2.5m)
+					- [ ] Materiales para trabajo definitivo techo
+						- [ ] Revisar cotización, agregarle tejas de mier
+						- [ ] Averiguar superboard grabado madera
 		- [ ] Plan vacaciones de la U
 			- [ ] Cronograma diario
 				- [ ] Python 60 min
