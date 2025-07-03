@@ -34,29 +34,39 @@
 	- [ ] 20:00 Sacar basura
 	- [ ] ---
 		- [ ] Hoy
-			- [ ] Sx
+			- [ ] Entrenar
+			- [ ] Miel
+			- [ ] Organizar cobros
 			- [ ] Almuerzo
-			- [ ] Cuotas MDM Mayo, Junio
+			- [ ] Retiro de dinero
+			- [ ] Franklin
+				- [ ] Moto
+			- [ ] Luz gradas (escalera, cuerdas, arnés)
+			- [ ] Documentos Yaneth Univalle
+				- [ ] Ingresos buseta
+			- [ ] Declaración de renta
+			- [ ] Sx
+			- [ ] Siesta
 			- [ ] Afiliación SOS
 			- [ ] Pagos
 				- [ ] Internet
 			- [ ] Cobros
 			- [ ] Buseta
 			- [ ] Organizar cuarto
-			- [ ] Luz cuarto niñas
 			- [ ] Planeación finca
 				- [ ] Diseño
 				- [ ] Cronograma
 					- [ ] Viga
-						- [ ] Conseguir viga
-						- [ ] Cortar viga
-						- [ ] Traer viga
+						- [x] Conseguir viga
+						- [x] Cortar viga
+						- [x] Traer viga
 						- [ ] Adecuar viga
 						- [ ] Llevar viga a la finca
 						- [ ] Instalar viga / columnas (una en cada lado largo, total 2x2.5m)
 					- [ ] Materiales para trabajo definitivo techo
 						- [ ] Revisar cotización, agregarle tejas de mier
 						- [ ] Averiguar superboard grabado madera
+						- [ ] Actualizar dirección antes de comprar
 		- [ ] Plan vacaciones de la U
 			- [ ] Cronograma diario
 				- [ ] Python 60 min

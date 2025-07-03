@@ -150,30 +150,6 @@
               "icon": "lucide-file",
               "title": "Lote las Delicias"
             }
-          },
-          {
-            "id": "647d2cf2fb9d9cf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MC-HT.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MC-HT"
-            }
           }
         ],
         "currentTab": 1
@@ -338,9 +314,9 @@
   },
   "active": "b829c7410e0985d1",
   "lastOpenFiles": [
+    "TO DO LIST.md",
     "Proyecto Bodega.md",
     "Proyecto techo finca.md",
-    "TO DO LIST.md",
     "MC-HT.md",
     "Lote las Delicias.md",
     "Tarea Alberto.md",
