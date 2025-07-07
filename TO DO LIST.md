@@ -34,14 +34,19 @@
 	- [ ] 20:00 Sacar basura
 	- [ ] ---
 		- [ ] Hoy
+			- [ ] Convocatoria SENA
+			- [ ] Mensaje a MDM
+			- [x] Almuerzo
+			- [x] Retiro de dinero
+			- [ ] Franklin
+				- [ ] Moto
+			- [ ] Preparar cursos
+				- [ ] UML
+				- [ ] Pruebas de software
 			- [ ] Entrenar
 			- [ ] Miel
 			- [ ] Organizar cobros
-			- [ ] Almuerzo
-			- [ ] Retiro de dinero
-			- [ ] Franklin
-				- [ ] Moto
-			- [ ] Luz gradas (escalera, cuerdas, arnés)
+			- [ ] Conseguir PC
 			- [ ] Documentos Yaneth Univalle
 				- [ ] Ingresos buseta
 			- [ ] Declaración de renta
