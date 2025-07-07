@@ -20,8 +20,6 @@ Vencidos
 ---
 - [ ] Odontología 
 ---
-
-
 ## Actuales
 ---
 * [ ] Deudas
@@ -30,23 +28,18 @@ Vencidos
 ---
 
 - [ ] 16-Feb Copia diploma - Tarjeta profesional
-* [ ] 05-Mar Rm-Pago PILA  $354.00
-
-
-
-- [ ] 01-May Rm-Consignación cuota alimentaria $315.000
 ---
+- [ ] 01-Jul Rm-Consignación cuota alimentaria $315.000
 - [ ] Ry-Impuestos buseta
-- [ ] 05-Jun Rm-Recoger planilla cooperativa / cuentas buseta
-* [ ] 10-Jun Rm-Firma de recargos nocturnos
-* [ ] 14-Jun Ry-Cumple [[Violeta]] y [[Luna]]
-* [ ] 15-Jun Ry-Día del padre
-- [ ] 15-Jun Ry-Inicio vacaciones [[María Del Mar Osorio]]
-- [ ] 15-Jun Rm-Pago celular GAO 10084025741 $?
-- [ ] 15-Jun Rm-Pago Coomeva $200 ($105?)
-* [ ] 19-Jun Rm-Recoger planilla cooperativa / cuentas buseta
-* [ ] 28-Jun Rm-Pago energía
+* [ ] 10-Jul Rm-Firma de recargos nocturnos
+- [ ] 05-Jul Rm-Recoger planilla cooperativa / cuentas buseta
+- [ ] 05-Jul Rm-Pago internet
+- [ ] 15-Jul Rm-Pago celular GAO 10084025741 $?
+- [ ] 15-Jul Rm-Pago Coomeva $200 ($105?)
+* [ ] 19-Jul Rm-Recoger planilla cooperativa / cuentas buseta
+* [ ] 28-Jul Rm-Pago energía
 ---
+* [ ] 05-Ago Rm-Pago PILA  $354.00
 * [ ] 08-Ago Ry-Declaración de renta
 - [ ] 30-Ago Ry-RTM buseta de c/año $300.000
 - [ ] 31-Ago Ry-SOAT buseta de c/año $1.400.000
@@ -75,6 +68,10 @@ Vencidos
 - [ ] 02-Abr-25 Ry-Batería [[Moto Suzuki]] 
 * [ ] 02-Abr-26 Ry-SOAT [[Moto Suzuki]] 
 - [ ] 04-Abr-26 Ry-RTM [[Moto Suzuki]]
+---
+* [ ] 14-Jun Ry-Cumple [[Violeta]] y [[Luna]]
+* [ ] 15-Jun Ry-Día del padre
+- [ ] 15-Jun Ry-Inicio vacaciones [[María Del Mar Osorio]]
 
 
 - Batería buseta

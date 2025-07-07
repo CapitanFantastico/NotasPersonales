@@ -34,12 +34,16 @@
 	- [ ] 20:00 Sacar basura
 	- [ ] ---
 		- [ ] Hoy
+			- [ ] Seguro Salomé
 			- [ ] Convocatoria SENA
-			- [ ] Mensaje a MDM
+			- [ ] Declaración de renta
+			- [ ] Planillas Cooperativa
+			- [ ] Empacar miel
+			- [ ] Empacar naranjas
 			- [x] Almuerzo
 			- [x] Retiro de dinero
 			- [ ] Franklin
-				- [ ] Moto
+				- [ ] Moto fuga aceite
 			- [ ] Preparar cursos
 				- [ ] UML
 				- [ ] Pruebas de software
