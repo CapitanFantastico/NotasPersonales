@@ -32,54 +32,6 @@
             }
           },
           {
-            "id": "95ab2eb40dc56f3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solicitud contador bidireccional a Celsia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Solicitud contador bidireccional a Celsia"
-            }
-          },
-          {
-            "id": "ae7b94470cf031fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lote las Delicias.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lote las Delicias"
-            }
-          },
-          {
             "id": "e11e680b3b3d1463",
             "type": "leaf",
             "state": {
@@ -126,8 +78,33 @@
               "icon": "lucide-file",
               "title": "Proyecto techo finca"
             }
+          },
+          {
+            "id": "413b3c6762382544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyecto Bodega.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Proyecto Bodega"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -287,16 +264,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f90c91af70561cf4",
+  "active": "904136bf2b2f1af8",
   "lastOpenFiles": [
     "TO DO LIST.md",
+    "Proyecto techo finca.md",
+    "Proyecto Bodega.md",
     "Fechas importantes.md",
     "Imprimir.md",
-    "Proyecto techo finca.md",
     "Lote las Delicias.md",
     "Carta a MDM bautizo cristiano.md",
     "Carta a MDM 20240619 Campamento.md",
-    "Proyecto Bodega.md",
     "MC-HT.md",
     "Tarea Alberto.md",
     "Cumpleaños gomelitas.md",

@@ -18,7 +18,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 12:00 Almuerzo
 
-- [ ] Martes 01, 08 
+- [ ] Martes 08, 15 
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -34,21 +34,25 @@
 	- [ ] 20:00 Sacar basura
 	- [ ] ---
 		- [ ] Hoy
-			- [ ] Seguro Salomé
-			- [ ] Convocatoria SENA
-			- [ ] Declaración de renta
-			- [ ] Planillas Cooperativa
-			- [ ] Empacar miel
-			- [ ] Empacar naranjas
-			- [x] Almuerzo
-			- [x] Retiro de dinero
-			- [ ] Franklin
-				- [ ] Moto fuga aceite
+			- [ ] [[Proyecto techo finca]] 
+			- [ ] Convocatoria SENA 
+				- [ ] Certificados recientes?
 			- [ ] Preparar cursos
 				- [ ] UML
 				- [ ] Pruebas de software
+				- [ ] Microprocesadores
+			- [ ] Comprar malla naranjas
+			- [ ] Comprar dólares
+			- [ ] Planillas Cooperativa
+			- [ ] Documento declaración de renta
+			- [ ] Almuerzo
+			- [ ] Pago Seguro Salomé
+				- [ ] Pasar por la plata
+			- [ ] Empacar miel
+			- [ ] Empacar naranjas
+			- [ ] Franklin
+				- [ ] Moto fuga aceite
 			- [ ] Entrenar
-			- [ ] Miel
 			- [ ] Organizar cobros
 			- [ ] Conseguir PC
 			- [ ] Documentos Yaneth Univalle
@@ -62,20 +66,6 @@
 			- [ ] Cobros
 			- [ ] Buseta
 			- [ ] Organizar cuarto
-			- [ ] Planeación finca
-				- [ ] Diseño
-				- [ ] Cronograma
-					- [ ] Viga
-						- [x] Conseguir viga
-						- [x] Cortar viga
-						- [x] Traer viga
-						- [ ] Adecuar viga
-						- [ ] Llevar viga a la finca
-						- [ ] Instalar viga / columnas (una en cada lado largo, total 2x2.5m)
-					- [ ] Materiales para trabajo definitivo techo
-						- [ ] Revisar cotización, agregarle tejas de mier
-						- [ ] Averiguar superboard grabado madera
-						- [ ] Actualizar dirección antes de comprar
 		- [ ] Plan vacaciones de la U
 			- [ ] Cronograma diario
 				- [ ] Python 60 min
@@ -132,24 +122,11 @@
 			- [ ] Acolilladora?
 			- [ ] Energía finca
 				- [ ] Pendiente visita con el eléctrico a las Delicias
-		- [ ] Programa el viaje en la camioneta (sábado/domingo)
-			- [ ] Concretar carro
-			- [ ] Concretar a Fabiola
-			- [ ] Concretar a Juancho
-			- [ ] Carga
-				- [ ] Nevera
-				- [ ] Lavadora
-				- [ ] 8 tejas de 3 metros
-				- [ ] 40 flejes de 3 metros
-				- [ ] Tubos de 1x1
-				- [ ] 1 baúl 
-				- [ ] Viga para bancas de madera
-				- [ ] Cobijas?
-				- [ ] Mesón acero Gissela
-		- [ ] COPINA
 		- [ ] ==Convocatoria SENA==
+			- [ ] Solicitar certificados
 			- [ ] Revisar videos
-			- [ ] Ver ofertas
+			- [ ] Marcar ofertas
+			- [ ] Prepararme
 		- [ ] Respaldar notas y documentos
 		- [ ] Ordenar cuarto
 		- [ ] Extensión 220V
@@ -161,7 +138,7 @@
 		- [ ] Cuentas buseta
 		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
 
-- [ ] Miércoles 02, 09 
+- [ ] Miércoles 09, 16 
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -171,7 +148,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [x] Mercado, miércoles de plaza
 
-- [ ] Jueves 26, 03 
+- [ ] Jueves 10, 17 
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -181,7 +158,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 20:00 Sacar basura
 
-- [ ] Viernes 27, 04  
+- [ ] Viernes 11, 18
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -191,7 +168,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 20:00 Sacar basura
 
-- [ ] Sábado 28, 05
+- [ ] Sábado 12, 19
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -203,7 +180,7 @@
 	- [ ] 17:30 Cobro Gilma 
 	- [ ] 20:00 Sacar basura
 
-- [ ] Domingo 29, 06 - Finca, cosecha, trasteo
+- [ ] Domingo 13, 20 - Finca, cosecha, trasteo
 	- [ ] Entreno
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] Piscina - Rio

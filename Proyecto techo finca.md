@@ -1,48 +1,40 @@
 
-- [ ] Programar a Iván y su ayudante
-	- [ ] Requerimientos
-		- [x] Soldador
-		- [x] Energía
-		- [ ] Ajustar casa
-			- [ ] Nivelar bases
-			- [ ] Acondicionar columnas
-				- [ ] Sierra de mano
-				- [ ] Pulidora
-				- [ ] Energía
-				- [ ] Varilla roscada
-				- [ ] Tuercas y arandelas
-			- [ ] Poner ángulos
-				- [ ] Angulos de madera
-				- [ ] Taladro
-				- [ ] Pulidora
-				- [ ] Varilla roscada
-				- [ ] Tuercas y arandelas
-		- [ ] Pintar material
-			- [ ] Llevar material (miércoles)
-				- [ ] Comprar material
-					- [ ] TUBO EST.CUAD 70X70X2mmX6mst 20101 UNI 3 $147,364 $48,296 $61,410 $384,620
-					- [ ] TUBO RECTAN 3X1.1/2 1.1mm C-18 (11.7K) 20101 UNI 14 $61,171 $93,556 $118,960 $745,063
-					- [ ] CORR NEGRO GLN 20101 GLN 1 $65,174 $6,572 $9,157 $57,353
-					- [ ] CORR NEGRO CRT 20101 CRT 2 $18,002 $3,631 $5,059 $31,684
-					- [ ] DISOLV - THINER 405 COMUN GLN C/ENVASE 20101 GLN 1 $33,000 $2,773 $4,742 $29,700
-					- [ ] Brocha, espuma, trapo
-					- [ ] MASILLA POLIES ROSADA 1/8 (24) 20102 OCT 1 $16,647 $1,679 $2,339 $14,649
-					- [ ] REMACHE POP 4-6 (1/8 X 1/2) (0.5) 20102 UNI 100 $38 $415 $528 $3,306
-					- [ ] SOLDADURA ELEC. 6011-1/8 HO FERR 20102 KG 4 $16,103 $6,495 $9,050 $56,683
-					- [ ] Varilla roscada 3/8 x4
-					- [ ] 40 tuercas
-					- [ ] 60 arandela
-					- [ ] Tejas LAMINA TRAP ICO ROJO1.1X6MTC30(17.6) 20106 UNI 8 $129,956 $104,838 $146,075 $914,889 - Iván Calibre 28
-					- [ ] Canales galvanizado x2
-					- [ ] Tapas x2
-					- [ ] Union de PVC 3'' 
-					- [ ] 15 discos de corte de 4.5 pulgadas
-				- [ ] Llevar cosas GAO
-					- [ ] Perforar platinas
-					- [ ] Comprar tubos 
-					- [ ] Soldar
-Andamios
-Energía con el profesor del SENA
+- [ ] Concretar camión - 8:00 Donde Juancho, con Franklin
+- [x] Comprar material techo $3'000 - dirección Juancho - recoger el miércoles
+	- [ ] Actualizar dirección Juancho:
+	- [ ] TUBO EST.CUAD 70X70X2mmX6mst 20101 UNI 3 $147,364 $48,296 $61,410 $384,620
+	- [ ] TUBO RECTAN 3X1.1/2 1.1mm C-18 (11.7K) 20101 UNI 14 $61,171 $93,556 $118,960 $745,063
+	- [ ] CORR NEGRO GLN 20101 GLN 1 $65,174 $6,572 $9,157 $57,353
+	- [ ] CORR NEGRO CRT 20101 CRT 2 $18,002 $3,631 $5,059 $31,684
+	- [ ] DISOLV - THINER 405 COMUN GLN C/ENVASE 20101 GLN 1 $33,000 $2,773 $4,742 $29,700
+	- [ ] Brocha, espuma, trapo
+	- [ ] MASILLA POLIES ROSADA 1/8 (24) 20102 OCT 1 $16,647 $1,679 $2,339 $14,649
+	- [ ] REMACHE POP 4-6 (1/8 X 1/2) (0.5) 20102 UNI 100 $38 $415 $528 $3,306
+	- [ ] SOLDADURA ELEC. 6011-1/8 HO FERR 20102 KG 4 $16,103 $6,495 $9,050 $56,683
+	- [ ] Varilla roscada 3/8 x4
+	- [ ] 40 tuercas
+	- [ ] 60 arandela
+	- [ ] Tejas LAMINA TRAP ICO ROJO1.1X6MTC30(17.6) 20106 UNI 8 $129,956 $104,838 $146,075 $914,889 - Iván Calibre 28 +2 
+	- [ ] Canales galvanizado x2
+	- [ ] Tapas x2
+	- [ ] Union de PVC 3'' 
+	- [ ] 15 discos de corte de 4.5 pulgadas
+	- [ ] Superboard y perfiles de aluminio  x14
+	- [ ] Cemento
+- [ ] Llevar lavadora, nevera, bicicleta, closet 3:30 Fabiola
+- [ ] Llevar bloque de madera
+- [ ] Carga
+	- [ ] Nevera
+	- [ ] Lavadora
+	- [ ] 8 tejas de 3 metros
+	- [ ] 40 flejes de 3 metros
+	- [ ] Tubos de 1x1
+	- [ ] 1 baúl 
+	- [ ] Viga para bancas de madera
+	- [ ] Cobijas?
+
+
+
 
 Sobre 6 bases de cemento de 40 cm de altura ubicadas en dos líneas, que se distancian 3m, de 3 bases cada una, reposan dos vigas de chanú, de 7.5 m, y sobre esas vigas reposan otras 10 vigas de chanú atravesadas.  sobre esta estructura, reposando sobre cada una de las 4 bases exteriores de cemento y atornilladas a las vigas atravesadas, se levantan cuatro columnas también de chanú, de 10 cm x 10 cm.  Finalmente, sobre las columnas, reposan dos vigas a lo largo y 7 vigas atravesadas, culminando con un tablado de madera.
 Quiero saber qué resistencia aproximada puede tener dicha estructura, si quiero construir el el tablado superior una habitación de 5 m x 3 m, con columnas metálicas de 1.5 pulgadas x 3 pulgadas soportando un techo de lámina de zinc de una dimensión total de 9 m x 6 m ?
