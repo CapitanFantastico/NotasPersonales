@@ -102,9 +102,33 @@
               "icon": "lucide-file",
               "title": "Proyecto Bodega"
             }
+          },
+          {
+            "id": "b32f9dbf1a2a3741",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planeación.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Planeación"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,11 +288,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "904136bf2b2f1af8",
+  "active": "e11e680b3b3d1463",
   "lastOpenFiles": [
-    "TO DO LIST.md",
     "Proyecto techo finca.md",
     "Proyecto Bodega.md",
+    "Planeación.md",
+    "Planeación económica.md",
+    "Planeación emocional.md",
+    "TO DO LIST.md",
     "Fechas importantes.md",
     "Imprimir.md",
     "Lote las Delicias.md",
@@ -289,9 +316,6 @@
     "Visa USA.md",
     "Itinerario Bogotá semana santa 2025.md",
     "Script viaje a Zarzal.md",
-    "Script viaje en moto.md",
-    "Script trabajo.md",
-    "Barril peruano.md",
     "SOATMotoSuzuki2025.png",
     "SOATMotoSuzuki2024.png",
     "Pasted image 20241230172155.png",
