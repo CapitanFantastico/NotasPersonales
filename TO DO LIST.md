@@ -76,22 +76,8 @@
 	- [ ] 20:00 Sacar basura
 	- [ ] ---
 		- [ ] Hoy
-			- [ ] Finca - pintar perfiles, bodega propia
-			- [ ] Convocatoria SENA 
-				- [ ] Certificados recientes?
-			- [ ] Preparar cursos
-				- [ ] UML
-				- [ ] Pruebas de software
-				- [ ] Microprocesadores
-			- [ ] Comprar malla naranjas
-			- [ ] Comprar dólares
-			- [ ] Planillas Cooperativa
-			- [ ] Documento declaración de renta
 			- [ ] Almuerzo
-			- [ ] Pago Seguro Salomé
-				- [ ] Pasar por la plata
 			- [ ] Empacar miel
-			- [ ] Empacar naranjas
 			- [ ] Franklin
 				- [ ] Moto fuga aceite
 			- [ ] Entrenar
@@ -99,7 +85,19 @@
 			- [ ] Conseguir PC
 			- [ ] Documentos Yaneth Univalle
 				- [ ] Ingresos buseta
-			- [ ] Declaración de renta
+			- [ ] Finca - pintar perfiles, bodega propia
+			- [ ] Preparar cursos
+				- [ ] UML
+				- [ ] Pruebas de software
+				- [ ] Microprocesadores
+			- [ ] Convocatoria SENA 
+				- [ ] Certificados recientes?
+			- [ ] Invertir en dólares
+				- [ ] Portátil
+				- [ ] Placas kit
+				- [ ] Ropa Cali
+			- [ ] Planillas Cooperativa
+			- [ ] Documento declaración de renta
 			- [ ] Sx
 			- [ ] Siesta
 			- [ ] Afiliación SOS
