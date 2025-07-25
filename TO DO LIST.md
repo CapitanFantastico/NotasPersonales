@@ -9,7 +9,7 @@
  
 ---
 
-- [ ] Lunes 14, 21
+- [ ] Lunes 28, 04
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -17,66 +17,42 @@
 	- [ ] 19:00 Pasar por las niñas
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 12:00 Almuerzo
-
-- [ ] Martes 15, 22
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [x] Faena donde Ana Milena     
-		- [ ] Pizza
-		- [ ] Alitas Ana Milena
-		- [ ] Desposte res
-		- [ ] Barril
-		- [ ] Apanado
-	- [ ] 20:00 Sacar basura
-
-- [ ] Miércoles 16, 23 
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [x] Mercado, miércoles de plaza
-
-- [ ] Jueves 17, 24 
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] 20:00 Sacar basura
-
-- [ ] Viernes 18, 25
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] 20:00 Sacar basura
-
-- [ ] Sábado 19,  26
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] 20:00 Sacar basura
-	- [ ] 14:00 Piscina Comfenalco clases de natación gomelitas
-	- [ ] 17:30 Cobro Gilma 
-	- [ ] 20:00 Sacar basura
 	- [ ] ---
 		- [ ] Hoy
-			- [ ] Almuerzo
+			- [ ] Cali
+			- [ ] Papeles CVC
+			- [ ] Horarios Univalle Dora Nelsy
+			- [ ] Centro
+				- [ ] Crispetera
+				- [ ] Brochas
+				- [ ] Rodillos
+				- [ ] Espuma
+				- [ ] Tuercas
+				- [ ] Brocas
+				- [ ] Disco lijadora
+				- [ ] Tamal
+			- [ ] Tostar café (máquina de moler)
+			- [ ] Llevar escalera y traer colchón
+			- [ ] Cargar columnas, madero
+			- [ ] Almuerzo?
+			- [ ] Cali
+				- [ ] Crispetera
+				- [ ] Portátil
+				- [ ] Placa y kit
+				- [ ] Gafas
+				- [ ] Zapatos
+				- [ ] Ropa
+			- [ ] Finca
+				- [ ] Zapatas
+			- [ ] Pasar por las niñas
+			- [ ] 7pm Pasar a llevarle la cuota a Pilar con las niñas
+			- [ ] 8pm Estadio
+			- [ ] Soldar
+			- [ ] Varios
+				- [x] Tostar café
+				- [ ] Organizar espacio en disco 
+					- [ ] celular
+					- [ ] pc
 			- [ ] Empacar miel
 			- [ ] Franklin
 				- [ ] Moto fuga aceite
@@ -178,7 +154,64 @@
 		- [ ] Cuentas buseta
 		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
 
-- [ ] Domingo 13, 20 - Finca, cosecha, trasteo
+- [ ] Martes 22, 29 - Finca 7:00 AM
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [x] Faena donde Ana Milena     
+		- [ ] Pizza
+		- [ ] Alitas Ana Milena
+		- [ ] Desposte res
+		- [ ] Barril
+		- [ ] Apanado
+	- [ ] 20:00 Sacar basura
+
+- [ ] Miércoles 23, 30
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [x] Mercado, miércoles de plaza
+
+- [ ] Jueves 24, 31 
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 20:00 Sacar basura
+
+- [ ] Viernes 25, 01
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 20:00 Sacar basura
+
+- [ ] Sábado 19,  26, 02
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 20:00 Sacar basura
+	- [ ] 14:00 Piscina Comfenalco clases de natación gomelitas
+	- [ ] 17:30 Cobro Gilma 
+	- [ ] 20:00 Sacar basura
+
+- [ ] Domingo 20, 27, 03 - Finca, cosecha, trasteo
 	- [ ] Entreno
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] Piscina - Rio
