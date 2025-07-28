@@ -19,37 +19,38 @@
 	- [ ] 12:00 Almuerzo
 	- [ ] ---
 		- [ ] Hoy
-			- [ ] Cali
-			- [ ] Papeles CVC
-			- [ ] Horarios Univalle Dora Nelsy
+			- [ ] 7pm Pasar a llevarle la cuota a Pilar con las niñas
+			- [ ] 8pm Estadio, piscina
+			- [ ] Almuerzo?
+			- [ ] Horarios Zarzal DS2
+			- [ ] Preparar cursos
+				- [ ] UML
+				- [ ] Git + software embebido
+				- [ ] Pruebas de software
+				- [ ] Microprocesadores
+			- [ ] Convocatoria SENA 
+				- [ ] Certificados recientes?
 			- [ ] Centro
-				- [ ] Crispetera
 				- [ ] Brochas
 				- [ ] Rodillos
 				- [ ] Espuma
 				- [ ] Tuercas
 				- [ ] Brocas
 				- [ ] Disco lijadora
-				- [ ] Tamal
-			- [ ] Tostar café (máquina de moler)
+			- [ ] Cambio de buseta
+				- [ ] Liberación carro
+					- [ ] Casa móvil
 			- [ ] Llevar escalera y traer colchón
-			- [ ] Cargar columnas, madero
-			- [ ] Almuerzo?
+			- [ ] Cargar madero
 			- [ ] Cali
-				- [ ] Crispetera
-				- [ ] Portátil
-				- [ ] Placa y kit
+				- [ ] Comprar computador portátil
 				- [ ] Gafas
+				- [ ] Audífonos
 				- [ ] Zapatos
 				- [ ] Ropa
-			- [ ] Finca
-				- [ ] Zapatas
 			- [ ] Pasar por las niñas
-			- [ ] 7pm Pasar a llevarle la cuota a Pilar con las niñas
-			- [ ] 8pm Estadio
 			- [ ] Soldar
 			- [ ] Varios
-				- [x] Tostar café
 				- [ ] Organizar espacio en disco 
 					- [ ] celular
 					- [ ] pc
@@ -62,12 +63,6 @@
 			- [ ] Documentos Yaneth Univalle
 				- [ ] Ingresos buseta
 			- [ ] Finca - pintar perfiles, bodega propia
-			- [ ] Preparar cursos
-				- [ ] UML
-				- [ ] Pruebas de software
-				- [ ] Microprocesadores
-			- [ ] Convocatoria SENA 
-				- [ ] Certificados recientes?
 			- [ ] Invertir en dólares
 				- [ ] Portátil
 				- [ ] Placas kit
@@ -154,7 +149,7 @@
 		- [ ] Cuentas buseta
 		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
 
-- [ ] Martes 22, 29 - Finca 7:00 AM
+- [ ] Martes 29, 05 - cosechar naranjas, bodega, soldador
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -169,7 +164,7 @@
 		- [ ] Apanado
 	- [ ] 20:00 Sacar basura
 
-- [ ] Miércoles 23, 30
+- [ ] Miércoles 30, 06 - traer naranjas 
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -179,7 +174,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [x] Mercado, miércoles de plaza
 
-- [ ] Jueves 24, 31 
+- [ ] Jueves 31, 07 - empacar naranjas
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -189,7 +184,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 20:00 Sacar basura
 
-- [ ] Viernes 25, 01
+- [ ] Viernes 01, 08 - Feria campesina
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -199,7 +194,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 20:00 Sacar basura
 
-- [ ] Sábado 19,  26, 02
+- [ ] Sábado 02, 09
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -211,7 +206,7 @@
 	- [ ] 17:30 Cobro Gilma 
 	- [ ] 20:00 Sacar basura
 
-- [ ] Domingo 20, 27, 03 - Finca, cosecha, trasteo
+- [ ] Domingo 03, 10
 	- [ ] Entreno
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] Piscina - Rio

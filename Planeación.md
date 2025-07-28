@@ -4,7 +4,7 @@ https://padlet.com/dashboard
 Cómo quiero estar?
 
 Vivir cerca de mi familia, en un sitio confortable, playa o campo, terreno propio, donde pueda construir a mi antojo y pueda reunirme con frecuencia con mis hijas y nietos y amigos.
-Tener la pareja indicada, bonita, inteligente, divertida.
+Tener la pareja indicada, bonita, inteligente, divertida y sexualmente activa.
 Tener amigos con quienes compartir la vida.
 Generar ingresos de manera autónoma e inteligente, que me permitan vivir cómodamente y ayudar a mi familia.
 Garantizar una pensión digna.
