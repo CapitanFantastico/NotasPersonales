@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -288,13 +288,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b32f9dbf1a2a3741",
+  "active": "e11e680b3b3d1463",
   "lastOpenFiles": [
+    "Planeación.md",
     "TO DO LIST.md",
     "Martha Isabel Cadena.md",
     "Proyecto techo finca.md",
     "Proyecto Bodega.md",
-    "Planeación.md",
     "Planeación económica.md",
     "Planeación emocional.md",
     "Fechas importantes.md",

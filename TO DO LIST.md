@@ -9,7 +9,7 @@
  
 ---
 
-- [ ] Lunes 28, 04
+- [ ] Lunes 04, 11
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -17,8 +17,40 @@
 	- [ ] 19:00 Pasar por las niñas
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 12:00 Almuerzo
+
+- [ ] Martes 05, 12
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [x] Faena donde Ana Milena     
+		- [ ] Pizza
+		- [ ] Alitas Ana Milena
+		- [ ] Desposte res
+		- [ ] Barril
+		- [ ] Apanado
+	- [ ] 20:00 Sacar basura
+
+- [ ] Miércoles 30, 06 - Finca: soldar, Instalación contador, traer naranjas, empacar
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [x] Mercado, miércoles de plaza
 	- [ ] ---
 		- [ ] Hoy
+			- [ ] Aislar caja contador
+			- [ ] Llevar escalera y traer colchón
+			- [ ] Almuerzo para la finca
+			- [ ] 7:30 Llevar a las niñas y pasar por los ángulos
+			- [ ] 8:00 Cortar ángulos y amarrarlos
+			- [ ] Pendiente contador bidireccional
+			- [ ] Finca - soldar
 			- [ ] 7pm Pasar a llevarle la cuota a Pilar con las niñas
 			- [ ] 8pm Estadio, piscina
 			- [ ] Almuerzo?
@@ -40,7 +72,6 @@
 			- [ ] Cambio de buseta
 				- [ ] Liberación carro
 					- [ ] Casa móvil
-			- [ ] Llevar escalera y traer colchón
 			- [ ] Cargar madero
 			- [ ] Cali
 				- [ ] Comprar computador portátil
@@ -48,8 +79,8 @@
 				- [ ] Audífonos
 				- [ ] Zapatos
 				- [ ] Ropa
+				- [ ] Proteína
 			- [ ] Pasar por las niñas
-			- [ ] Soldar
 			- [ ] Varios
 				- [ ] Organizar espacio en disco 
 					- [ ] celular
@@ -59,14 +90,11 @@
 				- [ ] Moto fuga aceite
 			- [ ] Entrenar
 			- [ ] Organizar cobros
-			- [ ] Conseguir PC
 			- [ ] Documentos Yaneth Univalle
 				- [ ] Ingresos buseta
 			- [ ] Finca - pintar perfiles, bodega propia
 			- [ ] Invertir en dólares
 				- [ ] Portátil
-				- [ ] Placas kit
-				- [ ] Ropa Cali
 			- [ ] Planillas Cooperativa
 			- [ ] Documento declaración de renta
 			- [ ] Sx
@@ -75,7 +103,6 @@
 			- [ ] Pagos
 				- [ ] Internet
 			- [ ] Cobros
-			- [ ] Buseta
 			- [ ] Organizar cuarto
 		- [ ] Plan vacaciones de la U
 			- [ ] Cronograma diario
@@ -85,11 +112,7 @@
 				- [ ] Lecturas y videos de la U 60 min
 				- [ ] Especialización 120 min
 				- [ ] Convocatoria SENA 60 min
-			- [ ] Preparar y reorganizar clases
 			- [ ] Estudiar Python avanzado con frameworks desarrollo web
-			- [ ] Desarrollo software
-			- [ ] Cisco para composta
-			- [ ] Estudiar cursos nuevos
 			- [ ] Estudiar IA
 			- [ ] Estudio formal
 			- [ ] Entrenar
@@ -105,9 +128,7 @@
 		- [ ] Mercado campesino
 			- [ ] Aceite naranja
 			- [ ] Naranja deshidratada
-			- [ ] Tortas Adriana
 		- [ ] App agrónomo
-		- [ ] Planear y presupuestar techo finca
 		- [ ] Cobro Diana, Elizabeth Wilches
 		- [ ] Asunto SOS - Beneficiarios
 			- [ ] Radicar solicitud para pasar a las niñas a mi nombre
@@ -149,32 +170,7 @@
 		- [ ] Cuentas buseta
 		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
 
-- [ ] Martes 29, 05 - cosechar naranjas, bodega, soldador
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [x] Faena donde Ana Milena     
-		- [ ] Pizza
-		- [ ] Alitas Ana Milena
-		- [ ] Desposte res
-		- [ ] Barril
-		- [ ] Apanado
-	- [ ] 20:00 Sacar basura
-
-- [ ] Miércoles 30, 06 - traer naranjas 
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [x] Mercado, miércoles de plaza
-
-- [ ] Jueves 31, 07 - empacar naranjas
+- [ ] Jueves 31, 07 - CampeSENA
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
