@@ -51,7 +51,11 @@
 			- [ ] 8:00 Cortar ángulos y amarrarlos
 			- [ ] Pendiente contador bidireccional
 			- [ ] Finca - soldar
-			- [ ] 7pm Pasar a llevarle la cuota a Pilar con las niñas
+				- [ ] ángulos
+				- [ ] platina
+				- [ ] careta
+				- [ ] almuerzo
+			- [ ] 7pm Pasar a llevarle la cuota a Pilar con las niñas 
 			- [ ] 8pm Estadio, piscina
 			- [ ] Almuerzo?
 			- [ ] Horarios Zarzal DS2

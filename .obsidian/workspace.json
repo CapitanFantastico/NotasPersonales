@@ -126,9 +126,57 @@
               "icon": "lucide-file",
               "title": "Planeación"
             }
+          },
+          {
+            "id": "49e857fc67d82268",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
+          },
+          {
+            "id": "cbbd60355d352109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Andamios.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Andamios"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -288,10 +336,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e11e680b3b3d1463",
+  "active": "cbbd60355d352109",
   "lastOpenFiles": [
-    "Planeación.md",
+    "Andamios.md",
+    "Untitled 2.md",
+    "Pasted image 20250729191309.png",
     "TO DO LIST.md",
+    "Planeación.md",
     "Martha Isabel Cadena.md",
     "Proyecto techo finca.md",
     "Proyecto Bodega.md",
@@ -314,8 +365,6 @@
     "Solicitud contador bidireccional a Celsia.md",
     "Diagnóstico emocional.md",
     "SX Threesomelike.md",
-    "Visa USA.md",
-    "Itinerario Bogotá semana santa 2025.md",
     "SOATMotoSuzuki2025.png",
     "SOATMotoSuzuki2024.png",
     "Pasted image 20241230172155.png",
@@ -325,7 +374,6 @@
     "Pasted image 20240615131152.png",
     "Pasted image 20240615131036.png",
     "Pasted image 20240615130122.png",
-    "Pasted image 20240615120124.png",
     "El libro de los estiramientos. Consigue un cuerpo totalmente flexible.pdf",
     "Templates"
   ]
