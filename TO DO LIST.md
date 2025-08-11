@@ -9,7 +9,7 @@
  
 ---
 
-- [ ] Lunes 04, 11
+- [ ] Lunes 11, 18
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -18,7 +18,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 12:00 Almuerzo
 
-- [ ] Martes 05, 12
+- [ ] Martes 12, 19
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -33,7 +33,7 @@
 		- [ ] Apanado
 	- [ ] 20:00 Sacar basura
 
-- [ ] Miércoles 30, 06 - Finca: soldar, Instalación contador, traer naranjas, empacar
+- [ ] Miércoles 13,20
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -42,23 +42,45 @@
 	- [ ] 19:00 Pasar por las niñas
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [x] Mercado, miércoles de plaza
+
+- [ ] Jueves 14, 21 - Cali, Yumbo 5pm
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 20:00 Sacar basura
+	- [ ] Cali
+		- [ ] Ropa
+		- [ ] Zapatos
+		- [ ] Gafas
+		- [ ] Audífonos
+
+- [ ] Viernes 15, 22
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 20:00 Sacar basura
+
+- [ ] Sábado 09, 16, 23
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 20:00 Sacar basura
+	- [ ] 14:00 Piscina Comfenalco clases de natación gomelitas
+	- [ ] 17:30 Cobro Gilma 
+	- [ ] 20:00 Sacar basura
 	- [ ] ---
 		- [ ] Hoy
-			- [ ] Aislar caja contador
-			- [ ] Llevar escalera y traer colchón
-			- [ ] Almuerzo para la finca
-			- [ ] 7:30 Llevar a las niñas y pasar por los ángulos
-			- [ ] 8:00 Cortar ángulos y amarrarlos
-			- [ ] Pendiente contador bidireccional
-			- [ ] Finca - soldar
-				- [ ] ángulos
-				- [ ] platina
-				- [ ] careta
-				- [ ] almuerzo
-			- [ ] 7pm Pasar a llevarle la cuota a Pilar con las niñas 
-			- [ ] 8pm Estadio, piscina
-			- [ ] Almuerzo?
-			- [ ] Horarios Zarzal DS2
 			- [ ] Preparar cursos
 				- [ ] UML
 				- [ ] Git + software embebido
@@ -66,17 +88,8 @@
 				- [ ] Microprocesadores
 			- [ ] Convocatoria SENA 
 				- [ ] Certificados recientes?
-			- [ ] Centro
-				- [ ] Brochas
-				- [ ] Rodillos
-				- [ ] Espuma
-				- [ ] Tuercas
-				- [ ] Brocas
-				- [ ] Disco lijadora
-			- [ ] Cambio de buseta
-				- [ ] Liberación carro
-					- [ ] Casa móvil
-			- [ ] Cargar madero
+			- [ ] Organizar y empacar
+			- [ ] 8pm Estadio, piscina
 			- [ ] Cali
 				- [ ] Comprar computador portátil
 				- [ ] Gafas
@@ -84,7 +97,13 @@
 				- [ ] Zapatos
 				- [ ] Ropa
 				- [ ] Proteína
-			- [ ] Pasar por las niñas
+			- [ ] Llevar escalera y traer colchón donde Juancho
+			- [ ] Buscar hospedaje Zarzal (lunes)
+			- [ ] Buscar sitio Yumbo (miercoles)
+			- [ ] Cambio de buseta
+				- [ ] Liberación carro
+					- [ ] Casa móvil
+			- [ ] Cargar madero
 			- [ ] Varios
 				- [ ] Organizar espacio en disco 
 					- [ ] celular
@@ -92,22 +111,12 @@
 			- [ ] Empacar miel
 			- [ ] Franklin
 				- [ ] Moto fuga aceite
-			- [ ] Entrenar
 			- [ ] Organizar cobros
-			- [ ] Documentos Yaneth Univalle
-				- [ ] Ingresos buseta
-			- [ ] Finca - pintar perfiles, bodega propia
-			- [ ] Invertir en dólares
-				- [ ] Portátil
 			- [ ] Planillas Cooperativa
 			- [ ] Documento declaración de renta
-			- [ ] Sx
-			- [ ] Siesta
 			- [ ] Afiliación SOS
 			- [ ] Pagos
 				- [ ] Internet
-			- [ ] Cobros
-			- [ ] Organizar cuarto
 		- [ ] Plan vacaciones de la U
 			- [ ] Cronograma diario
 				- [ ] Python 60 min
@@ -132,10 +141,9 @@
 		- [ ] Mercado campesino
 			- [ ] Aceite naranja
 			- [ ] Naranja deshidratada
+			- [ ] Anibal
 		- [ ] App agrónomo
 		- [ ] Cobro Diana, Elizabeth Wilches
-		- [ ] Asunto SOS - Beneficiarios
-			- [ ] Radicar solicitud para pasar a las niñas a mi nombre
 		- [ ] Buga
 			- [ ] Franklin
 				- [ ] Aceite y fuga
@@ -143,17 +151,12 @@
 				- [ ] Cadena
 				- [ ] Naranjas
 				- [ ] Cocina finca
-			- [x] Perforar platina
 		- [ ] Cobros y cuentas
 		- [ ] Finca
 			- [ ] Poda
 			- [ ] Cosecha de naranjas
 			- [ ] Fumigar
 			- [ ] Bodega nueva
-				- [x] Perforar platina
-				- [ ] Hacer castillos
-				- [ ] Nivelar tierra
-				- [ ] Lijar tubos y pintar (lijadora, varsol)
 			- [ ] Sierra de mano para las bases (25x25x15) - Anibal
 			- [ ] Acolilladora?
 			- [ ] Energía finca
@@ -164,7 +167,6 @@
 			- [ ] Marcar ofertas
 			- [ ] Prepararme
 		- [ ] Respaldar notas y documentos
-		- [ ] Ordenar cuarto
 		- [ ] Extensión 220V
 		- [ ] Loncheras
 			- [ ] Chocolatinas
@@ -174,39 +176,7 @@
 		- [ ] Cuentas buseta
 		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
 
-- [ ] Jueves 31, 07 - CampeSENA
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] 20:00 Sacar basura
-
-- [ ] Viernes 01, 08 - Feria campesina
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] 20:00 Sacar basura
-
-- [ ] Sábado 02, 09
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] 20:00 Sacar basura
-	- [ ] 14:00 Piscina Comfenalco clases de natación gomelitas
-	- [ ] 17:30 Cobro Gilma 
-	- [ ] 20:00 Sacar basura
-
-- [ ] Domingo 03, 10
+- [ ] Domingo 10, 17, 24 - Finca: tablado, naranjas, piedras, agua mangueras, estantes
 	- [ ] Entreno
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] Piscina - Rio

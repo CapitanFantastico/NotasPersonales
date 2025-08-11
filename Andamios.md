@@ -13,12 +13,24 @@ Para construir dos cuerpos de andamio tubular estándar en Colombia, se deben se
 
 ### **2. Materiales Requeridos**  
 #### **A. Tubería Estructural (Acero ASTM A500 o equivalente)**  
-| Componente       | Diámetro      | Calibre | Longitud por pieza | Cantidad (por cuerpo) |  
-|------------------|---------------|---------|--------------------|-----------------------|  
-| Montantes        | 48.3 mm       | 0.9 mm  | 1.50 m             | 4                     |  
-| Crucetas         | 42.2 mm       | 0.9 mm  | 2.30 m             | 4                     |  
-| Barandillas      | 33.7 mm       | 0.7 mm  | 1.50 m             | 4                     |  
-| Diagonales       | 26.7 mm       | 0.6 mm  | 2.10 m (corte)     | 4                     |  
+| Componente  | Diámetro | Calibre | Longitud por pieza | Cantidad (por cuerpo) |      |
+| ----------- | -------- | ------- | ------------------ | --------------------- | ---- |
+| Montantes   | 48.3 mm  | 0.9 mm  | 1.50 m             | 4                     | 6m   |
+| Crucetas    | 42.2 mm  | 0.9 mm  | 2.30 m             | 4                     | 9,2m |
+| Barandillas | 33.7 mm  | 0.7 mm  | 1.50 m             | 4                     | 6m   |
+| Diagonales  | 26.7 mm  | 0.6 mm  | 2.10 m (corte)     | 4                     | 8,4m |
+
++ Platinas para la base
++ Pintura
++ Masilla
++ Soldadura
+
+| Componente          | Diámetro | Calibre | Cantidad |
+| ------------------- | -------- | ------- | -------- |
+| Tubería estructural | 48.3 mm  | 0.9 mm  | 2        |
+| Tubería estructural | 42.2 mm  | 0.9 mm  | 3        |
+| Tubería estructural | 33.7 mm  | 0.7 mm  | 2        |
+| Tubería estructural | 26.7 mm  | 0.6 mm  | 3        |
 
 #### **B. Accesorios**  
 - **Plataformas:** Metálicas (malla antideslizante), medidas 1.40 m × 0.73 m .  
@@ -98,3 +110,6 @@ Cuerpo Inferior (0 - 1.5 m)
 ```  
 
 Para proyectos profesionales, se recomienda adquirir andamios certificados que incluyen manuales de armado y garantía de seguridad . Si opta por la autofabricación, realice pruebas de carga con 1.5 veces el peso máximo (450 kg) antes del uso.
+
+https://www.grupomaq.es/partes-de-un-andamio/
+

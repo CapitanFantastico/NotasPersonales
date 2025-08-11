@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -336,12 +336,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbbd60355d352109",
+  "active": "e11e680b3b3d1463",
   "lastOpenFiles": [
     "Andamios.md",
+    "TO DO LIST.md",
     "Untitled 2.md",
     "Pasted image 20250729191309.png",
-    "TO DO LIST.md",
     "Planeación.md",
     "Martha Isabel Cadena.md",
     "Proyecto techo finca.md",
