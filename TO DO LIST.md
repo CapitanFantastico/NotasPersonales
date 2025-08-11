@@ -9,7 +9,7 @@
  
 ---
 
-- [ ] Lunes 11, 18
+- [ ] Lunes 18, 25: Yumbo 10-12, Zarzal 18-21 DS2Z51 BolivarS1
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -18,7 +18,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 12:00 Almuerzo
 
-- [ ] Martes 12, 19
+- [ ] Martes 12, 19 - Inicio clases Zarzal 08-11 DS2Z50 BalsasS3, Cita Salomé 14:20 
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -33,7 +33,7 @@
 		- [ ] Apanado
 	- [ ] 20:00 Sacar basura
 
-- [ ] Miércoles 13,20
+- [ ] Miércoles 13, 20, 27: Yumbo 10:00 -12:00, 18:30 - 21:30
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -43,7 +43,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [x] Mercado, miércoles de plaza
 
-- [ ] Jueves 14, 21 - Cali, Yumbo 5pm
+- [ ] Jueves 14, 21 - ==Cali, Reunión profesores Yumbo 5pm== 
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -57,8 +57,11 @@
 		- [ ] Zapatos
 		- [ ] Gafas
 		- [ ] Audífonos
+		- [ ] Proyector
+		- [ ] Proteína
+		- [ ] Computador portátil
 
-- [ ] Viernes 15, 22
+- [ ] Viernes 15, 22 Cita Salomé Valle de Lili 10:00: Zarzal 9-12
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -81,6 +84,8 @@
 	- [ ] 20:00 Sacar basura
 	- [ ] ---
 		- [ ] Hoy
+			- [ ] Almuerzo
+			- [ ] Mandado MIC
 			- [ ] Preparar cursos
 				- [ ] UML
 				- [ ] Git + software embebido
@@ -90,6 +95,18 @@
 				- [ ] Certificados recientes?
 			- [ ] Organizar y empacar
 			- [ ] 8pm Estadio, piscina
+			- [ ] Bodega
+				- [ ] Lijar y pintar
+				- [ ] Tubo frontal
+				- [ ] Ángulos
+				- [ ] Tablado
+				- [ ] Paredes
+				- [ ] Puerta garaje
+				- [ ] Platinas inferiores
+				- [ ] Puntales o Guayas
+				- [ ] Agua
+				- [ ] Nivelar frente
+				- [ ] Piscina
 			- [ ] Cali
 				- [ ] Comprar computador portátil
 				- [ ] Gafas
@@ -97,6 +114,7 @@
 				- [ ] Zapatos
 				- [ ] Ropa
 				- [ ] Proteína
+				- [ ] Proyector
 			- [ ] Llevar escalera y traer colchón donde Juancho
 			- [ ] Buscar hospedaje Zarzal (lunes)
 			- [ ] Buscar sitio Yumbo (miercoles)
@@ -176,7 +194,7 @@
 		- [ ] Cuentas buseta
 		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
 
-- [ ] Domingo 10, 17, 24 - Finca: tablado, naranjas, piedras, agua mangueras, estantes
+- [ ] Domingo 17, 24 - Finca: tablado, naranjas, piedras, agua mangueras, estantes
 	- [ ] Entreno
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] Piscina - Rio
