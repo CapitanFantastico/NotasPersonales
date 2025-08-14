@@ -18,7 +18,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 12:00 Almuerzo
 
-- [ ] Martes 12, 19 - Inicio clases Zarzal 08-11 DS2Z50 BalsasS3, Cita Salomé 14:20 
+- [ ] Martes 19 - Inicio clases Zarzal 08-11 DS2Z50 BalsasS3, Cita Salomé 14:20, 15-17 Inducción Zarzal 
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -33,7 +33,7 @@
 		- [ ] Apanado
 	- [ ] 20:00 Sacar basura
 
-- [ ] Miércoles 13, 20, 27: Yumbo 10:00 -12:00, 18:30 - 21:30
+- [ ] Miércoles 20, 27: Yumbo 10:00 -12:00, 18:30 - 21:30
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -60,32 +60,14 @@
 		- [ ] Proyector
 		- [ ] Proteína
 		- [ ] Computador portátil
-
-- [ ] Viernes 15, 22 Cita Salomé Valle de Lili 10:00: Zarzal 9-12
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] 20:00 Sacar basura
-
-- [ ] Sábado 09, 16, 23
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] 20:00 Sacar basura
-	- [ ] 14:00 Piscina Comfenalco clases de natación gomelitas
-	- [ ] 17:30 Cobro Gilma 
-	- [ ] 20:00 Sacar basura
 	- [ ] ---
 		- [ ] Hoy
 			- [ ] Almuerzo
-			- [ ] Mandado MIC
+			- [ ] Cuadrar revisión buseta viernes
+			- [ ] Plata Pilar
+			- [ ] Plata Juancho
+			- [ ] Anita declaración de renta
+			- [ ] Cali - Yumbo
 			- [ ] Preparar cursos
 				- [ ] UML
 				- [ ] Git + software embebido
@@ -96,17 +78,22 @@
 			- [ ] Organizar y empacar
 			- [ ] 8pm Estadio, piscina
 			- [ ] Bodega
-				- [ ] Lijar y pintar
-				- [ ] Tubo frontal
-				- [ ] Ángulos
-				- [ ] Tablado
-				- [ ] Paredes
+				- [x] Lijar y pintar
+				- [x] Tubo frontal
+				- [ ] Ángulos y platinas inferiores
+				- [ ] Pintar tablado
+				- [ ] Paredes cuarto
 				- [ ] Puerta garaje
-				- [ ] Platinas inferiores
 				- [ ] Puntales o Guayas
+				- [ ] Tapones
 				- [ ] Agua
+				- [ ] Estantería
+				- [ ] Cocina
+				- [ ] Baño
 				- [ ] Nivelar frente
 				- [ ] Piscina
+				- [ ] Resbalador de agua
+				- [ ] Columpio guadua
 			- [ ] Cali
 				- [ ] Comprar computador portátil
 				- [ ] Gafas
@@ -115,7 +102,6 @@
 				- [ ] Ropa
 				- [ ] Proteína
 				- [ ] Proyector
-			- [ ] Llevar escalera y traer colchón donde Juancho
 			- [ ] Buscar hospedaje Zarzal (lunes)
 			- [ ] Buscar sitio Yumbo (miercoles)
 			- [ ] Cambio de buseta
@@ -193,6 +179,27 @@
 		- [ ] Cuentas préstamos
 		- [ ] Cuentas buseta
 		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
+- [ ] Viernes 15, 22 Cita Salomé Valle de Lili 10:00: Zarzal 9-12
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 20:00 Sacar basura
+
+- [ ] Sábado 09, 16, 23
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 20:00 Sacar basura
+	- [ ] 14:00 Piscina Comfenalco clases de natación gomelitas
+	- [ ] 17:30 Cobro Gilma 
+	- [ ] 20:00 Sacar basura
 
 - [ ] Domingo 17, 24 - Finca: tablado, naranjas, piedras, agua mangueras, estantes
 	- [ ] Entreno
