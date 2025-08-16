@@ -18,7 +18,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 12:00 Almuerzo
 
-- [ ] Martes 19 - Inicio clases Zarzal 08-11 DS2Z50 BalsasS3, Cita Salomé 14:20, 15-17 Inducción Zarzal 
+- [ ] Martes 19 - Inicio clases Zarzal 08-11 DS2Z50 BalsasS3, 15-17 Inducción Zarzal, 26
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -43,7 +43,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [x] Mercado, miércoles de plaza
 
-- [ ] Jueves 14, 21 - ==Cali, Reunión profesores Yumbo 5pm== 
+- [ ] Jueves 21 - ==Cali, Reunión profesores Yumbo 5pm== , 28
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -52,39 +52,35 @@
 	- [ ] 19:00 Pasar por las niñas
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 20:00 Sacar basura
-	- [ ] Cali
-		- [ ] Ropa
-		- [ ] Zapatos
-		- [ ] Gafas
-		- [ ] Audífonos
-		- [ ] Proyector
-		- [ ] Proteína
-		- [ ] Computador portátil
+
+- [ ] Viernes 22 Cita Salomé Valle de Lili 10:00: Zarzal 9-12
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 20:00 Sacar basura
 	- [ ] ---
 		- [ ] Hoy
-			- [ ] Almuerzo
-			- [ ] Cuadrar revisión buseta viernes
-			- [ ] Plata Pilar
-			- [ ] Plata Juancho
-			- [ ] Anita declaración de renta
-			- [ ] Cali - Yumbo
-			- [ ] Preparar cursos
-				- [ ] UML
-				- [ ] Git + software embebido
-				- [ ] Pruebas de software
-				- [ ] Microprocesadores
-			- [ ] Convocatoria SENA 
-				- [ ] Certificados recientes?
-			- [ ] Organizar y empacar
-			- [ ] 8pm Estadio, piscina
+			- [x] Almuerzo
+			- [x] Cuadrar revisión buseta viernes
+			- [x] Plata Pilar
+			- [ ] Andamios
+			- [ ] Andiron
 			- [ ] Bodega
-				- [x] Lijar y pintar
-				- [x] Tubo frontal
-				- [ ] Ángulos y platinas inferiores
+				- [ ] Pintar tubos
+				- [ ] Transporte cortina bodega
+				- [ ] Ángulos y platinas de cada cortina (perforar)
 				- [ ] Pintar tablado
+					- [ ] Tornillos x 50
+					- [ ] Pintura carro / Varniz
 				- [ ] Paredes cuarto
+					- [ ] Madera
 				- [ ] Puerta garaje
-				- [ ] Puntales o Guayas
+					- [ ] Tornillos x 15
+				- [ ] Puntales o Guayas para estabilizar bodega
 				- [ ] Tapones
 				- [ ] Agua
 				- [ ] Estantería
@@ -94,20 +90,28 @@
 				- [ ] Piscina
 				- [ ] Resbalador de agua
 				- [ ] Columpio guadua
+			- [ ] Anita declaración de renta
+			- [ ] Preparar cursos
+				- [ ] UML
+				- [ ] Git + software embebido
+				- [ ] Pruebas de software
+				- [ ] Microprocesadores
+			- [ ] Convocatoria SENA 
+				- [ ] Certificados recientes?
+			- [ ] Organizar y empacar
+			- [ ] 8pm Estadio, piscina
 			- [ ] Cali
 				- [ ] Comprar computador portátil
-				- [ ] Gafas
 				- [ ] Audífonos
-				- [ ] Zapatos
-				- [ ] Ropa
 				- [ ] Proteína
 				- [ ] Proyector
+				- [ ] Medias
+				- [ ] Calzoncillos
 			- [ ] Buscar hospedaje Zarzal (lunes)
 			- [ ] Buscar sitio Yumbo (miercoles)
 			- [ ] Cambio de buseta
 				- [ ] Liberación carro
 					- [ ] Casa móvil
-			- [ ] Cargar madero
 			- [ ] Varios
 				- [ ] Organizar espacio en disco 
 					- [ ] celular
@@ -137,7 +141,6 @@
 			- [ ] Bodega casa
 			- [ ] Cobros y venta de deudas
 			- [ ] Arreglar moto
-		- [ ] Contador bidireccional Celsia
 		- [ ] Descargar playlist canal argentino de libros
 		- [ ] Toldo impermeable
 		- [ ] Toldo carro, sillas
@@ -179,17 +182,8 @@
 		- [ ] Cuentas préstamos
 		- [ ] Cuentas buseta
 		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
-- [ ] Viernes 15, 22 Cita Salomé Valle de Lili 10:00: Zarzal 9-12
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] 20:00 Sacar basura
 
-- [ ] Sábado 09, 16, 23
+- [ ] Sábado 16, 23
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
