@@ -9,7 +9,7 @@
  
 ---
 
-- [ ] Lunes 18, 25: Yumbo 10-12, Zarzal 18-21 DS2Z51 BolivarS1
+- [ ] Lunes 25, 01: Zarzal 18-21 DS2Z51 BolivarS1
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -18,7 +18,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 12:00 Almuerzo
 
-- [ ] Martes 19 - Inicio clases Zarzal 08-11 DS2Z50 BalsasS3, 15-17 Inducción Zarzal, 26
+- [ ] Martes 26, 02: DS2Z50, 08-11, BalsasS4
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -33,7 +33,7 @@
 		- [ ] Apanado
 	- [ ] 20:00 Sacar basura
 
-- [ ] Miércoles 20, 27: Yumbo 10:00 -12:00, 18:30 - 21:30
+- [ ] Miércoles 20, 27: DS2Y53, 18:30 - 21:30, PAT 
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -42,31 +42,9 @@
 	- [ ] 19:00 Pasar por las niñas
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [x] Mercado, miércoles de plaza
-
-- [ ] Jueves 21 - ==Cali, Reunión profesores Yumbo 5pm== , 28
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] 20:00 Sacar basura
-
-- [ ] Viernes 22 Cita Salomé Valle de Lili 10:00: Zarzal 9-12
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] 20:00 Sacar basura
 	- [ ] ---
 		- [ ] Hoy
-			- [x] Almuerzo
-			- [x] Cuadrar revisión buseta viernes
-			- [x] Plata Pilar
+			- [ ] Almuerzo
 			- [ ] Andamios
 			- [ ] Andiron
 			- [ ] Bodega
@@ -74,8 +52,8 @@
 				- [ ] Transporte cortina bodega
 				- [ ] Ángulos y platinas de cada cortina (perforar)
 				- [ ] Pintar tablado
-					- [ ] Tornillos x 50
-					- [ ] Pintura carro / Varniz
+					- [x] Tornillos x 50
+					- [x] Varniz
 				- [ ] Paredes cuarto
 					- [ ] Madera
 				- [ ] Puerta garaje
@@ -107,8 +85,7 @@
 				- [ ] Proyector
 				- [ ] Medias
 				- [ ] Calzoncillos
-			- [ ] Buscar hospedaje Zarzal (lunes)
-			- [ ] Buscar sitio Yumbo (miercoles)
+			- [x] Buscar hospedaje Zarzal (lunes)
 			- [ ] Cambio de buseta
 				- [ ] Liberación carro
 					- [ ] Casa móvil
@@ -183,7 +160,27 @@
 		- [ ] Cuentas buseta
 		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
 
-- [ ] Sábado 16, 23
+- [ ] Jueves 21, 28
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 20:00 Sacar basura
+
+- [ ] Viernes 22 Cita Salomé Valle de Lili 10:00: Zarzal 9-12 , 29
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 20:00 Sacar basura
+
+- [ ] Sábado 23, 30
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -195,7 +192,7 @@
 	- [ ] 17:30 Cobro Gilma 
 	- [ ] 20:00 Sacar basura
 
-- [ ] Domingo 17, 24 - Finca: tablado, naranjas, piedras, agua mangueras, estantes
+- [ ] Domingo 24, 31 - Finca: tablado, naranjas, piedras, agua mangueras, estantes
 	- [ ] Entreno
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] Piscina - Rio
