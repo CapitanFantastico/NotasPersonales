@@ -17,9 +17,10 @@ Hijos:
 Estudios: 
 Experiencia laboral: 
 Idiomas: Español materno, Inglés de uso frecuente
-Servicio de salud: Nueva EPS
+Servicio de salud: ~~Nueva EPS~~, S.O.S
 
 
 ![[MDMPasaporte.png]]
 
 ![[MDMRCN.png]] 
+![[Pasted image 20250825112644.png]]

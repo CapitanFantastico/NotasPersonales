@@ -20,7 +20,10 @@
 	- [ ] ---
 		- [ ] Hoy
 			- [ ] Almuerzo
-			- [ ] Andamios
+			- [ ] Averiguar andamios
+			- [ ] Llevar dólares
+			- [ ] Comprar espuma
+			- [ ] Retirar dinero
 			- [ ] Hablar con Anibal
 			- [ ] Planear recogida de Iván el viernes (extensión)
 			- [ ] Andiron
@@ -51,7 +54,7 @@
 				- [ ] Piscina
 				- [ ] Resbalador de agua
 				- [ ] Columpio guadua
-			- [ ] Anita declaración de renta
+			- [x] Anita declaración de renta
 			- [ ] Preparar cursos
 				- [ ] UML
 				- [ ] Git + software embebido
