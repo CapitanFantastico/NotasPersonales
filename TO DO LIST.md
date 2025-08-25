@@ -19,13 +19,13 @@
 	- [ ] 12:00 Almuerzo
 	- [ ] ---
 		- [ ] Hoy
-			- [ ] Almuerzo
-			- [ ] Averiguar andamios
-			- [ ] Llevar dólares
+			- [x] Almuerzo
+			- [x] Averiguar andamios
+			- [x] Llevar dólares
 			- [ ] Comprar espuma
-			- [ ] Retirar dinero
+			- [x] Retirar dinero
 			- [ ] Hablar con Anibal
-			- [ ] Planear recogida de Iván el viernes (extensión)
+			- [x] Planear recogida de Iván el viernes (extensión)
 			- [ ] Andiron
 			- [ ] Pasar por la planillas
 			- [ ] Conseguir conductor buseta
@@ -146,7 +146,7 @@
 		- [ ] Cuentas buseta
 		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
 
-- [ ] Martes 26, 02: DS2Z50, 08-11, BalsasS4
+- [ ] Martes 26, 02: DS2Z50, 08-11, BalsasS4 (Finca, pintura, cortina bodega?)
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -161,7 +161,7 @@
 		- [ ] Apanado
 	- [ ] 20:00 Sacar basura
 
-- [ ] Miércoles 20, 27: DS2Y53, 18:30 - 21:30, PAT 
+- [ ] Miércoles 20, 27: DS2Y53, 18:30 - 21:30, PAT (Finca cortina, Clase remota)
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -171,7 +171,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [x] Mercado, miércoles de plaza
 
-- [ ] Jueves 21, 28: MCZar
+- [ ] Jueves 28: MCZar (Logística Iván, soldador, recogida, extensión, Anibal, andamios)
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -181,7 +181,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 20:00 Sacar basura
 
-- [ ] Viernes 22 Cita Salomé Valle de Lili 10:00: MDSZ50 BalsasS3 9-12 , 29
+- [ ] Viernes 29, MDSZ50 BalsasS3 9-12 (Iván, andamios, extensión, Anibal)
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -191,7 +191,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 20:00 Sacar basura
 
-- [ ] Sábado 23, 30: MCZar
+- [ ] Sábado 30: MCZar 
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -203,7 +203,7 @@
 	- [ ] 17:30 Cobro Gilma 
 	- [ ] 20:00 Sacar basura
 
-- [ ] Domingo 24, 31 - Finca: tablado, naranjas, piedras, agua mangueras, estantes
+- [ ] Domingo 31 - Finca: tablado, naranjas, piedras, agua mangueras, estantes
 	- [ ] Entreno
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] Piscina - Rio
