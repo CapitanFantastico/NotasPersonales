@@ -1,32 +1,32 @@
 
-- [x] Alistar llaves del vehículo 
-- [x] Alistar llaves de repuesto
-- [x] Alistar herramientas básicas
+- [ ] Alistar llaves del vehículo 
+- [ ] Alistar llaves de repuesto
+- [ ] Alistar herramientas básicas
 	- [ ] Copa de bujía
 	- [ ] Bujía de repuesto
 	- [ ] Neumático de repuesto
 	- [ ] Llave 
 	- [ ] Cable de carga a la batería
 	- [ ] Protector contra el sol
-- [x] Alistar documentos del vehículo
+- [ ] Alistar documentos del vehículo
 	- [ ] Tarjeta de propiedad
 	- [ ] Revisión técnico mecánica
-- [x] Alistar licencia de conducir
-- [x] Alistar elementos de protección personal
-	- [x] Chaleco
-	- [x] Casco
-	- [x] Capa impermeable
-	- [x] Bolsas plásticas para cubrir el maletín 
-	- [x] Botas
+- [ ] Alistar licencia de conducir
+- [ ] Alistar elementos de protección personal
+	- [ ] Chaleco
+	- [ ] Casco
+	- [ ] Capa impermeable
+	- [ ] Bolsas plásticas para cubrir el maletín 
+	- [ ] Botas
 - [ ] Tanquear vehículo el día anterior
 - [ ] ==Validar cambio de aceite==
 - [ ] Verificar correcto funcionamiento de la moto
-	- [x] Encendido
-	- [x] Luces
-		- [x] Frontales
-		- [x] Traseras
-		- [x] Direccionales
-	- [x] Llantas
+	- [ ] Encendido
+	- [ ] Luces
+		- [ ] Frontales
+		- [ ] Traseras
+		- [ ] Direccionales
+	- [ ] Llantas
 	- [ ] Frenos
 	- [ ] Cadena
 - [ ] Caucho moto

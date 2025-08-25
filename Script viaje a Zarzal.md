@@ -2,5 +2,6 @@
 - [ ] [[Script viaje en moto]] 
 - [ ] [[Script viaje]] 
 - [ ] [[Script trabajo]] 
-- [x] Traje de baño
-- [x] Tapete para dormir
+- [ ] Traje de baño
+- [ ] Tapete para dormir
+- [ ] [[Script pernoctada Zarzal]] 

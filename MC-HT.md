@@ -1347,4 +1347,7 @@ Datos adicionales:
 Si tienes el respaldo del chat en tu teléfono:
 
 - Puedes leer el archivo `.crypt14` con herramientas forenses (como WhatsApp Viewer), pero esto requiere conocimientos técnicos y no es oficial ni recomendado por privacidad.
-- 
+
+
+
+Discimula

@@ -17,37 +17,20 @@
 	- [ ] 19:00 Pasar por las niñas
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 12:00 Almuerzo
-
-- [ ] Martes 26, 02: DS2Z50, 08-11, BalsasS4
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [x] Faena donde Ana Milena     
-		- [ ] Pizza
-		- [ ] Alitas Ana Milena
-		- [ ] Desposte res
-		- [ ] Barril
-		- [ ] Apanado
-	- [ ] 20:00 Sacar basura
-
-- [ ] Miércoles 20, 27: DS2Y53, 18:30 - 21:30, PAT 
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [x] Mercado, miércoles de plaza
 	- [ ] ---
 		- [ ] Hoy
 			- [ ] Almuerzo
 			- [ ] Andamios
+			- [ ] Hablar con Anibal
+			- [ ] Planear recogida de Iván el viernes (extensión)
 			- [ ] Andiron
+			- [ ] Pasar por la planillas
+			- [ ] Conseguir conductor buseta
+			- [ ] Planear ida a la finca (Cosechar naranjas )
 			- [ ] Bodega
+				- [ ] Espuma
+				- [ ] Mecha
+				- [ ] Pintar piso
 				- [ ] Pintar tubos
 				- [ ] Transporte cortina bodega
 				- [ ] Ángulos y platinas de cada cortina (perforar)
@@ -160,7 +143,32 @@
 		- [ ] Cuentas buseta
 		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
 
-- [ ] Jueves 21, 28
+- [ ] Martes 26, 02: DS2Z50, 08-11, BalsasS4
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [x] Faena donde Ana Milena     
+		- [ ] Pizza
+		- [ ] Alitas Ana Milena
+		- [ ] Desposte res
+		- [ ] Barril
+		- [ ] Apanado
+	- [ ] 20:00 Sacar basura
+
+- [ ] Miércoles 20, 27: DS2Y53, 18:30 - 21:30, PAT 
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [x] Mercado, miércoles de plaza
+
+- [ ] Jueves 21, 28: MCZar
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -170,7 +178,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 20:00 Sacar basura
 
-- [ ] Viernes 22 Cita Salomé Valle de Lili 10:00: Zarzal 9-12 , 29
+- [ ] Viernes 22 Cita Salomé Valle de Lili 10:00: MDSZ50 BalsasS3 9-12 , 29
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -180,7 +188,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 20:00 Sacar basura
 
-- [ ] Sábado 23, 30
+- [ ] Sábado 23, 30: MCZar
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
