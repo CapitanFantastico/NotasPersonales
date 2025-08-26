@@ -1,4 +1,41 @@
 
+Ma:
+- Comprar soldadura, y espuma o mecha
+- Pasar por las niñas
+- Cargar cortina, bloques de cemento, tablas, agua, extensión.
+- Pan Anibal
+- Viajar a la finca 
+
+Mi:
+- Pintura piso mezzanine
+- Adecuar mezzanine para la dormida de Iván (acrílico, toldillo, colchón) 
+	- Taladro?
+	- Poner plástico de Juancho
+- Adecuar carpa en el primer piso para la dormida de Iván
+- Hablar con Anibal de la energía
+- 12:00 Salgo para Buga por las niñas
+
+Ju:
+- Traer andamios
+- Comprar tablas de pino
+
+Vi:
+- 5:00 Pasar por Franklin
+- 7:00 Salida para Zarzal (MDS)
+- Franklin pasa por Iván a Palmira (Traer extensión)
+- En Buga carga las tablas y los andamios
+
+Sa:
+- MIC Zarzal
+
+Do:
+- Ir con MIC a la finca
+
+
+
+
+---
+
 - [ ] Concretar camión - 8:00 Donde Juancho, con Franklin
 - [x] Comprar material techo $3'000 - dirección Juancho - recoger el miércoles
 	- [ ] Actualizar dirección Juancho:

@@ -86,7 +86,7 @@ Vencidos
 * [ ] 05-Jun-2022 Fernando Osorio Pago 1
 * [ ] 05-Jul-2022 Fernando Osorio Pago 2 
 * [ ] 08-Jul-2022 Llega MDM a Colombia 
-* [ ] 10-Jul-2022 MDM conoce a Violeta 
+* [ ] 10-Jul-2022 MDM conoce a Violeta y a Luna 
 * [ ] 11-Jul-2022 Cita de MDM con el pediatra
 * [ ] 12-Jul-2022 Audiencia ICBF por demanda de alimentos
 * [ ] 05-Ago-2022 Fernando Osorio Pago 3
@@ -97,6 +97,7 @@ Vencidos
 - [ ] Viaje 23-Sep-2022 Viaje a USA CLO-PTY, PTY-FLD
 * [ ] 06-Ene Harold Panesso $1'500, paz y salvo juzgado
 * [ ] 20-Jun.2023 Plazo renovación licencia conducción
+* [ ] 26-Ago-2025 Cancr IEE
 
 
 # Asuntos Pagos
@@ -105,6 +106,7 @@ Vencidos
 * 
 
 # Mensuales
+
 - 15-Abr Coomeva GAO $105.000 Corte 30 c/mes 
 - 05-May $265 (Enero) Pago PILA salud y pensión a Colpensiones
 

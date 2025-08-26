@@ -9,7 +9,7 @@
  
 ---
 
-- [ ] Lunes 25, 01: Zarzal 18-21 DS2Z51 BolivarS1
+- [ ] Lunes 01, 08: Zarzal 18-21 DS2Z51 BolivarS1
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -17,6 +17,21 @@
 	- [ ] 19:00 Pasar por las niñas
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 12:00 Almuerzo
+
+- [ ] Martes 02, 09: DS2Z50, 08-11, BalsasS4 (Finca, pintura, cortina bodega?)
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [x] Faena donde Ana Milena     
+		- [ ] Pizza
+		- [ ] Alitas Ana Milena
+		- [ ] Desposte res
+		- [ ] Barril
+		- [ ] Apanado
+	- [ ] 20:00 Sacar basura
 	- [ ] ---
 		- [ ] Hoy
 			- [x] Almuerzo
@@ -146,22 +161,7 @@
 		- [ ] Cuentas buseta
 		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
 
-- [ ] Martes 26, 02: DS2Z50, 08-11, BalsasS4 (Finca, pintura, cortina bodega?)
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [x] Faena donde Ana Milena     
-		- [ ] Pizza
-		- [ ] Alitas Ana Milena
-		- [ ] Desposte res
-		- [ ] Barril
-		- [ ] Apanado
-	- [ ] 20:00 Sacar basura
-
-- [ ] Miércoles 20, 27: DS2Y53, 18:30 - 21:30, PAT (Finca cortina, Clase remota)
+- [ ] Miércoles 27, 03: DS2Y53, 18:30 - 21:30, PAT (Finca cortina, Clase remota)
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -171,7 +171,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [x] Mercado, miércoles de plaza
 
-- [ ] Jueves 28: MCZar (Logística Iván, soldador, recogida, extensión, Anibal, andamios)
+- [ ] Jueves 28, 04: MCZar (Logística Iván, soldador, recogida, extensión, Anibal, andamios)
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -181,7 +181,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 20:00 Sacar basura
 
-- [ ] Viernes 29, MDSZ50 BalsasS3 9-12 (Iván, andamios, extensión, Anibal)
+- [ ] Viernes 29, 05, MDSZ50 BalsasS3 9-12 (Iván, andamios, extensión, Anibal)
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -191,7 +191,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 20:00 Sacar basura
 
-- [ ] Sábado 30: MCZar 
+- [ ] Sábado 30, 06: MCZar 
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -203,7 +203,7 @@
 	- [ ] 17:30 Cobro Gilma 
 	- [ ] 20:00 Sacar basura
 
-- [ ] Domingo 31 - Finca: tablado, naranjas, piedras, agua mangueras, estantes
+- [ ] Domingo 31, 07 - Finca: tablado, naranjas, piedras, agua mangueras, estantes
 	- [ ] Entreno
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] Piscina - Rio
