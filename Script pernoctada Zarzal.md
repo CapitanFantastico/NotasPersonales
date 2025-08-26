@@ -5,6 +5,10 @@
 	- [ ] Dirección: Carrera 9 # 11-28, Zarzal, Valle del Cauca 
 	- [ ] Teléfono: 314 8422139
 - [ ] Ropa de cambio
+- [ ] Ropa de dormir
+	- [ ] Pantaloneta
+	- [ ] Chanclas
+	- [ ] Camiseta
 - [ ] Cena: llevarla de Buga (chocolate, pan, huevos cocidos)
 - [ ] Desayuno: panadería cercana a la U
 - [ ] Almuerzo: en Buga

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO LIST.md",
+                "file": "Script pernoctada Zarzal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TO DO LIST"
+              "title": "Script pernoctada Zarzal"
+            }
+          },
+          {
+            "id": "5fd6ee52a90999b8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           },
           {
@@ -176,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,7 +220,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "demeter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,8 +241,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -327,6 +338,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -336,18 +348,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbbd60355d352109",
+  "active": "5fd6ee52a90999b8",
   "lastOpenFiles": [
-    "Pasted image 20250825141251.png",
-    "Pasted image 20250825141221.png",
     "TO DO LIST.md",
-    "Fechas importantes.md",
-    "María Del Mar Osorio.md",
-    "Andamios.md",
-    "Pasted image 20250825112644.png",
     "Script viaje en moto.md",
     "Script viaje a Zarzal.md",
     "Script pernoctada Zarzal.md",
+    "María Del Mar Osorio.md",
+    "Andamios.md",
+    "Pasted image 20250825141251.png",
+    "Pasted image 20250825141221.png",
+    "Fechas importantes.md",
+    "Pasted image 20250825112644.png",
     "MC-HT.md",
     "Asuntos MIC.md",
     "Presentación.md",
@@ -373,7 +385,6 @@
     "DerechoPeticionFalabella.jpg",
     "MDMPasaporte.png",
     "MDMRCN.png",
-    "Pasted image 20240615131152.png",
     "El libro de los estiramientos. Consigue un cuerpo totalmente flexible.pdf",
     "Templates"
   ]

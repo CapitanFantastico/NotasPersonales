@@ -27,7 +27,7 @@
 			- [ ] Hablar con Anibal
 			- [x] Planear recogida de Iván el viernes (extensión)
 			- [ ] Andiron
-			- [ ] Pasar por la planillas
+			- [x] Pasar por la planillas
 			- [ ] Conseguir conductor buseta
 			- [ ] Planear ida a la finca (Cosechar naranjas )
 			- [ ] Bodega
