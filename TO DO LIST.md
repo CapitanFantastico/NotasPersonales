@@ -44,6 +44,8 @@
 	- [x] Mercado, miércoles de plaza
 	- [ ] ---
 		- [ ] Hoy
+			- [ ] Empacar miel
+			- [ ] Probar aceite con gasolina
 			- [ ] Almuerzo
 				- [ ] Pescado
 				- [ ] Caldo costilla
@@ -55,7 +57,6 @@
 			- [ ] Andiron
 			- [ ] Conseguir conductor buseta
 			- [ ] Cosechar naranjas
-			- [ ] Empacar miel
 			- [ ] Bodega
 				- [ ] Mecha
 				- [ ] Pintar piso
