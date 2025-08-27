@@ -9,7 +9,7 @@
  
 ---
 
-- [ ] Lunes 01, 08: Zarzal 18-21 DS2Z51 BolivarS1
+- [ ] Lunes 01, 08: Zarzal 18-21 ==DS2Z51== BolivarS1
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -18,7 +18,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 12:00 Almuerzo
 
-- [ ] Martes 02, 09: DS2Z50, 08-11, BalsasS4 (Finca, pintura, cortina bodega?)
+- [ ] Martes 02, 09: ==DS2Z50==, 08-11, BalsasS4 (Finca, pintura, cortina bodega?)
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -32,21 +32,31 @@
 		- [ ] Barril
 		- [ ] Apanado
 	- [ ] 20:00 Sacar basura
+
+- [ ] Miércoles 27, 03, 10: ==DS2Y53==, 18:30 - 21:30, PAT 
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [x] Mercado, miércoles de plaza
 	- [ ] ---
 		- [ ] Hoy
-			- [x] Almuerzo
-			- [x] Averiguar andamios
-			- [x] Llevar dólares
-			- [ ] Comprar espuma
-			- [x] Retirar dinero
+			- [ ] Almuerzo
+				- [ ] Pescado
+				- [ ] Caldo costilla
+				- [ ] Arroz
+			- [ ] Averiguar andamios
+			- [ ] Comprar mecha
 			- [ ] Hablar con Anibal
-			- [x] Planear recogida de Iván el viernes (extensión)
+			- [ ] Planear recogida de Iván el viernes (extensión)
 			- [ ] Andiron
-			- [x] Pasar por la planillas
 			- [ ] Conseguir conductor buseta
-			- [ ] Planear ida a la finca (Cosechar naranjas )
+			- [ ] Cosechar naranjas
+			- [ ] Empacar miel
 			- [ ] Bodega
-				- [ ] Espuma
 				- [ ] Mecha
 				- [ ] Pintar piso
 				- [ ] Pintar tubos
@@ -69,14 +79,16 @@
 				- [ ] Piscina
 				- [ ] Resbalador de agua
 				- [ ] Columpio guadua
-			- [x] Anita declaración de renta
 			- [ ] Preparar cursos
 				- [ ] UML
 				- [ ] Git + software embebido
 				- [ ] Pruebas de software
 				- [ ] Microprocesadores
-			- [ ] Convocatoria SENA 
-				- [ ] Certificados recientes?
+			- [ ] ==Convocatoria SENA==
+				- [ ] Solicitar certificados
+				- [ ] Revisar videos
+				- [ ] Marcar ofertas
+				- [ ] Prepararme
 			- [ ] Organizar y empacar
 			- [ ] 8pm Estadio, piscina
 			- [ ] Cali
@@ -94,23 +106,18 @@
 				- [ ] Organizar espacio en disco 
 					- [ ] celular
 					- [ ] pc
-			- [ ] Empacar miel
 			- [ ] Franklin
 				- [ ] Moto fuga aceite
 			- [ ] Organizar cobros
 			- [ ] Planillas Cooperativa
-			- [ ] Documento declaración de renta
-			- [ ] Afiliación SOS
-			- [ ] Pagos
-				- [ ] Internet
-		- [ ] Plan vacaciones de la U
-			- [ ] Cronograma diario
-				- [ ] Python 60 min
-				- [ ] Entreno 120 min
-				- [ ] Finanzas 60 min
-				- [ ] Lecturas y videos de la U 60 min
-				- [ ] Especialización 120 min
-				- [ ] Convocatoria SENA 60 min
+			- [ ] Afiliación SOS?
+		- [ ] Cronograma diario
+			- [ ] Python 60 min
+			- [ ] Entreno 120 min
+			- [ ] Finanzas 60 min
+			- [ ] Lecturas y videos de la U 60 min
+			- [ ] Especialización 120 min
+			- [ ] Convocatoria SENA 60 min
 			- [ ] Estudiar Python avanzado con frameworks desarrollo web
 			- [ ] Estudiar IA
 			- [ ] Estudio formal
@@ -127,7 +134,7 @@
 			- [ ] Aceite naranja
 			- [ ] Naranja deshidratada
 			- [ ] Anibal
-		- [ ] App agrónomo
+		- [ ] App agrónomo / GPS Car
 		- [ ] Cobro Diana, Elizabeth Wilches
 		- [ ] Buga
 			- [ ] Franklin
@@ -146,11 +153,6 @@
 			- [ ] Acolilladora?
 			- [ ] Energía finca
 				- [ ] Pendiente visita con el eléctrico a las Delicias
-		- [ ] ==Convocatoria SENA==
-			- [ ] Solicitar certificados
-			- [ ] Revisar videos
-			- [ ] Marcar ofertas
-			- [ ] Prepararme
 		- [ ] Respaldar notas y documentos
 		- [ ] Extensión 220V
 		- [ ] Loncheras
@@ -160,16 +162,6 @@
 		- [ ] Cuentas préstamos
 		- [ ] Cuentas buseta
 		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
-
-- [ ] Miércoles 27, 03: DS2Y53, 18:30 - 21:30, PAT (Finca cortina, Clase remota)
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [x] Mercado, miércoles de plaza
 
 - [ ] Jueves 28, 04: MCZar (Logística Iván, soldador, recogida, extensión, Anibal, andamios)
 	- [ ] Piscina
@@ -181,7 +173,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 20:00 Sacar basura
 
-- [ ] Viernes 29, 05, MDSZ50 BalsasS3 9-12 (Iván, andamios, extensión, Anibal)
+- [ ] Viernes 29, 05, ==MDSZ50== BalsasS3 9-12 (Iván, andamios, extensión, Anibal)
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas

@@ -1,11 +1,11 @@
 
 Mi:
 - Pasar por donde Sandra 
-- Juancho: soportes canal
+- [ ] Juancho: soportes canal
 - Pasar por las niñas
-- 1K soldadura 6011 x 1/8 $18
-- 120 tornillos autoperforantes para techo de 2.1/2'' $30
-- Espuma Sikabon autoexpansiva $53
+- [x] 1K soldadura 6011 x 1/8 $18
+- [x] 120 tornillos autoperforantes para techo de 2.1/2'' $30
+- [x] Espuma Sikabon autoexpansiva $53
 	- 16 tapas para tubo de 3 x 1.1/2 (plástico) $
 	- 4 tapas para tubo cuadrado de 1.1/2'' (plástico) $
 	- 10 tapas para tubo cuadrado de 1'' (plástico) $
