@@ -1,26 +1,23 @@
 
-Ma:
-- Comprar soldadura, y espuma o mecha
-- Pasar por las niñas
-- Cargar cortina, bloques de cemento, tablas, agua, extensión.
-- Pan Anibal
-- Viajar a la finca 
-
 Mi:
-- Pintura piso mezzanine
-- Adecuar mezzanine para la dormida de Iván (acrílico, toldillo, colchón) 
-	- Taladro?
-	- Poner plástico de Juancho
-- Adecuar carpa en el primer piso para la dormida de Iván
-- Hablar con Anibal de la energía
-- 12:00 Salgo para Buga por las niñas
+- Pasar por donde Sandra 
+- Juancho: soportes canal
+- Pasar por las niñas
+- 1K soldadura 6011 x 1/8 $18
+- 120 tornillos autoperforantes para techo de 2.1/2'' $30
+- Espuma Sikabon autoexpansiva $53
+	- 16 tapas para tubo de 3 x 1.1/2 (plástico) $
+	- 4 tapas para tubo cuadrado de 1.1/2'' (plástico) $
+	- 10 tapas para tubo cuadrado de 1'' (plástico) $
 
 Ju:
-- Traer andamios
-- Comprar tablas de pino
+- Pan Anibal
+- Hablar con Anibal de la energía
+- Traer 3 andamios, 3 teleras $20
+- Cambiar tablas de pino, 11 cm de ancho $
 
 Vi:
-- 5:00 Pasar por Franklin
+- 5:00 Pasar por Franklin: Sacar soldadura, soldador y careta
 - 7:00 Salida para Zarzal (MDS)
 - Franklin pasa por Iván a Palmira (Traer extensión)
 - En Buga carga las tablas y los andamios
@@ -31,12 +28,19 @@ Sa:
 Do:
 - Ir con MIC a la finca
 
+---
+- Comprar espuma o mecha
+- Pintura piso mezzanine
+- Adecuar mezzanine para la dormida de Iván (acrílico, toldillo, colchón) 
+	- Taladro?
+	- Poner plástico de Juancho
+- Adecuar carpa en el primer piso para la dormida de Iván
 
 
 
 ---
 
-- [ ] Concretar camión - 8:00 Donde Juancho, con Franklin
+- [x] Concretar camión - 8:00 Donde Juancho, con Franklin
 - [x] Comprar material techo $3'000 - dirección Juancho - recoger el miércoles
 	- [ ] Actualizar dirección Juancho:
 	- [ ] TUBO EST.CUAD 70X70X2mmX6mst 20101 UNI 3 $147,364 $48,296 $61,410 $384,620
@@ -58,17 +62,17 @@ Do:
 	- [ ] 15 discos de corte de 4.5 pulgadas
 	- [ ] Superboard y perfiles de aluminio  x14
 	- [ ] Cemento
-- [ ] Llevar lavadora, nevera, bicicleta, closet 3:30 Fabiola
-- [ ] Llevar bloque de madera
+- [x] Llevar lavadora, nevera, bicicleta, closet 3:30 Fabiola
+- [x] Llevar bloque de madera
 - [ ] Carga
-	- [ ] Nevera
-	- [ ] Lavadora
-	- [ ] 8 tejas de 3 metros
-	- [ ] 40 flejes de 3 metros
-	- [ ] Tubos de 1x1
+	- [x] Nevera
+	- [x] Lavadora
+	- [x] 8 tejas de 3 metros
+	- [x] 40 flejes de 3 metros
+	- [x] Tubos de 1x1
 	- [ ] 1 baúl 
-	- [ ] Viga para bancas de madera
-	- [ ] Cobijas?
+	- [x] Viga para bancas de madera
+	- [x] Cobijas?
 
 
 
