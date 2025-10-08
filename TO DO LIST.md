@@ -9,7 +9,7 @@
  
 ---
 
-- [ ] Lunes 01, 08: Zarzal 18-21 ==DS2Z51== BolivarS1
+- [ ] Lunes 13, 20: Zarzal 18:00-21:00 ==DS2Z51== BolivarS1
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -18,7 +18,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 12:00 Almuerzo
 
-- [ ] Martes 02, 09: ==DS2Z50==, 08-11, BalsasS4 (Finca, pintura, cortina bodega?)
+- [ ] Martes 14, 21: ==DS2Z50==, 09:00-12:00, BalsasS4 
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -33,7 +33,7 @@
 		- [ ] Apanado
 	- [ ] 20:00 Sacar basura
 
-- [ ] Miércoles 27, 03, 10: ==DS2Y53==, 18:30 - 21:30, PAT 
+- [ ] Miércoles 08, 15: (07:00 - 09:00 ==ITY50== S102) (18:30 - 21:30 ==DS2Y53== PAT) MZSEN pm - Compra PIN SENA
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -44,35 +44,54 @@
 	- [x] Mercado, miércoles de plaza
 	- [ ] ---
 		- [ ] Hoy
-			- [ ] Empacar miel
-			- [ ] Probar aceite con gasolina
-			- [ ] Almuerzo
-				- [ ] Pescado
-				- [ ] Caldo costilla
-				- [ ] Arroz
-			- [ ] Averiguar andamios
-			- [ ] Comprar mecha
-			- [ ] Hablar con Anibal
-			- [ ] Planear recogida de Iván el viernes (extensión)
-			- [ ] Andiron
-			- [ ] Conseguir conductor buseta
-			- [ ] Cosechar naranjas
-			- [ ] Bodega
-				- [ ] Mecha
-				- [ ] Pintar piso
-				- [ ] Pintar tubos
-				- [ ] Transporte cortina bodega
-				- [ ] Ángulos y platinas de cada cortina (perforar)
+			- [ ] PIN SENA [[Convocatoria SENA 2025]] 
+			- [ ] Vuelta Juancho
+			- [ ] Se acerca la evaluación de los grupos
+				- [ ] Enviar información faltante a los grupos
+				- [ ] Enviar calificaciones sofar 
+				- [ ] Alistar programa de pantallazos Quiz
+			- [ ] Papeles moto
+			- [ ] Afiliación SOS niñas (Traslado)
+				- [ ] Cambiarme a la EPS SURA.
+				- [ ] Radicar solicitud mía ante la S.O.S 
+			- [ ] Rastrillo
+			- [ ] Complejo B
+			- [ ] Videos y fotos MDM
+			- [ ] Descargar playlist canal argentino de libros
+			- [ ] App agrónomo / GPS Car
+			- [ ] ==Convocatoria SENA== Charla virtual pendiente 
+				- [ ] Solicitar certificados
+				- [ ] Revisar videos
+				- [ ] Marcar ofertas
+				- [ ] Prepararme
+				- [ ] Pin SENA
+			- [ ] Varios
+				- [ ] Organizar espacio en disco 
+					- [ ] celular
+					- [ ] pc
+			- [ ] Tubos de PVC toldo
+			- [ ] Miel Franklin
+			- [ ] Abejas Franklin
+			- [ ] Diafragma moto
+			- [ ] Finca
+				- [ ] S-D-L
+				- [ ] Niñas
+				- [ ] Carbón
+				- [ ] Mercado?
+				- [ ] Pegar superboard
+				- [ ] Diseñar ventanas
+				- [ ] Discos y tubos sobrantes?
+				- [x] Taladro
+				- [ ] Tornillos tablado
 				- [ ] Pintar tablado
-					- [x] Tornillos x 50
-					- [x] Varniz
-				- [ ] Paredes cuarto
-					- [ ] Madera
-				- [ ] Puerta garaje
-					- [ ] Tornillos x 15
-				- [ ] Puntales o Guayas para estabilizar bodega
-				- [ ] Tapones
+				- [ ] Nivelar pisos
+				- [ ] Guadañar
 				- [ ] Agua
+				- [ ] Cortina
+				- [ ] Moto
+				- [ ] Computador
+				- [ ] Linterna y cargadores
+				- [ ] Probar aceite con gasolina para pintar madera
 				- [ ] Estantería
 				- [ ] Cocina
 				- [ ] Baño
@@ -80,38 +99,41 @@
 				- [ ] Piscina
 				- [ ] Resbalador de agua
 				- [ ] Columpio guadua
+				- [ ] Poda
+				- [ ] Cosecha de naranjas
+				- [ ] Fumigar
+				- [ ] Energía finca
+				- [ ] Puntales o Guayas para estabilizar bodega
+				- [ ] Tapones
+			- [ ] Cortar naves de superboard 
+				- [ ] Conseguir pulidora eléctrica
+				- [ ] Conseguir cable largo
+				- [ ] Mototool?
+			- [ ] Pago TC - Tuluá
+			- [ ] Andiron
+			- [ ] Hablar con el instalador de la energía Pepe - Robin
+				- [ ] Sep-09: Me avisará cuando tenga disponibilidad
+			- [ ] Revisar cámaras de la caída del parlante buseta
+			- [ ] Conseguir conductor buseta
 			- [ ] Preparar cursos
 				- [ ] UML
 				- [ ] Git + software embebido
 				- [ ] Pruebas de software
 				- [ ] Microprocesadores
-			- [ ] ==Convocatoria SENA==
-				- [ ] Solicitar certificados
-				- [ ] Revisar videos
-				- [ ] Marcar ofertas
-				- [ ] Prepararme
 			- [ ] Organizar y empacar
 			- [ ] 8pm Estadio, piscina
 			- [ ] Cali
 				- [ ] Comprar computador portátil
 				- [ ] Audífonos
 				- [ ] Proteína
-				- [ ] Proyector
+				- [ ] Proyector 400
 				- [ ] Medias
 				- [ ] Calzoncillos
-			- [x] Buscar hospedaje Zarzal (lunes)
 			- [ ] Cambio de buseta
 				- [ ] Liberación carro
 					- [ ] Casa móvil
-			- [ ] Varios
-				- [ ] Organizar espacio en disco 
-					- [ ] celular
-					- [ ] pc
-			- [ ] Franklin
-				- [ ] Moto fuga aceite
 			- [ ] Organizar cobros
 			- [ ] Planillas Cooperativa
-			- [ ] Afiliación SOS?
 		- [ ] Cronograma diario
 			- [ ] Python 60 min
 			- [ ] Entreno 120 min
@@ -127,44 +149,23 @@
 			- [ ] Bodega casa
 			- [ ] Cobros y venta de deudas
 			- [ ] Arreglar moto
-		- [ ] Descargar playlist canal argentino de libros
 		- [ ] Toldo impermeable
-		- [ ] Toldo carro, sillas
 		- [ ] Impermeabilizar traje
 		- [ ] Mercado campesino
 			- [ ] Aceite naranja
 			- [ ] Naranja deshidratada
-			- [ ] Anibal
-		- [ ] App agrónomo / GPS Car
 		- [ ] Cobro Diana, Elizabeth Wilches
-		- [ ] Buga
-			- [ ] Franklin
-				- [ ] Aceite y fuga
-				- [ ] Freno
-				- [ ] Cadena
-				- [ ] Naranjas
-				- [ ] Cocina finca
 		- [ ] Cobros y cuentas
-		- [ ] Finca
-			- [ ] Poda
-			- [ ] Cosecha de naranjas
-			- [ ] Fumigar
-			- [ ] Bodega nueva
-			- [ ] Sierra de mano para las bases (25x25x15) - Anibal
-			- [ ] Acolilladora?
-			- [ ] Energía finca
-				- [ ] Pendiente visita con el eléctrico a las Delicias
 		- [ ] Respaldar notas y documentos
 		- [ ] Extensión 220V
 		- [ ] Loncheras
 			- [ ] Chocolatinas
 			- [ ] Polen
-		- [ ] Complejo B
 		- [ ] Cuentas préstamos
 		- [ ] Cuentas buseta
 		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
 
-- [ ] Jueves 28, 04: MCZar (Logística Iván, soldador, recogida, extensión, Anibal, andamios)
+- [ ] Jueves 09, 16: MCZar, (18:30 - 20:30 ==ITY51== Auditorio) - Papeles moto
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -174,7 +175,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 20:00 Sacar basura
 
-- [ ] Viernes 29, 05, ==MDSZ50== BalsasS3 9-12 (Iván, andamios, extensión, Anibal)
+- [ ] Viernes 10, 17 - (09:00-12:00 ==MDSZ50== BalsasS3) 
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -184,7 +185,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 20:00 Sacar basura
 
-- [ ] Sábado 30, 06: MCZar 
+- [ ] Sábado 11, 18: MCZar (Finca, pernoctada)
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -196,7 +197,7 @@
 	- [ ] 17:30 Cobro Gilma 
 	- [ ] 20:00 Sacar basura
 
-- [ ] Domingo 31, 07 - Finca: tablado, naranjas, piedras, agua mangueras, estantes
+- [ ] Domingo 12, 19 - (Finca, paredes, cortina bodega, moto)
 	- [ ] Entreno
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] Piscina - Rio
