@@ -1,4 +1,9 @@
 
+
+- Compra de PIN
+- Cursos de pedagogía SENA?
+- Cursos Dintev
+
 C:\Users\Gustavo\Downloads\USB\SENA\Convocatoria202502\get-document (3).pdf
 
 ÁREA FUNCIONAL: Centro de Formación Profesional 
