@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moto Kimco.md",
+                "file": "Negocio Buseta.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Moto Kimco"
+              "title": "Negocio Buseta"
             }
           },
           {
@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "María Del Mar Osorio.md",
+                "file": "Convocatoria SENA 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -184,11 +184,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "María Del Mar Osorio"
+              "title": "Convocatoria SENA 2025"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -348,8 +348,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e11e680b3b3d1463",
+  "active": "cbbd60355d352109",
   "lastOpenFiles": [
+    "María Del Mar Osorio.md",
+    "Negocio Buseta.md",
+    "TO DO LIST.md",
+    "Traspaso vehículo.md",
+    "Moto Kimco.md",
     "Pasted image 20251009150327.png",
     "Pasted image 20251009150305.png",
     "Pasted image 20251009150035.png~RF1eb546b1.TMP",
@@ -361,15 +366,9 @@
     "Pasted image 20251009073601.png",
     "Pasted image 20251009073354.png",
     "Pasted image 20251009073209.png",
-    "Traspaso vehículo.md",
-    "Moto Kimco.md",
-    "Negocio Buseta.md",
     "Pasted image 20251008160024.png",
-    "Pasted image 20251008155907.png",
     "Asuntos Buseta.md",
-    "TO DO LIST.md",
     "Convocatoria SENA 2025.md",
-    "María Del Mar Osorio.md",
     "Ana Isabel Osorio.md",
     "Fechas importantes.md",
     "Proyecto techo finca.md",

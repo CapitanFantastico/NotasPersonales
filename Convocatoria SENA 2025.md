@@ -1,4 +1,8 @@
 
+- CNSC https://www.cnsc.gov.co/
+- https://www.cnsc.gov.co/node/50349
+	- INICIO ETAPA DE INSCRIPCIONES PROCESO DE SELECCIÓN NO. 2669 SENA 4
+- https://simo.cnsc.gov.co/
 
 - Compra de PIN
 - Cursos de pedagogía SENA?
@@ -63,3 +67,256 @@ Tarjeta profesional en los casos que la profesión esté reglamentada.
 Experiencia:
 
 Veinticuatro (24) meses de experiencia, distribuidos de la siguiente manera: Doce (12) meses de experiencia relacionada con el ejercicio de Software y Doce (12) meses estarán relacionados con experiencia docente certificada por entidades legalmente reconocidas.
+
+
+---
+---
+
+
+# Perfil de Puesto: Instructor de Software
+
+Este documento establece el perfil de puesto para el cargo de Instructor de Software, concebido como una herramienta estratégica fundamental para la alineación de nuestros procesos de atracción de talento, selección, evaluación de desempeño y desarrollo profesional. Su propósito es definir con precisión las responsabilidades, conocimientos, habilidades y competencias que son indispensables para garantizar la excelencia en la formación profesional integral que constituye el núcleo de nuestra misión institucional.
+
+--------------------------------------------------------------------------------
+
+## 1.0 Identificación del Puesto
+
+Esta sección proporciona los datos administrativos clave que sitúan el rol dentro de la estructura organizativa. La correcta identificación del puesto garantiza la claridad en la jerarquía, la clasificación del cargo y su adscripción funcional, elementos esenciales para una gestión de talento efectiva y transparente.
+
+|   |   |
+|---|---|
+|Atributo|Descripción|
+|**Denominación del Empleo**|Instructor|
+|**Nivel**|Instructor|
+|**Código**|3010|
+|**Grado**|01 – 20|
+|**Área Funcional**|Centro de Formación Profesional|
+|**Proceso**|Gestión de la Formación Profesional Integral|
+|**Red de Conocimiento**|Informática, Diseño y Desarrollo de Software|
+|**Área Temática**|Software|
+|**Número de Cargos**|6.379 (Seis mil trescientos setenta y nueve)|
+|**Dependencia**|Donde se ubique el cargo|
+|**Cargo del Jefe Inmediato**|Quien ejerza la supervisión directa|
+
+Más allá de estos datos administrativos, el siguiente apartado define la misión central que da sentido y dirección a todas las actividades del puesto.
+
+## 2.0 Propósito Principal del Cargo
+
+La declaración de propósito es el pilar estratégico del rol. Define la razón de ser del puesto y su contribución fundamental a la misión de la institución, articulando el impacto esperado en el desarrollo de competencias de nuestros aprendices.
+
+**Impartir formación profesional integral, de conformidad con los niveles de formación y modalidades de atención, políticas institucionales, la normatividad vigente y la programación de la oferta educativa.**
+
+Para cumplir con este propósito general, el instructor debe ejecutar un conjunto de actividades específicas y medibles, las cuales se detallan a continuación.
+
+## 3.0 Funciones y Responsabilidades Esenciales
+
+Las siguientes funciones y responsabilidades traducen el propósito del cargo en acciones concretas y medibles. Estas tareas constituyen el núcleo del desempeño diario del instructor y son la base para la evaluación de su contribución a los objetivos formativos de la organización.
+
+- **Planear** procesos formativos que respondan a la modalidad de atención, los niveles de formación, el programa y el perfil de los sujetos en formación de acuerdo con los lineamientos institucionales, para el área temática de Software.
+- **Participar** en la construcción del desarrollo curricular que exige el programa y el perfil de los sujetos en formación, de acuerdo con los lineamientos institucionales, para el área temática de Software.
+- **Ejecutar** los procesos de enseñanza y aprendizaje para el logro de los resultados de aprendizaje definidos en los programas de formación y de acuerdo con el desarrollo curricular relacionado con el área temática de Software.
+- **Evaluar** los aprendizajes de los sujetos en formación y los procesos formativos de acuerdo con los procedimientos y lineamientos establecidos, relacionados con los programas de formación del área temática de Software.
+- **Participar** en el diseño curricular de programas de formación profesional conforme a las necesidades regionales y los lineamientos institucionales requeridos por el área temática de Software.
+- **Participar** en proyectos de investigación aplicada técnica y/o pedagógica en función de la formación profesional en programas relacionados con el área temática de Software.
+- **Realizar** las demás funciones que le sean asignadas por autoridad competente, según el área de desempeño y la naturaleza del cargo.
+
+El cumplimiento exitoso de estas funciones no solo requiere dedicación, sino que se fundamenta en un dominio profundo de conocimientos específicos, los cuales se detallan a continuación.
+
+## 4.0 Conocimientos Esenciales
+
+El rol de Instructor de Software exige una combinación única de dominio pedagógico y pericia técnica. Para impartir una formación de alta calidad, es indispensable que el profesional posea un profundo entendimiento de los principios educativos y, al mismo tiempo, un conocimiento actualizado de las tecnologías y metodologías del desarrollo de software. Esta sección desglosa ambos dominios de conocimiento.
+
+### **4.1 Conocimientos Generales (Pedagógicos y Curriculares)**
+
+1. **Estructura del sistema educativo nacional.**
+2. **Formación profesional:** Definición institucional, fundamentos y características.
+3. **Contexto social, productivo y tecnológico para la formación profesional:** Caracterización del sector, análisis funcional, planes de desarrollo nacional, regional, territorial y sectorial.
+4. **Sujeto de formación:** Características sociales y económicas, estilos y ritmos de aprendizaje.
+5. **Interacción con el sujeto de formación:** Comunicación, asesoría, acompañamiento, mejoramiento pedagógico.
+6. **Diseño curricular:** Marco conceptual, características y tipos según niveles de formación, metodologías, procesos y procedimientos, estructura, competencias, capacidades, conocimientos, configuración de perfiles de ingreso y egreso.
+7. **Desarrollo Curricular:** Definición, características y elementos según niveles de formación, instancias, secuenciación didáctica, ordenamiento de actividades y productos.
+8. **Didácticas de la formación:** Definición, tipos y características según población sujeto, niveles de formación y modalidades de atención.
+9. **Planeación didáctica:** Lineamientos, referentes, elementos, principios, productos, condiciones (espacio educativo, número de personas, tiempos de formación, asesoría y acompañamiento); materiales y recursos didácticos (definición, características, clases, y aplicaciones).
+10. **Pedagogía para la formación profesional:** Modelo y estrategias.
+11. **Proceso de enseñanza y aprendizaje:** Características, elementos, ambiente educativo, procedimiento, instancias y contexto de la especialidad a impartir.
+12. **Manual de enseñanza y aprendizaje en la formación profesional.**
+13. **Evaluación del aprendizaje:** Definición, principios, propósitos, tipos (diagnóstica, formativa y sumativa) características (según población sujeto, modalidad de atención y nivel de formación); técnicas e instrumentos (tipos, características, procedimientos), estructura de pruebas de evaluación y bancos de preguntas; procedimiento e instancias de evaluación de aprendizaje.
+14. **Evaluación de la formación (proceso, producto e impacto):** Definición, propósito, técnicas e instrumentos.
+15. **Investigación aplicada, técnica y pedagógica:** Definición, características, tipos, metodología, métodos, técnicas y procedimientos; formulación y planteamientos de problemas.
+16. **Informática aplicada al proceso de formación profesional:** Fundamentación y operación en su desempeño laboral.
+17. **Sistema integrado de gestión para la formación profesional SENA:** Definición, componentes, relaciones, procesos, procedimientos e instrumentos, marco normativo.
+
+### **4.2 Conocimientos Específicos (Técnicos en Software)**
+
+1. **Documentación de requisitos:** Especificación de requisitos de software (SRS), técnicas de recolección de información, estándar IEEE-830.
+2. **Arquitecturas tecnológicas:** Fundamentos, componentes, tipos (web, móviles, SOA) y estándares.
+3. **Metodologías para el desarrollo de software:** RUP – SCRUM.
+4. **Lenguajes de apoyo a las metodologías de desarrollo de software (UML) y herramientas CASE.**
+5. **Herramientas y framework para gestión de proyectos informáticos:** Fundamentos de proyectos, ciclo de vida del proyecto, sistemas organizacionales, procesos de dirección de proyectos, herramientas software (Ms-Project).
+6. **Modelamiento de bases de datos relacionales:** Conceptos, notación, lenguajes de consulta, álgebra relacional, cálculo relacional.
+7. **Motores de bases de datos relacionales:** SQL Server, Oracle, MySQL, PostgreSQL.
+8. **Lenguajes de programación orientados a objetos:** .NET, Java, PHP y Lenguajes de maquetación Web.
+9. **Plataformas de desarrollo para dispositivos móviles:** Android, IOS, Windows phone.
+10. **Disciplinas de calidad para desarrollar software (PSP-TSP):** Técnicas de costeo, métodos de estimación de tamaño y tiempo para desarrollar software, funciones básicas de estadística descriptiva, estándares.
+11. **Seguridad de la información:** Estándares, controles de acceso lógico, control de cambios, copias de seguridad.
+12. **Pruebas de Software:** Pruebas unitarias, de integración, carga, estrés.
+
+La mera posesión de estos conocimientos no es suficiente; el instructor debe ser capaz de aplicarlos de manera efectiva, lo cual nos lleva a las habilidades prácticas requeridas para el puesto.
+
+## 5.0 Habilidades Requeridas
+
+Mientras que los conocimientos representan el "qué saber", las habilidades definen el "saber hacer". Esta sección detalla las capacidades aplicadas que el instructor debe demostrar en su desempeño para transformar el conocimiento teórico en experiencias de aprendizaje significativas. Son estas habilidades las que diferencian un desempeño adecuado de una mentoría excepcional.
+
+### **5.1 Habilidades Generales (Pedagógicas y Didácticas)**
+
+- Interrelacionar los elementos y referentes de la planeación pedagógica.
+- Trabajar con otros de forma conjunta y cooperativa.
+- Compartir la experticia técnica en la consecución de los objetivos del equipo.
+- Utilizar herramientas pedagógicas y didácticas que respondan a la población sujeto, modalidad de atención y nivel de formación.
+- Exponer información y conocimiento de forma clara, directa, concreta y asertiva.
+- Generar condiciones para el desarrollo de interacciones favorables para el proceso formativo en un clima de comprensión, afecto y respeto mutuo.
+- Asumir el rol de orientador y guía de un grupo o equipo de trabajo.
+- Valorar los avances y logros en el proceso formativo.
+- Retroalimentar permanentemente a otros frente a las situaciones que se presentan en el aprendizaje o en el proceso formativo y plantear alternativas.
+- Interpretar las realidades del entorno, las reflexiona, las valora y las integra en los procesos y productos de la formación.
+- Desarrollar conceptualmente ideas de manera argumentativa.
+- Aplicar herramientas metodológicas para el desarrollo de proyectos de investigación técnica y pedagógica.
+
+### **5.2 Habilidades Específicas (Técnicas)**
+
+- Gestionar requisitos para el desarrollo de software.
+- Analizar los requisitos del cliente para desarrollar software.
+- Implementar modelos de gestión de proyectos informáticos.
+- Diseñar software y bases de datos relacionales.
+- Codificar software en lenguajes de programación orientados a objetos.
+- Gestionar Bases de Datos relacionales.
+- Adoptar modelos de calidad para desarrollar software.
+- Gestionar la seguridad de la información.
+- Gestionar pruebas de software.
+- Implementar el software.
+
+Más allá de los conocimientos y habilidades, los comportamientos y actitudes son fundamentales para un desempeño superior. Las siguientes competencias clave sustentan la aplicación efectiva de todo lo anterior.
+
+## 6.0 Competencias Clave
+
+Las competencias son el ADN conductual que predice el éxito en nuestro entorno educativo. Representan los comportamientos, actitudes y atributos personales observables que diferencian un desempeño sobresaliente y están directamente alineadas con los valores y la cultura de la organización, definiendo _cómo_ el instructor logra sus resultados.
+
+### **6.1 Competencias Comportamentales Comunes**
+
+- Aprendizaje continuo
+- Orientación a resultados
+- Orientación al usuario y al ciudadano
+- Compromiso con la organización
+- Trabajo en equipo
+- Adaptación al cambio
+
+### **6.2 Competencias Comportamentales del Nivel (Instructor)**
+
+- Comunicación
+- Liderazgo
+- Vocación de servicio
+- Apropiación de valores
+
+### **6.3 Competencias Funcionales del Nivel (Instructor)**
+
+- Planeación
+- Ejecución
+- Evaluación
+- Diseño curricular
+- Desarrollo curricular
+- Investigación
+
+_Nota: Se adiciona la competencia de_ _**Coordinación académica**_ _cuando se ejerzan dichas funciones._
+
+Para ser considerado para este puesto, los candidatos deben cumplir con los siguientes requisitos formales, que validan la base de formación y experiencia necesaria para desempeñar el rol con éxito.
+
+## 7.0 Requisitos de Formación Académica y Experiencia
+
+Esta sección detalla los requisitos mínimos de cualificación que un candidato debe poseer para ser considerado elegible para el cargo de Instructor de Software. Los aspirantes deben cumplir con todos los criterios estipulados en una de las dos alternativas presentadas a continuación.
+
+### **7.1 Alternativa 1**
+
+**Estudios:**
+
+- Título de Profesional universitario en núcleos básicos de conocimiento de: Ingeniería de Sistemas, Telemática y Afines; o Educación. (Ver anexo N.B.C)
+- Tarjeta profesional en los casos que la profesión esté reglamentada.
+
+**Experiencia:** Se debe cumplir una de las siguientes dos opciones:
+
+- Veinticuatro (24) meses de experiencia, distribuidos de la siguiente manera: Doce (12) meses de experiencia relacionada con el ejercicio de Software y Doce (12) meses estarán relacionados con experiencia docente certificada por entidades legalmente reconocidas.
+- **O BIEN:** Doce (12) meses de experiencia relacionada con el ejercicio de Software y acreditar la totalidad de las catorce (14) certificaciones de la ruta formativa en “Competencias Integrales para la Cualificación del Instructor SENA”.
+
+### **7.2 Alternativa 2**
+
+**Estudios:**
+
+- Título de Tecnólogo en núcleos básicos de conocimiento de: Ingeniería de Sistemas, Telemática y Afines. Ver anexos: (N.B.C.), (TITULOS SENA)
+
+**Experiencia:** Se debe cumplir una de las siguientes dos opciones:
+
+- Treinta (30) meses de experiencia, distribuidos de la siguiente manera: Dieciocho (18) meses de experiencia relacionada con el ejercicio de Software y Doce (12) meses estarán relacionados con experiencia docente certificada por entidades legalmente reconocidas.
+- **O BIEN:** Dieciocho (18) meses de experiencia relacionada con el ejercicio de Software y acreditar la totalidad de las catorce (14) certificaciones de la ruta formativa en “Competencias Integrales para la Cualificación del Instructor SENA”.
+
+---
+---
+
+Basado en las fuentes proporcionadas y considerando su perfil como ingeniero de sistemas y profesor de cursos de desarrollo de software, a continuación, se presenta un instructivo paso a paso para participar en el Proceso de Selección No. 2669 SENA 4 en el nivel de Instructor:
+
+---
+
+## Instructivo Paso a Paso para la Postulación como Instructor SENA (Proceso 2669 SENA 4)
+
+El proceso se realiza a través del Sistema de Apoyo para la Igualdad, el Mérito y la Oportunidad (SIMO), que es el único medio autorizado para la postulación.
+
+### Fase 1: Preparación y Revisión de Requisitos
+
+1. **Revisar los Documentos Fundamentales:** Es necesario revisar el **Acuerdo No. 207 del 31 de diciembre de 2024** y el **Anexo Técnico** para asegurar el cumplimiento tanto de forma como de fondo de los requisitos de la convocatoria.
+    
+2. **Descargar Documentos:** Descargue estos documentos de la página de la Comisión Nacional del Servicio Civil (CNSC).
+    
+3. **Consultar el Manual de Funciones:** Revise el Manual de Funciones del SENA. Descargue el manual de funciones de la OPEC seleccionada, para conocer el Propósito, las funciones, y las competencias funcionales, comportamentales y comunes del cargo.
+    
+4. **Verificar Requisitos Mínimos (Perfil de Instructor en Software):** Teniendo en cuenta su profesión, revise específicamente los requisitos para la Denominación del Empleo **Instructor, Código 3010 Grado 01 – 20** en la Red de Conocimiento Informática, Diseño y Desarrollo de Software – Área Temática Software.
+    
+    - **Formación Académica:** Debe tener un **Título de Profesional universitario** en núcleos básicos de conocimiento de: **Ingeniería de Sistemas, Telemática y Afines**.
+    - **Tarjeta Profesional:** Debe acreditar la tarjeta profesional si su profesión está reglamentada.
+    - **Experiencia (Alternativa 1):** Veinticuatro (24) meses de experiencia, distribuidos de la siguiente manera:
+        - Doce (12) meses de **experiencia relacionada con el ejercicio de Software**.
+        - Doce (12) meses de **experiencia docente certificada** por entidades legalmente reconocidas.
+    - **Experiencia (Alternativa 1 Opción B):** Doce (12) meses de **experiencia relacionada con el ejercicio de Software** _y_ acreditar la totalidad de las catorce (14) certificaciones de la ruta formativa en **“Competencias Integrales para la Cualificación del Instructor SENA”**.
+    - **Conocimientos Específicos:** Como instructor del área de Software, debe poseer conocimientos técnicos específicos, como documentación de requisitos (estándar IEEE-830), arquitecturas tecnológicas, metodologías de desarrollo de software (RUP – SCRUM), lenguajes de apoyo (UML), modelamiento y motores de bases de datos relacionales (SQL Server, Oracle, MySQL, PostgreSQL), lenguajes de programación orientados a objetos, plataformas de desarrollo móvil, seguridad de la información, y pruebas de software.
+
+### Fase 2: Búsqueda y Postulación en SIMO
+
+1. **Acceso a SIMO:** Ingrese a la plataforma SIMO a través del sitio web oficial: `https://simo.cnsc.gov.co`.
+2. **Iniciar Sesión o Registrarse:** Inicie sesión con su usuario y contraseña, o cree una cuenta si aún no la tiene.
+3. **Ubicar el Proceso de Selección:** Busque el proceso de selección **"2669 SENA 4"** en la barra de búsqueda o en la sección de procesos vigentes.
+4. **Consultar la OPEC:** Acceda a la Oferta Pública de Empleo de Carrera (OPEC) del SENA para ver los empleos disponibles, incluyendo el nombre del cargo, el Código OPEC, el nivel jerárquico (Instructor) y los requisitos mínimos.
+5. **Seleccionar y Analizar Vacantes:** Analice cada vacante de interés para verificar que cumple con los requisitos exigidos. Inicie la búsqueda de acuerdo con su formación y experiencia.
+6. **Marcar como Favoritas:** Identifique las OPEC en las que podría cumplir el perfil y selecciónelas como favoritas.
+
+### Fase 3: Creación y Carga de Documentos en SIMO
+
+1. **Creación o Actualización de la Hoja de Vida:** Diligencie la hoja de vida en SIMO.
+2. **Especificaciones Técnicas de Documentos:** Los documentos de soporte deben adjuntarse cumpliendo estas especificaciones:
+    - **Formato permitido:** PDF.
+    - **Tamaño máximo por archivo:** 2MB.
+    - **Resolución recomendada:** Entre 300 y 600 dpi para garantizar la legibilidad.
+3. **Carga de Documentos de Soporte (Estudio y Experiencia):** Adjunte los siguientes documentos antes del cierre de la etapa de inscripción:
+    - Documento de identidad (cédula de ciudadanía, ampliada por ambas caras).
+    - **Diplomas y Actas de Grado** (o certificado de culminación y expedición del acta de grado si no tiene el diploma) que acrediten la formación académica mínima exigida. Para títulos de pregrado obtenidos en Colombia, deben ser expedidos por una institución educativa reconocida por el MEN.
+    - **Certificaciones laborales** que acrediten la experiencia mínima requerida.
+    - Tarjeta profesional o matrícula (si aplica).
+    - Certificaciones adicionales de educación para el trabajo, desarrollo humano, o educación informal (cursos, seminarios, diplomados). Aunque estos no son válidos para cumplir requisitos mínimos, pueden ser valorados en la Prueba de Valoración de Antecedentes si están relacionados con el empleo.
+4. **Requisitos de las Certificaciones Laborales:** Las certificaciones deben cumplir con un contenido mínimo. Para la experiencia de instrucción (la que usted posee), tenga en cuenta:
+    - Si trabajó por **contratos de prestación de servicios**, la certificación debe ser expedida por la entidad contratante e incluir información del contrato y las obligaciones ejecutadas.
+    - Una certificación de contrato de prestación de servicios que no cuente con el área temática en la cual impartió la formación (ejemplo: Agricultura, Contabilidad), solo puede ser valorada como **experiencia de instrucción**, no como experiencia técnica.
+    - Las certificaciones deben incluir las **fechas exactas de vinculación** y las **funciones específicas realizadas**.
+5. **Verificación Final de Documentos:** Verifique que cada documento esté correctamente escaneado, sea completamente **legible** y cumpla con la autenticidad (no se aceptan documentos alterados o incompletos).
+6. **Proceso de Carga en SIMO:**
+    - Ingresar a SIMO con usuario y contraseña.
+    - Ir a la sección **"Hoja de vida"** y buscar la pestaña **"Formación académica"**.
+    - Registrar el título correspondiente y **adjuntar el archivo en PDF**.
+    - Verificar que el documento subido sea legible y se encuentre correctamente cargado.
+    - Guardar los cambios y revisar que la información sea visible en el sistema.
+    - 
