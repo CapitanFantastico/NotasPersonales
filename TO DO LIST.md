@@ -44,7 +44,7 @@
 	- [x] Mercado, miércoles de plaza
 	- [ ] ---
 		- [ ] Hoy
-			- [ ] PIN SENA [[Convocatoria SENA 2025]] 
+			- [ ] PIN SENA [[Proceso de Selección No. 2669 SENA 4]] 
 			- [ ] Vuelta Juancho
 			- [ ] Se acerca la evaluación de los grupos
 				- [ ] Enviar información faltante a los grupos
