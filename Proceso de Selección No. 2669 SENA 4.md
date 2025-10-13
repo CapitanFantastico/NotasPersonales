@@ -4,7 +4,78 @@
 - CNSC https://www.cnsc.gov.co/
 - https://www.cnsc.gov.co/node/50349
 	- INICIO ETAPA DE INSCRIPCIONES PROCESO DE SELECCIÓN NO. 2669 SENA 4
-- https://simo.cnsc.gov.co/
+- https://simo.cnsc.gov.co/ `gustavosorio/******`
+	- [x] Información personal
+		- [x] Documento de identidad
+		- [x] Foto
+	- [ ] Formación
+		- [x] Acta de grado ICESI
+	- [ ] Experiencia
+		- [ ] Univalle ==Solicitar certificado== 
+			- [ ] 2025-2
+				- [ ] Yumbo
+					- [ ] DS2
+					- [ ] ITx2
+				- [ ] Zarzal
+					- [ ] DS2x2
+					- [ ] MDS (Ing. Electrónica)
+			- [ ] 2025-1
+				- [ ] Yumbo
+					- [ ] DS2
+					- [ ] BD
+				- [ ] Zarzal
+					- [ ] GPSx2
+					- [ ] FPx2 (Tecnología Agroambiental / Tecnología en mantenimiento Electrónico)
+			- [ ] 2024-2
+				- [ ] Yumbo
+					- [ ] BD
+					- [ ] DS2
+				- [ ] Zarzal
+					- [ ] DS2
+			- [ ] 2024-1
+				- [ ] Yumbo
+					- [ ] BD
+					- [ ] DS1 
+		- [ ] DANE?
+		- [ ] SBD `*` ==Referencia solicitada== 
+		- [ ] DBSystem `*` ==Referencia solicitada==
+		- [ ] Constructora Bolivar 
+		- [ ] Thomas Greg & Son
+		- [ ] Colservice
+		- [ ] BellSouth ?
+		- [ ] DeLima `*****` ==Solicitar certificado== 
+		- [ ] Jhonson & Jhonson
+		- [ ] UAN ==Solicitar certificado==
+			- [ ] 1998-2
+				- [ ] Informática Empresarial
+				- [ ] Inteligencia Artificial
+				- [ ] Robótica
+			- [ ] 1998-1
+				- [ ] Informática Empresarial
+				- [ ] Inteligencia Artificial
+				- [ ] Robótica
+			- [ ] 1997-2
+				- [ ] Informática Empresarial
+				- [ ] Inteligencia Artificial
+				- [ ] Robótica
+			- [ ] 1997-1
+				- [ ] Informática Empresarial
+				- [ ] Inteligencia Artificial
+				- [ ] Robótica 
+
+[[Procedimiento de solicitud de certificado laboral Univalle]] 
+[[Procedimiento de solicitud de certificado laboral DANE]] 
+
+| Semestre | Desde      | Hasta      | Inicio     | Fin        | Resolución | Sede   | Materias                        | HorasTotales | HorasMensuales | HorasSemanales | HorasDiarias | Valor          | Total          |
+| -------- | ---------- | ---------- | ---------- | ---------- | ---------- | ------ | ------------------------------- | ------------ | -------------- | -------------- | ------------ | -------------- | -------------- |
+| 202502   | Falta cert |            | 2025/09/4  | 2025/12/27 | 226944     | Yumbo  | 2XIT(2)                         | 68           | 16             | 4              | 0,8          | $       52.754 | $    3.587.272 |
+| 202502   | 2025/06/22 | 2025/07/5  | 2025/08/12 | 2025/12/20 | 224860     | Yumbo  | DS2(3)                          | 57           | 28             | 7              | 1,4          | $       49.303 | $    2.810.271 |
+| 202502   | Falta cert |            | 2025/08/12 | 2025/12/20 | 225045     | Zarzal | 2xDS2(3), MDS(3)                | 171          | 36             | 9              | 1,8          | $       49.303 | $    8.430.813 |
+| 202501   | 2025/02/10 | 2025/06/21 | 2025/02/10 | 2025/06/21 | 219070     | Yumbo  | BD(4), DS2(3)                   | 133          | 28             | 7              | 1,4          | $       49.303 | $    6.557.299 |
+| 202501   | 2025/02/10 | 2025/06/21 | 2025/02/10 | 2025/06/21 | 220390     | Zarzal | 2xGPS(3), FP(3), Informática(3) | 228          | 48             | 12             | 2,4          | $       49.303 | $  11.241.084  |
+| 202402   | 2024/08/12 | 2024/12/20 | 2024/08/12 | 2024/12/20 | 216142     | Yumbo  | BD(4), DS2(3)                   | 133          | 28             | 7              | 1,4          | $       49.303 | $    6.557.299 |
+| 202402   | 2024/08/12 | 2024/12/21 | 2024/08/12 | 2024/12/21 | 217401     | Zarzal | 2xDS2(3)                        | 114          | 24             | 6              | 1,2          | $       49.303 | $    5.620.542 |
+| 202401   | 2024/02/12 | 2024/06/21 | 2024/02/12 | 2024/06/21 | 213490     | Yumbo  | BD(4), DS(3)                    | 133          | 28             | 7              | 1,4          | $       44.454 | $    5.912.382 |
 
 - Compra de PIN
 - Cursos de pedagogía SENA?

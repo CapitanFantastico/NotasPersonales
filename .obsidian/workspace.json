@@ -241,7 +241,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -350,6 +351,9 @@
   },
   "active": "cbbd60355d352109",
   "lastOpenFiles": [
+    "Procedimiento de solicitud de certificado laboral DANE.md",
+    "Proceso de Selección No. 2669 SENA 4.md",
+    "Procedimiento de solicitud de certificado laboral Univalle.md",
     "María Del Mar Osorio.md",
     "Negocio Buseta.md",
     "TO DO LIST.md",
@@ -368,7 +372,6 @@
     "Pasted image 20251009073209.png",
     "Pasted image 20251008160024.png",
     "Asuntos Buseta.md",
-    "Proceso de Selección No. 2669 SENA 4.md",
     "Ana Isabel Osorio.md",
     "Fechas importantes.md",
     "Proyecto techo finca.md",
@@ -386,7 +389,6 @@
     "Planeación económica.md",
     "Planeación emocional.md",
     "Imprimir.md",
-    "Lote las Delicias.md",
     "El libro de los estiramientos. Consigue un cuerpo totalmente flexible.pdf",
     "Templates"
   ]
