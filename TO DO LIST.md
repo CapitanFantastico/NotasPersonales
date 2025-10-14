@@ -9,7 +9,7 @@
  
 ---
 
-- [ ] Lunes 13, 20: Zarzal 18:00-21:00 ==DS2Z51== BolivarS1
+- [ ] Lunes 20, 27: Zarzal 18:00-21:00 ==DS2Z51== BolivarS1
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -18,7 +18,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 12:00 Almuerzo
 
-- [ ] Martes 14, 21: ==DS2Z50==, 09:00-12:00, BalsasS4 
+- [ ] Martes 14, 21, 28: ==DS2Z50==, 09:00-12:00, BalsasS4 
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -31,21 +31,18 @@
 		- [ ] Desposte res
 		- [ ] Barril
 		- [ ] Apanado
-	- [ ] 20:00 Sacar basura
-
-- [ ] Miércoles 08, 15: (07:00 - 09:00 ==ITY50== S102) (18:30 - 21:30 ==DS2Y53== PAT) MZSEN pm - Compra PIN SENA
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [x] Mercado, miércoles de plaza
+	- [ ] 20:00 Sacar basura (pescado)
 	- [ ] ---
 		- [ ] Hoy
+			- [ ] CD's
 			- [ ] PIN SENA [[Proceso de Selección No. 2669 SENA 4]] 
-			- [ ] Vuelta Juancho
+				- [ ] Certificado DeLima
+				- [ ] Certificado SBD
+				- [ ] Certificado DB-System
+			- [ ] Evaluación IT
+			- [ ] Clase MDS
+			- [ ] Afiliación EPS
+			- [ ] Arreglar motos
 			- [ ] Se acerca la evaluación de los grupos
 				- [ ] Enviar información faltante a los grupos
 				- [ ] Enviar calificaciones sofar 
@@ -165,7 +162,17 @@
 		- [ ] Cuentas buseta
 		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
 
-- [ ] Jueves 09, 16: MCZar, (18:30 - 20:30 ==ITY51== Auditorio) - Papeles moto
+- [ ] Miércoles 15, 22: (07:00 - 09:00 ==ITY50== S102) (18:30 - 21:30 ==DS2Y53== PAT) MZSEN pm - ==Compra PIN SENA==
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [x] Mercado, miércoles de plaza
+
+- [ ] Jueves 16, 23: MCZar, (18:30 - 20:30 ==ITY51== Auditorio) - Papeles moto
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas

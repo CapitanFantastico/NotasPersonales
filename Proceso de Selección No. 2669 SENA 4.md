@@ -1,6 +1,8 @@
 
 
 
+- https://www.cnsc.gov.co/sites/default/files/2024-12/acuerdo-207-de-2024.pdf
+- https://www.cnsc.gov.co/sites/default/files/2024-12/anexo.pdf
 - CNSC https://www.cnsc.gov.co/
 - https://www.cnsc.gov.co/node/50349
 	- INICIO ETAPA DE INSCRIPCIONES PROCESO DE SELECCIÓN NO. 2669 SENA 4
@@ -80,6 +82,76 @@
 - Compra de PIN
 - Cursos de pedagogía SENA?
 - Cursos Dintev
+
+----
+Las certificaciones laborales que debe presentar como participante en el concurso son documentos oficiales que acreditan su experiencia en un cargo específico. La Comisión Nacional del Servicio Civil (CNSC) establece que estos documentos deben ser expedidos por la autoridad competente y deben cumplir con un contenido mínimo específico.
+
+A continuación, se detallan los requisitos de las certificaciones laborales según las fuentes:
+
+### I. Requisitos Generales y de Presentación en SIMO
+
+Para la postulación, debe adjuntar las certificaciones laborales que acrediten la **experiencia mínima requerida** para el empleo seleccionado.
+
+1. **Formato y Legibilidad:**
+    - El formato permitido es **PDF**.
+    - El tamaño máximo por archivo es de **2MB**.
+    - La **resolución recomendada** es entre **300 y 600 dpi** para garantizar la legibilidad.
+    - Debe verificar que cada documento esté **correctamente escaneado y sea completamente legible** antes de cargarlo en SIMO.
+    - Deben estar debidamente organizadas en **orden cronológico, de la más reciente a la más antigua**.
+2. **Plazo:** Los documentos de soporte deben adjuntarse en SIMO una vez diligenciada la hoja de vida, antes del **cierre de la etapa de inscripción**. Los documentos cargados o actualizados con posterioridad a esta fecha no serán válidos para la Verificación de Requisitos Mínimos (VRM) ni para la Prueba de Valoración de Antecedentes.
+3. **Validez:** Las certificaciones que no reúnan las condiciones señaladas **no serán tenidas como válidas** y no serán objeto de evaluación, ni podrán ser objeto de posterior complementación o corrección.
+
+### II. Autoridad Competente para la Expedición
+
+La autoridad competente para expedir la certificación varía según el tipo de empleador:
+
+|Tipo de Empleador|Autoridad Competente|
+|:--|:--|
+|**Sector Público**|El **Jefe de Talento Humano** o quien haga sus veces en la entidad pública.|
+|**Sector Privado**|El **Representante Legal** de la empresa o el área de **Gestión Humana o Recursos Humanos**.|
+|**Contratos de Prestación de Servicios**|La **entidad contratante**.|
+
+**Consideraciones sobre la firma:**
+
+- **Personas Jurídicas:** La firma debe estar acompañada de la respectiva **antefirma legible (nombre completo) y su cargo**.
+- **Personas Naturales:** Deben incluir la **firma, antefirma legible (nombre completo), número de cédula, dirección y teléfono** del empleador contratante.
+- **Empresas Liquidadas o Desaparecidas:** La experiencia se acreditará mediante una **declaración del aspirante**, que se entiende rendida bajo la gravedad del juramento.
+
+### III. Contenido Mínimo de las Certificaciones de Experiencia
+
+Todas las certificaciones de experiencia deben indicar de manera expresa, de conformidad con el Decreto 1083 de 2015:
+
+1. **Nombre o razón social** de la entidad que la expide.
+2. **Empleo o empleos desempeñados**.
+3. **Fechas de inicio y terminación** (día, mes y año) para cada empleo, **evitando el uso de la expresión "actualmente"**.
+4. **Funciones** de cada uno de los empleos desempeñados, excepto si la Constitución o la ley las establece, o si solo se exige Experiencia Laboral o Profesional.
+
+**Consideraciones Adicionales sobre Contenido:**
+
+- **Contratos de Prestación de Servicios:** Deben incluir la información del contrato y las **obligaciones contractuales cumplidas** con cada objeto contractual ejecutado.
+- **Contratos de Prestación de Servicios para Instructor:** Si la certificación de un contrato de prestación de servicios **no cuenta con el área temática** en la cual el contratista impartió la formación (ejemplo: Agricultura, Contabilidad), no podrá ser valorada como experiencia técnica, solo como experiencia de instrucción.
+- **Ejercicio Independiente o Empresas Liquidadas (Declaración del Aspirante):** La declaración debe especificar las **fechas de inicio y terminación**, el **tiempo de dedicación** (indicado en horas día laborable, no con términos como “dedicación parcial”) y las **funciones o actividades desarrolladas**.
+- **Docente de Cátedra/Tiempo Parcial:** Las certificaciones deben precisar indispensablemente la **cantidad de horas dictadas** por el aspirante en el periodo certificado, ya que, de no hacerlo, no es posible contabilizar el tiempo de experiencia en ese empleo.
+- **Jornada Inferior a 8 Horas:** Si las certificaciones indican una jornada laboral inferior a ocho (8) horas diarias, el tiempo de experiencia se establecerá **sumando las horas trabajadas y dividiendo el resultado por ocho (8)**, sin que exceda las 44 horas semanales.
+
+### IV. Certificación de Experiencia Previa (Leyes 2039 y 2043)
+
+Para la experiencia previa a la obtención del título profesional (como pasantías, prácticas, judicaturas, etc.), regulada por la Ley 2039 de 2020 y la Ley 2043 de 2020, se requiere que las actividades o labores certificadas se **relacionen directamente con el programa académico cursado**.
+
+Además de la información básica contractual, las certificaciones de Experiencia Previa deben incluir:
+
+1. **Intensidad horaria semanal**.
+2. **Hacer constar que se ha culminado el correspondiente programa académico**.
+3. **Programa de educación cursado y aprobado**, con plan de estudios, materias y contenidos (si aplica).
+4. **Competencias específicas** que se desarrollan con el programa de educación cursado y aprobado (si aplica).
+5. Para la Ley 2043, debe señalar que la práctica laboral fue hecha como **opción para adquirir el correspondiente título**.
+
+Generalmente, la entidad beneficiaria de la práctica laboral o contratante certifica los detalles de la labor, mientras que la institución educativa certifica los detalles del programa académico y su culminación.
+----
+
+
+
+
 
 C:\Users\Gustavo\Downloads\USB\SENA\Convocatoria202502\get-document (3).pdf
 
