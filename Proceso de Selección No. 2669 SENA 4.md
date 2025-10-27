@@ -464,4 +464,35 @@ El proceso se realiza a través del Sistema de Apoyo para la Igualdad, el Mérit
     - Registrar el título correspondiente y **adjuntar el archivo en PDF**.
     - Verificar que el documento subido sea legible y se encuentre correctamente cargado.
     - Guardar los cambios y revisar que la información sea visible en el sistema.
-    - 
+
+
+
+---
+---
+
+La Comisión Nacional del Servicio Civil – CNSC- informa a la ciudadanía interesada en participar en el Proceso de Selección Nro. 2669 SENA 4, que se modifica el plazo para la venta de derechos de participación e inscripciones en la **MODALIDAD ABIERTO,** así:
+
+Fecha de inicio de recaudo: **27 de octubre de 2025**
+
+Fecha de terminación de recaudo: **28 de noviembre de 2025**
+
+El pago de derechos de participación podrá realizarse en cualquiera de las Sucursales Bancarias a nivel nacional y en todos los corresponsales bancarios Bancolombia con formato de código de barras impreso o por PSE Línea Virtual – SIMO 4.0.
+
+Para consultar el punto de pago más cercano, podrá acceder a través del siguiente enlace: [_https://www.bancolombia.com/puntos-de-atencion/buscar-en-mapa_](https://www.bancolombia.com/puntos-de-atencion/buscar-en-mapa)
+
+Se recuerda que el valor de los derechos de participación en los procesos de selección para el año **2025**, es el siguiente:
+
+|   |   |
+|---|---|
+|**NIVEL**|**VALOR**|
+|Asesor, Profesional e Instructor|$                71.200|
+|Técnico y Asistencial|$                47.450|
+
+Para el proceso de inscripción tenga en cuenta las siguientes recomendaciones:
+
+- Consulte el Acuerdo del Proceso de Selección, su Anexo y sus modificatorios.
+- Elija cuidadosamente el empleo en el cual cumpla los requisitos mínimos, pues una vez confirmada su inscripción, no hay lugar a cambios.
+- Únicamente podrá inscribirse a un (1) empleo de los ofertados en el Proceso de Selección, en la modalidad de  Abierto, por lo tanto, es su deber verificar que cumple con los requisitos del empleo seleccionado antes de realizar el pago.
+- Si se inscribió a un empleo en Modalidad de Ascenso en el presente proceso de selección, NO podrá inscribirse a un empleo en modalidad Abierto.
+- Tenga en cuenta que además de realizar el pago de los derechos de participación, deberá formalizar su inscripción a través del aplicativo SIMO. 
+- Recuerde actualizar la documentación con que va a participar en el proceso de selección, en caso de que a ello haya lugar, antes del cierre de las inscripciones y/o antes de formalizar su inscripción
