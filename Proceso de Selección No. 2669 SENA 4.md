@@ -1,5 +1,20 @@
 
 
+- Declaración extrajuicio
+
+Fechas:
+- 28-nov Cierre de inscripciones
+- Plazo compra pin
+
+Número OPEC: 229325
+
+==**Recuerde:** Por favor verifique los siguientes documentos registrados en cada una de las secciones, ya que con los mismos usted participará en éste empleo y no podrá ser modificado posteriormente a la inscripción.==
+
+ Nivel: Instructor  Denominación: INSTRUCTOR  Grado: 1  Código: 0  Número OPEC: 229325  Asignación salarial: $4065092  Vigencia salarial: 2024  SERVICIO NACIONAL DE APRENDIZAJE- SENA 2024. ABIERTO.  Cierre de inscripciones: 2025-11-28
+
+ Total de vacantes del empleo: 37  [Manual de Funciones](https://simo.cnsc.gov.co/documents/get-document?docId=857954702&contentType=application/pdf)
+
+
 
 - https://www.cnsc.gov.co/sites/default/files/2024-12/acuerdo-207-de-2024.pdf
 - https://www.cnsc.gov.co/sites/default/files/2024-12/anexo.pdf

@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planeación.md",
+                "file": "TO DO LIST.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -136,7 +136,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Planeación"
+              "title": "TO DO LIST"
             }
           },
           {
@@ -188,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -349,13 +349,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbbd60355d352109",
+  "active": "b32f9dbf1a2a3741",
   "lastOpenFiles": [
-    "TO DO LIST.md",
     "Proceso de Selección No. 2669 SENA 4.md",
+    "TO DO LIST.md",
+    "Planeación.md",
+    "Untitled 2.md",
+    "María Del Mar Osorio.md",
     "Procedimiento de solicitud de certificado laboral DANE.md",
     "Procedimiento de solicitud de certificado laboral Univalle.md",
-    "María Del Mar Osorio.md",
     "Negocio Buseta.md",
     "Traspaso vehículo.md",
     "Moto Kimco.md",
@@ -382,8 +384,6 @@
     "MC-HT.md",
     "Asuntos MIC.md",
     "Presentación.md",
-    "Untitled 2.md",
-    "Planeación.md",
     "Martha Isabel Cadena.md",
     "Proyecto Bodega.md",
     "Planeación económica.md",

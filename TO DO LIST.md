@@ -9,7 +9,7 @@
  
 ---
 
-- [ ] Lunes 20, 27: Zarzal 18:00-21:00 ==DS2Z51== BolivarS1
+- [ ] Lunes 3, 10: Zarzal 18:00-21:00 ==DS2Z51== BolivarS1
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -18,7 +18,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 12:00 Almuerzo
 
-- [ ] Martes 21, 28: ==DS2Z50==, 09:00-12:00, BalsasS4 
+- [ ] Martes 4, 11: ==DS2Z50==, 09:00-12:00, BalsasS4 
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -33,7 +33,7 @@
 		- [ ] Apanado
 	- [ ] 20:00 Sacar basura (pescado)
 
-- [ ] Miércoles 22, 29: (07:00 - 09:00 ==ITY50== S102) (18:30 - 21:30 ==DS2Y53== PAT) MZSEN pm - ==Compra PIN SENA==
+- [ ] Miércoles 5, 12: (07:00 - 09:00 ==ITY50== S102) (18:30 - 21:30 ==DS2Y53== PAT) MZSEN pm - MicOut
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -43,7 +43,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [x] Mercado, miércoles de plaza
 
-- [ ] Jueves 23, 30: MCZar, (18:30 - 20:30 ==ITY51== Auditorio) - ==Comprar PIN SENA==
+- [ ] Jueves 30, 6, 13: MCZar, (18:30 - 20:30 ==ITY51== Auditorio) - MicOut
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -51,43 +51,23 @@
 	- [ ] 16:00 Comida niñas
 	- [ ] 19:00 Pasar por las niñas
 	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] 20:00 Sacar basura
-
-- [ ] Viernes 24, 31 - (09:00-12:00 ==MDSZ50== BalsasS3) 
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] 20:00 Sacar basura
-
-- [ ] Sábado 18, 25: MCZar (Finca, pernoctada)
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] 20:00 Sacar basura
-	- [ ] 14:00 Piscina Comfenalco clases de natación gomelitas
-	- [ ] 17:30 Cobro Gilma 
 	- [ ] 20:00 Sacar basura
 	- [ ] ---
 		- [ ] Hoy
-			- [ ] Tel
+			- [ ] Revtel
 			- [ ] Antimicótico
-			- [ ] Auxilio estudio niñas Cooperativa
 			- [ ] 16-oct Comprar PIN SENA [[Proceso de Selección No. 2669 SENA 4]] 
-				- [ ] Certificado DeLima
-				- [ ] Certificado SBD
-				- [ ] Certificado DB-System
+				- [x] Certificado DeLima
+				- [ ] Certificado SBD (pendiente)
+				- [x] Certificado DB-System
+				- [ ] Certificado BellSouth - Declaración extrajuicio
+				- [x] Certificado UAN
+				- [ ] Certificado docente 2025-2 pendiente
 			- [ ] Afiliación EPS
 			- [ ] Arreglar motos
 			- [ ] Se acerca la evaluación de los grupos
-				- [ ] Enviar información faltante a los grupos
-				- [ ] Enviar calificaciones sofar 
+				- [x] Enviar información faltante a los grupos
+				- [x] Enviar calificaciones sofar 
 				- [ ] Alistar programa de pantallazos Quiz
 			- [ ] Rastrillo
 			- [ ] Complejo B
@@ -200,7 +180,29 @@
 		- [ ] Cuentas buseta
 		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
 
-- [ ] Domingo 19, 26 - (Finca, paredes, cortina bodega, moto)
+- [ ] Viernes 31, 7, 14 - (09:00-12:00 ==MDSZ50== BalsasS3) - MicOut
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 20:00 Sacar basura
+
+- [ ] Sábado 1, 8, 15: MCZar (Finca, pernoctada)
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 20:00 Sacar basura
+	- [ ] 14:00 Piscina Comfenalco clases de natación gomelitas
+	- [ ] 17:30 Cobro Gilma 
+	- [ ] 20:00 Sacar basura
+
+- [ ] Domingo 2, 9, 16 - (Finca, paredes, cortina bodega, moto)
 	- [ ] Entreno
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] Piscina - Rio
