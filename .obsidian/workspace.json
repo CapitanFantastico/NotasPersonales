@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO DO LIST.md",
+                "file": "María Salome Osorio.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -136,7 +136,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TO DO LIST"
+              "title": "María Salome Osorio"
             }
           },
           {
@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Proceso de Selección No. 2669 SENA 4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -160,7 +160,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "Proceso de Selección No. 2669 SENA 4"
+            }
+          },
+          {
+            "id": "7c58083db55a4724",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           },
           {
@@ -186,9 +198,33 @@
               "icon": "lucide-file",
               "title": "María Del Mar Osorio"
             }
+          },
+          {
+            "id": "b6dfc098bea00631",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IA para niños.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "IA para niños"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -241,8 +277,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -349,15 +384,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b32f9dbf1a2a3741",
+  "active": "7c58083db55a4724",
   "lastOpenFiles": [
-    "Proceso de Selección No. 2669 SENA 4.md",
-    "TO DO LIST.md",
-    "Planeación.md",
-    "Untitled 2.md",
+    "IA para niños.md",
     "María Del Mar Osorio.md",
+    "Proceso de Selección No. 2669 SENA 4.md",
+    "Fechas importantes.md",
+    "TO DO LIST.md",
+    "Untitled 2.md",
     "Procedimiento de solicitud de certificado laboral DANE.md",
     "Procedimiento de solicitud de certificado laboral Univalle.md",
+    "Declaración extrajuicio BellSouth.md",
+    "Imprimir.md",
+    "María Salome Osorio.md",
+    "Planeación.md",
     "Negocio Buseta.md",
     "Traspaso vehículo.md",
     "Moto Kimco.md",
@@ -375,7 +415,6 @@
     "Pasted image 20251008160024.png",
     "Asuntos Buseta.md",
     "Ana Isabel Osorio.md",
-    "Fechas importantes.md",
     "Proyecto techo finca.md",
     "Script pernoctada Zarzal.md",
     "Script viaje en moto.md",
@@ -385,10 +424,6 @@
     "Asuntos MIC.md",
     "Presentación.md",
     "Martha Isabel Cadena.md",
-    "Proyecto Bodega.md",
-    "Planeación económica.md",
-    "Planeación emocional.md",
-    "Imprimir.md",
     "El libro de los estiramientos. Consigue un cuerpo totalmente flexible.pdf",
     "Templates"
   ]

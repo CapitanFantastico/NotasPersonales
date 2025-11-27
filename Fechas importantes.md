@@ -27,7 +27,7 @@ Vencidos
 	* [ ] [[Martha Isabel Cadena]] 
 ---
 
-- [ ] 16-Feb Copia diploma - Tarjeta profesional
+- [x] 16-Feb Copia diploma - Tarjeta profesional
 ---
 - [ ] 01-Jul Rm-Consignación cuota alimentaria $315.000
 - [ ] Ry-Impuestos buseta
@@ -37,21 +37,21 @@ Vencidos
 - [ ] 15-Jul Rm-Pago celular GAO 10084025741 $?
 - [ ] 15-Jul Rm-Pago Coomeva $200 ($105?)
 * [ ] 19-Jul Rm-Recoger planilla cooperativa / cuentas buseta
-* [ ] 28-Jul Rm-Pago energía
+* [x] 28-Jul Rm-Pago energía
 ---
-* [ ] 05-Ago Rm-Pago PILA  $354.00
-* [ ] 08-Ago Ry-Declaración de renta
-- [ ] 30-Ago Ry-RTM buseta de c/año $300.000
-- [ ] 31-Ago Ry-SOAT buseta de c/año $1.400.000
+* [x] 05-Ago Rm-Pago PILA  $354.00
+* [x] 08-Ago Ry-Declaración de renta
+- [x] 30-Ago Ry-RTM buseta de c/año $300.000
+- [x] 31-Ago Ry-SOAT buseta de c/año $1.400.000
 ---
-- [ ] 01-Sep Ry-Recargar extinguidor carro Suzuki
-* [ ] 09-Sep Ry-Cumple [[Thiago Valencia]] 
+- [x] 01-Sep Ry-Recargar extinguidor carro Suzuki
+* [x] 09-Sep Ry-Cumple [[Thiago Valencia]] 
 ---
 - [ ] 26-Oct/22 Ry-Células madre MDM  de c/año
-* [ ] 26-Oct/2011 Ry-Cumple MDM 
+* [x] 26-Oct/2011 Ry-Cumple MDM 
 ---
-* [ ] 16-Nov/79 Ry-Cumple [[Martha Isabel Cadena]] 
-* [ ] 22-Nov/92 Ry-Cumple [[Karen Julieth Osorio]] 
+* [x] 16-Nov/79 Ry-Cumple [[Martha Isabel Cadena]] 
+* [x] 22-Nov/92 Ry-Cumple [[Karen Julieth Osorio]] 
 ---
 * [ ] 21-Dic Ry-Cumple [[Marisol Daza]]
 ---

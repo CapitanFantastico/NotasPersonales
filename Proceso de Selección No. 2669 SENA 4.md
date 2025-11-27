@@ -511,3 +511,14 @@ Para el proceso de inscripción tenga en cuenta las siguientes recomendaciones:
 - Si se inscribió a un empleo en Modalidad de Ascenso en el presente proceso de selección, NO podrá inscribirse a un empleo en modalidad Abierto.
 - Tenga en cuenta que además de realizar el pago de los derechos de participación, deberá formalizar su inscripción a través del aplicativo SIMO. 
 - Recuerde actualizar la documentación con que va a participar en el proceso de selección, en caso de que a ello haya lugar, antes del cierre de las inscripciones y/o antes de formalizar su inscripción
+
+
+---
+Apuntes
+
+- ADMINISTRADOR DEl SISTEMA, 27/06/1994 / 31/05/1996
+- ADMINISTRADOR DE BASES DE DATOS, 1/06/1996 / 2/05/1997
+- DESARROLLADOR DE SOFTWARE, 3/05/1997 / 31/01/2000
+- DIRECTOR DE OPERACIONES INFORMATICA, , 1/02/2000 / 31/05/2000
+- GERENTE AREA II, 01/06/2000 / 08/07/2001
+
