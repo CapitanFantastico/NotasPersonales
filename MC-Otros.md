@@ -1351,3 +1351,42 @@ Si tienes el respaldo del chat en tu teléfono:
 
 
 Discimula
+
+---
+---
+
+8-dic/2025
+Se ríe cuando se acuerda que un compañero del SENA le dice que está separado y sale con una estudiante que se deja hacer lo que sea, y tambien se lo pidió la psicóloga.  Dice que es joven y bonito de cara, aunque de cuerpo nada que ver.
+
+Ojos de lulo es bajito y barrigón, tengo entendido que está separado, aunque no parece muy jóven.  Validar si es él.
+
+Lo toma del brazo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

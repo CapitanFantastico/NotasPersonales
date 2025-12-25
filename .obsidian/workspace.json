@@ -140,12 +140,12 @@
             }
           },
           {
-            "id": "49e857fc67d82268",
+            "id": "7c58083db55a4724",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proceso de Selección No. 2669 SENA 4.md",
+                "file": "TO DO LIST.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -160,19 +160,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Proceso de Selección No. 2669 SENA 4"
-            }
-          },
-          {
-            "id": "7c58083db55a4724",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "title": "TO DO LIST"
             }
           },
           {
@@ -222,9 +210,33 @@
               "icon": "lucide-file",
               "title": "IA para niños"
             }
+          },
+          {
+            "id": "7b515f4aa1addbe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan Walkiria.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Plan Walkiria"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -384,19 +396,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c58083db55a4724",
+  "active": "7b515f4aa1addbe7",
   "lastOpenFiles": [
+    "Plan Walkiria.md",
+    "TO DO LIST.md",
+    "Notas MIC.md",
+    "Maya.md",
+    "Asuntos MIC.md",
+    "Imprimir.md",
+    "MC-Otros.md",
+    "SENA Temas de estudio.md",
+    "Proceso de Selección No. 2669 SENA 4.md",
+    "María Salome Osorio.md",
     "IA para niños.md",
     "María Del Mar Osorio.md",
-    "Proceso de Selección No. 2669 SENA 4.md",
     "Fechas importantes.md",
-    "TO DO LIST.md",
     "Untitled 2.md",
     "Procedimiento de solicitud de certificado laboral DANE.md",
     "Procedimiento de solicitud de certificado laboral Univalle.md",
     "Declaración extrajuicio BellSouth.md",
-    "Imprimir.md",
-    "María Salome Osorio.md",
     "Planeación.md",
     "Negocio Buseta.md",
     "Traspaso vehículo.md",
@@ -418,12 +436,6 @@
     "Proyecto techo finca.md",
     "Script pernoctada Zarzal.md",
     "Script viaje en moto.md",
-    "Script viaje a Zarzal.md",
-    "Andamios.md",
-    "MC-HT.md",
-    "Asuntos MIC.md",
-    "Presentación.md",
-    "Martha Isabel Cadena.md",
     "El libro de los estiramientos. Consigue un cuerpo totalmente flexible.pdf",
     "Templates"
   ]

@@ -9,7 +9,7 @@
  
 ---
 
-- [ ] Lunes 24, 01 : Zarzal 18:00-21:00 ==DS2Z51== BolivarS1
+- [ ] Lunes 22: 
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -18,7 +18,7 @@
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] 12:00 Almuerzo
 
-- [ ] Martes 25, 02: ==DS2Z50==, 09:00-12:00, BalsasS4 
+- [ ] Martes 23:
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
 	- [ ] 15:30 Pasar por las niñas
@@ -33,7 +33,7 @@
 		- [ ] Apanado
 	- [ ] 20:00 Sacar basura
 
-- [ ] Miércoles 26, 03: (07:00 - 09:00 ==ITY50== S102) (18:30 - 21:30 ==DS2Y53== PAT) MZSEN pm - ==Finca?==
+- [ ] Miércoles 17: MZSEN pm - ==Finca==
 	- [ ] Piscina
 	- [ ] Entreno
 	- [ ] 07:30 Llevar a las niñas
@@ -42,59 +42,11 @@
 	- [ ] 19:00 Pasar por las niñas
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [x] Mercado, miércoles de plaza
-
-- [ ] Jueves 27, 04: MCZar, (18:30 - 20:30 ==ITY51== Auditorio) 
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] 20:00 Sacar basura
-
-- [ ] Viernes 28, 05 - (09:00-12:00 ==MDSZ50== BalsasS3)
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 15:30 Pasar por las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] 20:00 Sacar basura
-
-- [ ] Sábado 29, 06: MCZar (Finca, pernoctada)
-	- [ ] Piscina
-	- [ ] Entreno
-	- [ ] 07:30 Llevar a las niñas
-	- [ ] 16:00 Comida niñas
-	- [ ] 19:00 Pasar por las niñas
-	- [x] Vale Cooperativa $500 y cuentas conductor
-	- [ ] 20:00 Sacar basura
-	- [ ] 14:00 Piscina Comfenalco clases de natación gomelitas
-	- [ ] 17:30 Cobro Gilma 
-	- [ ] 20:00 Sacar basura
 	- [ ] ---
 		- [ ] Hoy
-			- [ ] Revisar quiz IT
 			- [ ] Pago TC
 			- [ ] Cascos moto
-			- [ ] Disfraz niñas
-			- [ ] Compartir calificaciones
-			- [ ] Registrar experiencias SENA
-			- [ ] 16-oct Comprar PIN SENA [[Proceso de Selección No. 2669 SENA 4]] 
-				- [x] Certificado DeLima
-				- [ ] Certificado SBD (pendiente)
-				- [x] Certificado DB-System
-				- [ ] Certificado BellSouth - Declaración extrajuicio
-				- [x] Certificado UAN
-				- [ ] Certificado docente 2025-2 pendiente
-			- [ ] ==Convocatoria SENA== Charla virtual pendiente 
-				- [ ] Solicitar certificados
-				- [ ] Revisar videos
-				- [ ] Marcar ofertas
-				- [ ] Prepararme
-				- [ ] Pin SENA
+			- [ ] [[Proceso de Selección No. 2669 SENA 4]] 
 			- [ ] Afiliación EPS
 			- [ ] Arreglar motos
 			- [ ] Rastrillo
@@ -141,15 +93,9 @@
 				- [ ] Energía finca
 				- [ ] Puntales o Guayas para estabilizar bodega
 				- [ ] Tapones
-			- [ ] Cortar naves de superboard 
-				- [x] Conseguir pulidora inalámbrica
-				- [ ] Conseguir cable largo
-				- [ ] Mototool?
-			- [ ] Pago TC - Tuluá
 			- [ ] Andiron
 			- [ ] Hablar con el instalador de la energía Pepe - Robin
 				- [ ] Sep-09: Me avisará cuando tenga disponibilidad
-			- [ ] Revisar cámaras de la caída del parlante buseta
 			- [ ] Conseguir conductor buseta
 			- [ ] Preparar cursos
 				- [ ] UML
@@ -160,11 +106,7 @@
 			- [ ] 8pm Estadio, piscina
 			- [ ] Cali
 				- [ ] Comprar computador portátil
-				- [ ] Audífonos
 				- [ ] Proteína
-				- [ ] Proyector 400
-				- [ ] Medias
-				- [ ] Calzoncillos
 			- [ ] Cambio de buseta
 				- [ ] Liberación carro
 					- [ ] Casa móvil
@@ -202,8 +144,39 @@
 		- [ ] Averiguar sobre credenciales Univalle por desarrollo de software
 
 
+- [ ] Jueves 18: ==Sustentaciones con Galeano==
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 20:00 Sacar basura
 
-- [ ] Domingo 23, 30,  - (Finca, paredes, cortina bodega, moto)
+- [ ] Viernes 19:
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 15:30 Pasar por las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 20:00 Sacar basura
+
+- [ ] Sábado 20: Finca, pernoctada
+	- [ ] Piscina
+	- [ ] Entreno
+	- [ ] 07:30 Llevar a las niñas
+	- [ ] 16:00 Comida niñas
+	- [ ] 19:00 Pasar por las niñas
+	- [x] Vale Cooperativa $500 y cuentas conductor
+	- [ ] 20:00 Sacar basura
+	- [ ] 14:00 Piscina Comfenalco clases de natación gomelitas
+	- [ ] 17:30 Cobro Gilma 
+	- [ ] 20:00 Sacar basura
+
+- [ ] Domingo 21: (Finca, paredes, cortina bodega, moto)
 	- [ ] Entreno
 	- [x] Vale Cooperativa $500 y cuentas conductor
 	- [ ] Piscina - Rio

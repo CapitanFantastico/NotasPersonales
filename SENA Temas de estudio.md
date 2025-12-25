@@ -1,3 +1,20 @@
+
+Debo prepararme para un concurso público de empleo en el SENA (Servicio Nacional de Aprendizaje) de Colombia.  Dados los siguientes temas, prepara todo el material necesario que me sirva para estudiar y aprobar todas las pruebas:
+
+- https://www.facebook.com/share/1Dj6TwWxMj/ Pruebas que se realizarán durante el proceso
+- Construcción política
+- Reglamento aprendiz
+- Misión y visión del SENA
+- Proyecto pedagógico
+- Técnicas didácticas activas
+
+
+¡Excelente iniciativa! Prepararse con antelación y de forma estructurada es la clave para el éxito en el concurso.
+
+A continuación, he recopilado y organizado el material de estudio esencial para cada uno de los temas solicitados.
+
+---
+
 ## Plan de estudio para la convocatoria pública de empleo 2669 SENA 4
 ## 1. Pruebas del Concurso Público de Empleo SENA
 
@@ -143,4 +160,5 @@ En su material de estudio, debe profundizar en estas metodologías, ya que son e
     
 
 **Consejo de Estudio:** Para cada tema, intente relacionar cómo la teoría se aplica en el día a día de un funcionario del SENA, especialmente en el rol de **Instructor** o **Profesional** de la entidad.
+
 
